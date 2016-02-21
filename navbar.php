@@ -1,7 +1,7 @@
 <?php
 function gen_active_menu($pid){
   ?>
-  <li<?php echo $pid=="home"? ' class="active"':''?>><a href="#">Home</a></li>
+  <li<?php echo $pid=="home"? ' class="active"':''?>><a href="index.php">Home</a></li>
   <li<?php echo $pid=="signup"? ' class="active"':''?>><a href="#">Signup</a></li>
   <li<?php echo $pid=="schedule"? ' class="active"':''?>><a href="#">Schedule</a></li>
   <li<?php echo $pid=="summercamps"? ' class="active"':''?>><a href="#">SummerCamps</a></li>

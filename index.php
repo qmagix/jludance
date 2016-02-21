@@ -25,17 +25,18 @@ include("carousel.php");
   <div class="row">
     <div class="col-sm-4">
       <img src="images/content/photo1.gif" class="img-responsive" style="width:100%" alt="Image">
-      <p>Ethnic</p>
+      
     </div>
     <div class="col-sm-4">
       <img src="images/content/photo4.jpg" class="img-responsive" style="width:100%" alt="Image">
-      <p>Modern</p>
+      
     </div>
     <div class="col-sm-4">
       <img src="images/content/photo3.jpg" class="img-responsive" style="width:100%" alt="Image">
-      <p>Lyrical</p>
+      
     </div>
   </div>
+    <br>
   <div class="row">
     <div class="col-sm-12">
       <div class="well">
@@ -53,17 +54,18 @@ include("carousel.php");
   <div class="row">
     <div class="col-sm-4">
       <img src="images/content/photo5.JPG" class="img-responsive" style="width:100%" alt="Image">
-      <p>Jazz</p>
+      
     </div>
     <div class="col-sm-4">
       <img src="images/content/photo7.JPG" class="img-responsive" style="width:100%" alt="Image">
-      <p>Hiphop</p>
+      
     </div>
     <div class="col-sm-4">
       <img src="images/content/photo6.JPG" class="img-responsive" style="width:100%" alt="Image">
-      <p>Flamenco</p>
+      
     </div>
   </div>
+
   <div class="row">
     <div class="col-sm-4">
       <div class="well">

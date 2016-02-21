@@ -66,7 +66,7 @@ include("carousel.php");
     </div>
   </div>
 
-  <div class="row">
+  <div  id="schedule" class="row">
     <div class="col-sm-4">
       <div class="well">
        <p><em>Exercise</em></p>

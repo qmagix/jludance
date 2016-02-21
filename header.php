@@ -32,7 +32,7 @@
       width: 100%; /* Set width to 100% */
       margin: auto;
       min-height:200px;
-      max-height: 500px;
+      max-height: 800px;
   }
 
   /* Hide the carousel text when the screen is less than 600 pixels wide */

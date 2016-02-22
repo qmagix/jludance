@@ -3,11 +3,11 @@ function gen_active_menu($pid){
   ?>
   <li<?php echo $pid=="home"? ' class="active"':''?>><a href="index.php">Home</a></li>
   <li<?php echo $pid=="signup"? ' class="active"':''?>><a href="index.php?a=signup">Signup</a></li>
-  <li<?php echo $pid=="schedule"? ' class="active"':''?>><a href="#schedule">Schedule</a></li>
+  <li<?php echo $pid=="schedule"? ' class="active"':''?>><a href="index.php#schedule">Schedule</a></li>
   <li<?php echo $pid=="summercamps"? ' class="active"':''?>><a href="#">SummerCamps</a></li>
   <li<?php echo $pid=="gallery"? ' class="active"':''?>><a href="#">Gallery</a></li>
-  <li<?php echo $pid=="news"? ' class="active"':''?>><a href="#news">News</a></li>
-  <li<?php echo $pid=="about"? ' class="active"':''?>><a href="#">About</a></li>
+  <li<?php echo $pid=="news"? ' class="active"':''?>><a href="index.php#news">News</a></li>
+  <li<?php echo $pid=="about"? ' class="active"':''?>><a href="index.php#about">About</a></li>
 <?php
 }
 ?>

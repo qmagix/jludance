@@ -1,10 +1,20 @@
 <?php
+session_start();
 include("header.php");
+$a=$_GET["a"];
 $page_id="home";
 include("navbar.php");
 
-$a=$_GET["a"];
 switch($a){
+	case "signup":
+		include("signup.php");
+		break;
+	case "signup_kids":
+		include("signup_kids.php");
+		break;
+	case "signup_adults":
+		include("signup_adults.php");
+		break;
 	case "about":
 	 include("about.inc");
 	 break;
@@ -36,15 +46,9 @@ switch($a){
 	case "adults":
 	 include("adults.php");
 	 break;
-	case "signup":
-	 include("signup.php");
-	 break;
 	case "ljq":
 	 include("lujiaqing.htm");
 	 break;
-	 //case "concert":
-	 //	 include("concert.htm");
-	 //	 break;
 	case "summercamp":
 	 include("summercamp.php");
 	 break;

@@ -2,7 +2,7 @@
 
 ?>
 <div class="container text-center">
-  <h3>Jun Lu Performing Arts Academy</h3><br>
+  <h3 id="about">Jun Lu Performing Arts Academy</h3><br>
   <div class="row">
     <div class="col-sm-12">
       <div class="well">
@@ -139,11 +139,11 @@
   </div>  
   <div class="row">
     <div class="col-sm-6">
-     <p><a href="signup/signup_kids.php" class="btn btn-info btn-lg active" role="button">Signup Kids' Class</a></p>
+     <p><a href="index.php?a=signup_kids" class="btn btn-info btn-lg active" role="button">Signup Kids' Class</a></p>
       <img src="images/content/photo1.gif" class="img-responsive" style="width:100%" alt="Image">
     </div>
     <div class="col-sm-6">
-      <p><a href="signup/signup_adults.php" class="btn btn-info btn-lg active" role="button">Signup Adults' Class</a></p>
+      <p><a href="index.php?a=signup_adults" class="btn btn-info btn-lg active" role="button">Signup Adults' Class</a></p>
       <img src="images/content/photo15.jpg" class="img-responsive" style="width:100%" alt="Image">
     </div>
   </div>

@@ -13,6 +13,7 @@ srand((double)microtime()*1000000);
 
 if(!empty($_SESSION["secret_post_code"])){
 }else{
+	
 		$_SESSION["secret_post_code"]=rand(0,100000);
 }
 
@@ -28,7 +29,7 @@ if(!empty($_SESSION["secret_post_code"])){
     if (!isset($_POST['submit']))
     {
      print "<h2> Children's dance & music class sign up </h2>";
-     print "<form method='post' action='signup_kids.php' name='form'>";
+     print "<form method='post' action='index.php?a=signup_kids' name='form'>";
      print "<b>Name :</b> <input type='text' name='name' size='40'> ";
      print "<b>Age  :</b> <input type='text' name='age' size='10'><br>";
      print "<b>Guardian name :</b> <input type='text' name='guardian' size='40'> <br>";
@@ -51,6 +52,7 @@ print "<input type='submit' name='submit' value='submit'>";
   else if (isset($_POST['submit']))
   {
  $scode=$_POST['secretcode'];
+ 
 	if($scode!=$_SESSION["secret_post_code"]){
        unset($_SESSION["secret_post_code"]);
        die("bad visual code, please go back and re-enter the correct number. Sorry for inconvenience. We do get quite a bit spam so have to do this.");

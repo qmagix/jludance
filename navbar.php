@@ -6,7 +6,7 @@ function gen_active_menu($pid){
   <li<?php echo $pid=="schedule"? ' class="active"':''?>><a href="#schedule">Schedule</a></li>
   <li<?php echo $pid=="summercamps"? ' class="active"':''?>><a href="#">SummerCamps</a></li>
   <li<?php echo $pid=="gallery"? ' class="active"':''?>><a href="#">Gallery</a></li>
-  <li<?php echo $pid=="news"? ' class="active"':''?>><a href="#">News</a></li>
+  <li<?php echo $pid=="news"? ' class="active"':''?>><a href="#news">News</a></li>
   <li<?php echo $pid=="about"? ' class="active"':''?>><a href="#">About</a></li>
 <?php
 }

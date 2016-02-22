@@ -22,9 +22,9 @@ include("carousel.php");
       </div>
     </div>
   </div>
-  <div class="row">
+  <div id="news" class="row">
     <div class="col-sm-4">
-      <img src="images/content/photo1.gif" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/content/photo17.JPG" class="img-responsive" style="width:100%" alt="Image">
       
     </div>
     <div class="col-sm-4">
@@ -32,7 +32,7 @@ include("carousel.php");
       
     </div>
     <div class="col-sm-4">
-      <img src="images/content/photo3.jpg" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/content/photo16.jpg" class="img-responsive" style="width:100%" alt="Image">
       
     </div>
   </div>
@@ -144,10 +144,10 @@ include("carousel.php");
    <div class="row">
     <div class="col-sm-6">
       <img src="images/content/photo1.gif" class="img-responsive" style="width:100%" alt="Image">
-      <p>Children</p>
+      <p></p>
     </div>
     <div class="col-sm-6">
-      <img src="images/content/photo4.jpg" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/content/photo15.jpg" class="img-responsive" style="width:100%" alt="Image">
       <p>Adults</p>
     </div>
   </div>

@@ -1,7 +1,7 @@
 <?php
 session_start();
 include("header.php");
-$a=$_GET["a"];
+$a=isset($_GET["a"])?$_GET["a"]:"home";
 $page_id="home";
 include("navbar.php");
 

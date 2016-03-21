@@ -34,7 +34,7 @@ if (!isset($_POST['submit']))
      print "<h2> Jun Lu Performing Arts Dance and Music Summer Camp </h2>";
      print "<h3> Signup form</h3>";
      
-     print "<form method='post' action='summercamp_signup.php' name='form'>";
+     print "<form method='post' action='index.php?a=summercamp_signup' name='form'>";
      print "<b>Name :</b> <input type='text' name='name' size='40'> ";
      print "<b>Age  :</b> <input type='text' name='age' size='10'><br>";
      print "<b>Guardian name :</b> <input type='text' name='guardian' size='40'> <br>";
@@ -56,6 +56,7 @@ if (!isset($_POST['submit']))
 }
 else if (isset($_POST['submit']))
 {
+	
 	    $scode=$_POST['secretcode'];
 		if($scode!=$_SESSION["secret_post_code"]){
 	       unset($_SESSION["secret_post_code"]);

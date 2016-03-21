@@ -19,6 +19,10 @@
     }
     .navbar-custom {
        background-color: #CC3333;
+       /* background-color: transparent;
+        background: transparent;
+        border-color: transparent;*/
+       /* color: #FF7C0A;*/
     }
 
 

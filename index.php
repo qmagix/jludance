@@ -18,6 +18,9 @@ switch($a){
 	case "summercamp_signup":
 		include("summercamp_signup.php");
 		break;
+	case "gallery":
+		include("gallery.php");
+		break;
 	case "about":
 	 include("about.inc");
 	 break;
@@ -36,9 +39,6 @@ switch($a){
 	 break;
 	case "news":
 	 include("news.php");
-	 break;
-	case "gallery":
-		include("xueyuanfengcai_en_new.htm");
 	 break;
 	case "photos07":
 		include("slideshow07.inc");

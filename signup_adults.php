@@ -5,7 +5,7 @@
 <?
 
 require("tools/html.form.classes.php");
- include("dbconf.php");
+include("dbconf.php");
 require("tools/db.classes.php");
 $db=new Database(DB_SERVER,DB_NAME,DB_USER,DB_PASS);
 
@@ -95,7 +95,7 @@ if(isset($_SESSION['checkboxes'])){
      	
      mysql_query($addmessage) or die(mysql_error());
      //print $addmessage;
-     print "Thanks for signing up, look forward to seeing you in class soon.<META HTTP-EQUIV = 'Refresh' Content ='2; URL =../'> <br> ";
+     print "Thanks for signing up, look forward to seeing you in class soon.<br> ";
 	//print $chinese." - ".$ballet." - ".$flamenco." - ".$jazz." - ".$troupe;
 
      $subject="new sign up";

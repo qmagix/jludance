@@ -15,6 +15,9 @@ switch($a){
 	case "signup_adults":
 		include("signup_adults.php");
 		break;
+	case "summercamp_signup":
+		include("summercamp_signup.php");
+		break;
 	case "about":
 	 include("about.inc");
 	 break;

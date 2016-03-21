@@ -93,7 +93,7 @@ print "<input type='submit' name='submit' value='submit'>";
      //print $addmessage;
      print "Thanks for signing up, look forward to seeing you in class
      soon. <br> ";
-	 print "<a href='../'> Back to Main </a><br>";
+	 
 	//print $chinese." - ".$ballet." - ".$flamenco." - ".$jazz." - ".$troupe;
 
      $subject="new kids class sign up";

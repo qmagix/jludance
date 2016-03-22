@@ -1,4 +1,4 @@
-<div class="container text-left">
+<div class="container text-center">
   <h3>Jun Lu Performing Arts Academy</h3><br>
   <div class="row">
     <div class="col-sm-12">

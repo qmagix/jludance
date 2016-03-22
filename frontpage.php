@@ -24,11 +24,11 @@
       
     </div>
     <div class="col-sm-4">
-      <img src="images/content/photo4.jpg" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/content/photo4.JPG" class="img-responsive" style="width:100%" alt="Image">
       
     </div>
     <div class="col-sm-4">
-      <img src="images/content/photo16.jpg" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/content/photo16.JPG" class="img-responsive" style="width:100%" alt="Image">
       
     </div>
   </div>

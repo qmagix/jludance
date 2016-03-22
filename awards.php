@@ -86,7 +86,7 @@ Elite Top First for Joy Of Paper Cutting
     </div>
     
     <div class="col-sm-4">
-      <img src="images/content/photo16.jpg" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/content/photo16.JPG" class="img-responsive" style="width:100%" alt="Image">
        <img src="images/content/photo7.JPG" class="img-responsive" style="width:100%" alt="Image">
        <img src="images/content/photo1.gif" class="img-responsive" style="width:100%" alt="Image">
     </div>

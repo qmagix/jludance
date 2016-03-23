@@ -149,4 +149,25 @@
       <img src="images/content/photo15.jpg" class="img-responsive" style="width:100%" alt="Image">
     </div>
   </div>
+  <h2>Contact and Location Info</h2><br>
+  <div  id="contact" class="row">
+    <div class="col-sm-6">
+      <div class="well">
+       <p>
+1600 Saratoga Ave,  # 427 <br>
+San Jose, CA 95129 <br>
+<br>
+Phone:    (408) 219-3562,  Fax:       (650) 716-0862 <br>
+Email:    info@jludance.com      <br>  
+<br>
+<img src="images/location_details.JPG" class="img-responsive" style="width:100%" alt="Image">
+       </p>
+      </div>
+    </div>
+    <div class="col-sm-6">
+      <div class="well">
+<img src="images/location.JPG" class="img-responsive" style="width:100%" alt="Image">
+      </div>
+    </div>
+  </div>
 </div><br>

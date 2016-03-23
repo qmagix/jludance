@@ -13,7 +13,7 @@
 "Hey Mickey": 
 - Platinum Award & First Place
 - <em>Regional Champion</em> in Novice Level, across all age groups and categories. 
-- WILD ABOUT YOU award，11&under
+- WILD ABOUT YOU award, 11&under
 - Invitation only "golden ticket" to world dance championship 
 
 "Paso Doble": 

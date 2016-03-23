@@ -137,7 +137,11 @@
                 Silver Award in&nbsp; Best Choreography in the Singapore Youth 
                 Festival Dance Contest (2000)<br>
                 Outstanding teacher award from the Singapore Nanyang Academy of 
-                Fine Arts (2000)</p>
+                Fine Arts (2000)<br>
+                American Dance Awards, Choreographer of the Year, Diamond Choreography Winner(2013)<br>
+                American Dance Awards, Choreographer of the Year, Diamond Choreography Winner(2014)<br>
+                Choreographer of the Year, KAR National Final (2015)<br>
+                </p>
                 <p>&nbsp;
             </td>
           </tr>

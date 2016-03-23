@@ -37,11 +37,13 @@
     <div class="col-sm-12">
       <div class="well">
         <h4>Recent Awards</h4>
-       <p>National Champion, Top Primary Large Groups 8 & Under ("Jasmine Love"), KAR 2015<br/>
+       <p>Regional Champion, Novice Level, ("Hey Mickey"), NexStar Competition 2016<br/>
+       National Champion, Top Primary Large Groups 8 & Under ("Jasmine Love"), KAR 2015<br/>
    National Champion, Top Secondary Large Groups 8 & Under ("Joy of Paper Cutting"), KAR 2015<br/>
    Most Entertaining, National Final, Secondary Large Group ("Joy of Paper Cutting"), KAR 2015<br/>
     Choreographer of the Year, National Final, KAR 2015<br>
     ......<br>
+    <a href="index.php?a=awards">More Details</a>
        </p>
       </div>
     </div>

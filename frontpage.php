@@ -21,15 +21,15 @@
   <div id="news" class="row">
     <div class="col-sm-4">
       <img src="images/content/photo17.JPG" class="img-responsive" style="width:100%" alt="Image">
-      
+
     </div>
     <div class="col-sm-4">
       <img src="images/content/photo4.JPG" class="img-responsive" style="width:100%" alt="Image">
-      
+
     </div>
     <div class="col-sm-4">
       <img src="images/content/photo16.JPG" class="img-responsive" style="width:100%" alt="Image">
-      
+
     </div>
   </div>
     <br>
@@ -52,15 +52,15 @@
   <div class="row">
     <div class="col-sm-4">
       <img src="images/content/photo5.JPG" class="img-responsive" style="width:100%" alt="Image">
-      
+
     </div>
     <div class="col-sm-4">
       <img src="images/content/photo7.JPG" class="img-responsive" style="width:100%" alt="Image">
-      
+
     </div>
     <div class="col-sm-4">
       <img src="images/content/photo6.JPG" class="img-responsive" style="width:100%" alt="Image">
-      
+
     </div>
   </div>
 
@@ -95,9 +95,10 @@
 		Dance Level 5B,  1:00p - 3:00pm<br/>
 		Dance Level 4A,  2:30p - 4:30pm<br/>
 		Dance Level 10,  3:00p - 5:00pm<br/>
+    Dance Level 2D,  5:00p - 6:30pm<br/>
 		Dance Level 9B,  5:00p - 7:00pm<br/>
-		
-		
+
+
 		<h3>Sunday</h3>
 		Dance Level 2B,  9:30 - 11:00am<br/>
 		Dance Level 7B,  11:00 - 1:00pm<br/>
@@ -106,12 +107,12 @@
 		Dance Level 3B,  1:30p - 3:00pm<br/>
 		Dance Level 1B,  3:00p - 4:00pm<br/>
 		Dance Level 5A,  3:00p -5:00pm<br/>
-		
-		
+
+
 		<h3>Monday</h3>
 		Dance Level 2C, 5:45p - 7:15pm<br/>
 		Dance Level 4C, 6:45p - 8:45pm<br/>
-		
+
 		<h3>Tuesday</h3>
 		Competition Team Training 1,  5:45-7:45pm<br/>
 		Dance Level 3C, 6:00p - 7:30pm<br/>
@@ -123,8 +124,8 @@
 		Dance Level 9A,  5:45 - 7:45pm<br/>
 		Team Ballet, 5:45 - 7:15pm<br/>
 		Dance Level 6A,  7:15 - 9:15pm<br/>
-		
-		
+
+
 		</td><td valign=top><h2>Adults</h2><h3>Sunday</h3>
 		Adult Level 2,  9 - 11:00am<br/>
 		<h3>Tuesday</h3>Adult beginner,  10:00 - 11:30am<br/>
@@ -138,7 +139,7 @@
        </p>
       </div>
     </div>
-  </div>  
+  </div>
   <div class="row">
     <div class="col-sm-6">
      <p><a href="index.php?a=signup_kids" class="btn btn-info btn-lg active" role="button">Signup Kids' Class</a></p>
@@ -158,7 +159,7 @@
 San Jose, CA 95129 <br>
 <br>
 Phone:    (408) 219-3562,  Fax:       (650) 716-0862 <br>
-Email:    info@jludance.com      <br>  
+Email:    info@jludance.com      <br>
 <br>
 <img src="images/location_details.JPG" class="img-responsive" style="width:100%" alt="Image">
        </p>

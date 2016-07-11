@@ -37,7 +37,9 @@
     <div class="col-sm-12">
       <div class="well">
         <h4>Recent Awards</h4>
-       <p>Regional Champion, Novice Level, ("Hey Mickey"), NexStar Competition 2016<br/>
+       <p>Primary National Grand Champion, Large Group and Line Dances ("Minion's Dance to Music"), KAR Final in Las Vegas, 2016<br/>
+          National Video of the Week Winner, ("Minion's Dance to Music"), KAR 2016<br/>
+         Regional Champion, Novice Level, ("Hey Mickey"), NexStar Competition 2016<br/>
        National Champion, Top Primary Large Groups 8 & Under ("Jasmine Love"), KAR 2015<br/>
    National Champion, Top Secondary Large Groups 8 & Under ("Joy of Paper Cutting"), KAR 2015<br/>
    Most Entertaining, National Final, Secondary Large Group ("Joy of Paper Cutting"), KAR 2015<br/>

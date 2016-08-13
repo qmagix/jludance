@@ -9,7 +9,7 @@ include("carousel.php");
 
 <div class="container text-center">
   <h3>Jun Lu Performing Arts Academy</h3><br>
-  
+
   <div class="row">
     <div class="col-sm-12">
       <div class="well">
@@ -45,6 +45,7 @@ Dance Level 4C, 6:45p - 8:45pm<br/>
 Competition Team Training 1,  5:45-7:45pm<br/>
 Dance Level 3C, 6:00p - 7:30pm<br/>
 <h3>Wednesday</h3>
+Competition Team Training 3,  4:00-6:00pm<br/>
 Dance Level 7A,  6:00p - 8:00pm<br/>
 <h3>Thursday</h3>
 Competition Team Training 2,  5:45-7:45pm<br/>
@@ -66,7 +67,7 @@ Adult Level 2,  9 - 11:00am<br/>
        </p>
       </div>
     </div>
-   
+
   </div>
   <div class="row">
     <div class="col-sm-6">

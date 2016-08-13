@@ -119,6 +119,7 @@
 		Competition Team Training 1,  5:45-7:45pm<br/>
 		Dance Level 3C, 6:00p - 7:30pm<br/>
 		<h3>Wednesday</h3>
+    Competition Team Training 3,  4:00-6:00pm<br/>
 		Dance Level 7A,  6:00p - 8:00pm<br/>
 		<h3>Thursday</h3>
 		Competition Team Training 2,  5:45-7:45pm<br/>

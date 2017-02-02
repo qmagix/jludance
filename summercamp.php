@@ -26,11 +26,11 @@ Music class features vocal/singing and/or percussion instrument lessons. -->
 <p>
 Camp times and appropriate level/age groups are as follows:
 <ol>
-<li>Camp 1:&nbsp; 6/10 ~ 6/21, &nbsp; Competition team 2 camp (Full)  </li>
-<li>Camp 2:&nbsp; 7/11 ~ 7/22, &nbsp; for Level 3, 4 students  </li>
-<li>Camp 3:&nbsp; 6/22 ~ 7/2, &nbsp; Competition team 1 camp (Full)  </li>
-<li>Camp 4:&nbsp; 7/11 ~ 7/22, &nbsp; for Level 5,6 students  </li>
-<li>Camp 5:&nbsp; 6/22 ~ 7/2, &nbsp; for Level 7 and up  </li>
+<li>Camp 1:&nbsp; 6/11 ~ 6/18, &nbsp; Level 8 and up students (8 days including weekends) </li>
+<li>Camp 2:&nbsp; 6/19 ~ 6/30, &nbsp; for Level 4, 5 students (10 weekdays)  </li>
+<li>Camp 3:&nbsp; 7/3 ~ 7/14, &nbsp; for Level 6,7 students (10 weekdays)  </li>
+<li>Camp 4:&nbsp; 7/17 ~ 7/28, &nbsp; for Level 2,3 students (10 weekdays)</li>
+<li>Camp 5:&nbsp; 7/31 ~ 8/11, &nbsp; reserved camp  </li>
 </ol>
 
  <p>(* audition and special commitment required) </p>
@@ -80,12 +80,15 @@ to come to enjoy what their kids have learned and advanced through their hardwor
 <p align="left">(* The kids will have a 10 minutes break between each hour. * Parents please prepare water and lunch for your child.)</p>
 <p align="left"><b><font size="5">Tuition: (~ 350/week)</font></b> 
 
-  <table>
+  <table border=1>
     <tr>
-      <td>CAMP</td><td>regular</td><td>early bird(before Mar 1)</td>
+      <td>CAMP</td><td>regular</td><td>early bird(before Feb 15)</td>
     </tr>
     <tr>
-      <td>(10 full days)</td><td>750</td><td>700</td>
+      <td>10 day camp</td><td>750</td><td>700</td>      
+    </tr>    
+    <tr>
+      <td>8 day camp</td><td>600</td><td>560</td>
     </tr>    
   </table>
 $5/hour extra for the optional 4~6pm class. </p>

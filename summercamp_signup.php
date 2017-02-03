@@ -96,8 +96,8 @@ else if (isset($_POST['submit']))
 		     
 			     mysql_query($addmessage) or die(mysql_error());
 			     //print $addmessage;
-			     print "Thanks for signing up, please remember to bring the tution
-			     or a deposit of $100 to Ms Lu to formally reserve the seat. <br> ";
+			     $msg2client="Thanks for signing up our summer camps, please remember to bring the tution or a deposit of $100 to Ms Lu to formally reserve the seat.";
+			     print $msg2client." <br> ";
 				 
 				//print $chinese." - ".$ballet." - ".$flamenco." - ".$jazz." - ".$troupe;
 			
@@ -110,6 +110,19 @@ else if (isset($_POST['submit']))
 				  $message.=" --- Interest $s \n\n";
 				  $message.=$addmessage;
 			     @mail($to, $subject, $message);
+			     
+			     $headers = 'From: webmaster@jludance.com' . "\r\n" .
+			     		'Reply-To: info@jludance.com' . "\r\n" .
+			     		'X-Mailer: PHP/' . phpversion();
+			     
+			     $to="summercamp@jludance.com";
+			     @mail($to, $subject, $message,$headers);
+			     
+			     $to=$email;
+			     $subject="Your summer camp sign up has been received";
+			     $message=$msg2client;
+			     $message.="\r\n\r\n Best, \r\n\r\n Jun Lu Performing Arts";
+			     @mail($to, $subject, $message,$headers);
 		
 		    }
 	}

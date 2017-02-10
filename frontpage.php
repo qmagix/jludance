@@ -135,10 +135,10 @@
 		Adult Level 2,  9 - 11:00am<br/>
 		<h3>Tuesday</h3>Adult beginner,  10:00 - 11:30am<br/>
 		<h3>Tuesday</h3>Adult Level 2,  7:45 - 9:45pm<br/>
-		<h3>Wednesday</h3>Adult Level 2,  7:45 - 9:45pm<br/>
+		<h3>Wednesday</h3>Adult Special Training (練功課）,  7:45 - 9:45pm<br/>
 		<h3>Thursday</h3>Adult Level 3,  7:45 - 9:45pm<br/>
 		<h3>Friday</h3>Adult Beginner,  9:30-11:00am<br/>
-		<h3>Saturday</h3>Adult Body Sculpting (塑身形體） Class 1,  8:00-9:30pm<br/>
+		<h3>Saturday</h3>Adult Body Sculpting (塑身形體） Class 1,  7:30-9:00pm<br/>
 		<h3>Sunday</h3>Adult Body Sculpting (塑身形體） Class 2,  5:00-6:30pm<br/>
 		</td>
 		</tr>

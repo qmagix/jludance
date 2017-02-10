@@ -105,7 +105,9 @@ if(isset($_SESSION['checkboxes'])){
     //$message.=" --- Interest $s";   
     $message.=" --- Interest <a href=\"http://www.jludance.com/admin/listclass.php?tb=classes&id=$s\">$s</a>";  
     @mail($to, $subject, $message);
-
+    $subject="new adult class sign up";
+    $to="huangq@gmail.com";
+    @mail($to, $subject, $message);
     }
 }
   }

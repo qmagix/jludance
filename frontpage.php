@@ -98,7 +98,7 @@
 		Dance Level 5A,  2:30p - 4:30pm<br/>
 		Dance Level 10B, 3:00p - 5:00pm<br/>
         Dance Level 3D,  5:00p - 6:30pm<br/>
-		Dance Level 1B(New),  7:00p - 8:00pm<br/>
+		Dance Level 1B(New),  6:30p - 7:30pm<br/>
 
 
 		<h3>Sunday</h3>
@@ -131,15 +131,18 @@
 		Dance Level 7A,  7:15 - 9:15pm<br/>
 
 
-		</td><td valign=top><h2>Adults</h2><h3>Sunday</h3>
+		</td><td valign=top><h2>Adults</h2>
+		<h3>Saturday</h3>Adult Body Sculpting (塑身形體） Class 1,  7:30-9:00pm<br/>
+		<h3>Sunday</h3>
 		Adult Level 2,  9 - 11:00am<br/>
+		Adult Body Sculpting (塑身形體） Class 2,  5:00-6:30pm<br/>
 		<h3>Tuesday</h3>Adult beginner,  10:00 - 11:30am<br/>
-		<h3>Tuesday</h3>Adult Level 2,  7:45 - 9:45pm<br/>
+		Adult Level 2,  7:45 - 9:45pm<br/>
 		<h3>Wednesday</h3>Adult Special Training (練功課）,  7:45 - 9:45pm<br/>
 		<h3>Thursday</h3>Adult Level 3,  7:45 - 9:45pm<br/>
 		<h3>Friday</h3>Adult Beginner,  9:30-11:00am<br/>
-		<h3>Saturday</h3>Adult Body Sculpting (塑身形體） Class 1,  7:30-9:00pm<br/>
-		<h3>Sunday</h3>Adult Body Sculpting (塑身形體） Class 2,  5:00-6:30pm<br/>
+		
+	
 		</td>
 		</tr>
 		</table>

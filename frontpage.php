@@ -141,6 +141,7 @@
 		<h3>Wednesday</h3>Adult Special Training (練功課）,  7:45 - 9:45pm<br/>
 		<h3>Thursday</h3>Adult Level 3,  7:45 - 9:45pm<br/>
 		<h3>Friday</h3>Adult Beginner,  9:30-11:00am<br/>
+		Adult Body Sculpting (塑身形體） Class 3,  7:45-9:15pm<br/>
 		
 	
 		</td>

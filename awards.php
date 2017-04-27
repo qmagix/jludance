@@ -7,53 +7,118 @@
     <div class="col-sm-8">
       <div class="well">
        <p>
+         <h4> 2017 </h4>
+
+ <b>American Dance Awards 2017 </b><br>
+   <blockquote>
+   - HIGH SCORE 6 AND UNDER, <b>1st Place </b> (5,6,7,8)<br>
+   - HIGH SCORE YOUNG LARGE GROUP, <b>1st Place</b> (Beat It 0.1)<br>
+   - Ultimate Gold Awards (5,6,7,8 + Beat It 0.1) <br>
+ </blockquote>
+<b>KAR Regional 2017 </b><br>
+  <blockquote>
+    - Primary Large Group + Line <b>Most Entertaining</b>, (5,6,7,8)<br>
+    - Primary Video of the Week, (5,6,7,8)<br>
+    - <b>National Video of the Week</b> Winner (5,6,7,8)<br>
+    - Top Primary Duet/Trio 8 and Under (Little School Buddy)<br>
+    - Top Primary Large Group 8 and Under, Second Place (Beat It 0.1)<br>
+    - Top Primary Large Group 8 and Under, Third Place (5,6,7,8)<br>
+    - Top Primary Large Group 8 and Under, Fourth Place (Everybody CanCan)<br>
+    - Top Secondary Duet/Trio 9 - 11, Second Place (Playful Trio)<br>
+    - Top Secondary Large Group 9 - 11, Fourth Place (Purple Fish)<br>
+    - Top Intermediate Duet/Trio 9 - 11, (Flying Apasaras)<br>
+    - Top Intermediate Solo 9 - 11, Second Place (Flying Apasaras)<br>
+    - Secondary Duet/Trio NYC All Stars, (Playful Trio)<br>
+    - Secondary Large Group NYC All Stars, (Return of MuLan) <br>
+    - Intermediate Solo 9 - 11 NYC All Stars, (Flying Apasaras)<br>
+    - Plenty of Elite Top First Awards <br>
+  </blockquote>
+
+  <b>TaoLiCup Overseas Competition Final 2017</b>
+
+    <blockquote>
+      - Platinum Award (5,6,7,8)<br>
+      - Platinum Award (Purple Fish)<br>
+      - Platinum Award (Galloping Spirit)<br>
+      - Gold (Return of Mulan, Everybody CanCan, Playful Trio)<br>
+      - Gold (Splendor under the Sun， Love of Butterfly)<br>
+      - Silver (Dragon Fist, Frolicking Fawn)<br>
+      - Bronze (Feelings, Beat It)<br>
+      - Taoli Honors Award [桃李最高荣誉奖], (Galloping Spirit) <br>
+      - Taoli Honors Award [桃李最高荣誉奖], (5,6,7,8) <br>
+      - Taoli Honors Award [桃李最高荣誉奖], (Return of MuLan) <br>
+      - Taoli Spirit Award [桃李精神奖]-Pure Elegance (Splendor under the Sun)<br>
+      - Taoli Spirit Award [桃李精神奖]-Most Energetic (Galloping Spirit)<br>
+      - Taoli Spirit Award [桃李精神奖]-Most Energetic (5，6，7，8)<br>
+      - Taoli Spirit Award [桃李精神奖]-Most Energetic (Return of MuLan)<br>
+      - Outstanding Instructor Award [桃李满园奖] (Ms LU) <br>
+    </blockquote>
+
+       </p>
+      </div>
+    </div>
+    <div class="col-sm-4">
+      <img src="images/small/dancetothemusic_small.jpg" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/small/eternalflame16.JPG" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/small/heymickey16.jpg" class="img-responsive" style="width:100%" alt="Image">
+
+       <img src="images/sliders_small/IMG_1977-001.JPG" class="img-responsive" style="width:100%" alt="Image">
+       <img src="images/sliders_small/DSC_8056-001.JPG" class="img-responsive" style="width:100%" alt="Image">
+       <img src="images/sliders_small/IMG_3415-001.JPG" class="img-responsive" style="width:100%" alt="Image">
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-8">
+      <div class="well">
+       <p>
          <h4> 2016 </h4>
 
          <b>KAR National Final 2016 at Las Vegas</b><br>
-<blockquote>
+<pre>
 
-- <em>Grand National Champion</em>, Primary Large Groups and Line (Minion's Dance to the Music)<br>
+- <b>National Grand Champion</b>, Primary Large Groups and Line (Minion's Dance to the Music)<br>
 - 2 National Elite Top First Awards, Primary (Hey Mickey, Minion's Dance to the Music)<br>
 - 1 National Elite Top First Award, Secondary,  (Eternal Flame)<br>
 - 3 Judges Choice Award (all three routines)<br>
-</blockquote>
+</pre>
 
          <b>KAR Regional 2016 </b><br>
-<blockquote>
-           - 4 Elite Top First Awards (Eternal Flame, Hey Mickey, Minion's Dance to the Music, Paso Doble)<br>
-           - Top Primary Large Group, First Place(Hey Mickey)<br>
-           - Top Primary Large Group 8 and Under, First Place(Hey Mickey)<br>
-           - Top Primary Line, First Place (Minion's Dance to the Music)<br>
-           - Top Primary Line 8 and Under, First Place (Minion's Dance to the Music)<br>
-           - The Most Entertaining Act, Primary Large Groups (Hey Mickey)<br>
-           - Top Secondary Large Group 9 - 11, Second Place (Eternal Flame)<br>
-           - Secondary Large Groups Best Costume (Eternal Flame)<br>
-           - Video of the Week Nominee and National Video of the Week Winner (Minion's Dance to the Music)<br>
-</blockquote>
+<pre>
+- <b>The Most Entertaining Act</b>, Primary Large Groups (Hey Mickey)<br>
+- Primany <b>Video of the Week</b> and National Video of the Week Winner (Minion's Dance to the Music)<br>
+ - Top Primary Large Group, First Place(Hey Mickey)<br>
+ - Top Primary Large Group 8 and Under, First Place(Hey Mickey)<br>
+ - Top Primary Line, First Place (Minion's Dance to the Music)<br>
+ - Top Primary Line 8 and Under, First Place (Minion's Dance to the Music)<br>
+ - Top Secondary Large Group 9 - 11, Second Place (Eternal Flame)<br>
+ - Secondary Large Groups Best Costume (Eternal Flame)<br>
+ - 4 Elite Top First Awards (Eternal Flame, Hey Mickey, Minion's Dance to the Music, Paso Doble)<br>
+</pre>
 
 <b>NexStar National Talent (dance) Competition</b>
-<blockquote>
+<pre>
 "Hey Mickey":<br>
 - Platinum Award & First Place<br>
-- <em>Regional Champion</em> in Novice Level, across all age groups and categories.<br>
+- <b>Regional Champion</b> in Novice Level, across all age groups and categories.<br>
 - WILD ABOUT YOU award, 11&under<br>
 - Invitation only "golden ticket" to world dance championship<br>
 <br>
 "Paso Doble":<br>
-- Platinum Award & category First Place<br>
+- Platinum Award & category <b>First Place</b><br>
 - 2nd place, age 9-11, large group, all categories, novice level<br>
 - Best Costume Award<br>
 <br>
 "Dance to the Music":<br>
-- Platinum Award & First Place<br>
-- First place of 8 & under, Intermediate level, Line<br>
+- Platinum Award & <b>First Place</b><br>
+- <b>First place</b> of 8 & under, Intermediate level, Line<br>
 - Invitation only "golden ticket" to world dance championship<br>
 <br>
 "Eternal Flame":<br>
-- High Gold Award & First Place in category<br>
+- High Gold Award & <b>First Place in category</b><br>
 - Regional 2nd Place in Intermediate Level, 9-11 age group, across categories.<br>
 - Invitation only "golden ticket" to world dance championship<br>
-</blockquote>
+</pre>
        </p>
       </div>
     </div>
@@ -74,25 +139,25 @@
          <h4> 2015 </h4>
          <b>KAR National Final 2015 at Anaheim</b><br>
          <pre>
-<em>National Champion</em>, Top Primary Large Groups 8 & Under (Jasmine Love)
-<em>National Champion</em>, Top Secondary Large Groups 8 & Under (Joy of Paper Cutting)
+<b>National Champion</b>, Top Primary Large Groups 8 & Under (Jasmine Love)
+<b>National Champion</b>, Top Secondary Large Groups 8 & Under (Joy of Paper Cutting)
 Most Entertaining,  Secondary Large Group (Joy of Paper Cutting)
 4 National Top First Awards, Primary (Purple Fish, Joy of Learning Chinese, We've got the World, Jasmine Love)
 National Elite Top First Award, Secondary,  (Joy of Paper Cutting)
 Judges Choice Award ( (Joy of Paper Cutting)
-<em>Choreographer of the Year</em> (for Ms Jun Lu)
+<b>Choreographer of the Year</b> (for Ms Jun Lu)
          </pre>
 
           <b>American Dance Awards 2015</b><br>
          <pre>
 - "Ultimate Gold" to all participating routines (5)
-- First Place, High Score, 6 and under: Jasmine Love
-- First Place, High Score, Primary, 12 and under: We've Got the World
-- First Place, High Score, Young, Large Group, Competitive: Joy of Paper Cutting
+- <b>First Place</b>, High Score, 6 and under: Jasmine Love
+- <b>First Place</b>, High Score, Primary, 12 and under: We've Got the World
+- <b>First Place</b>, High Score, Young, Large Group, Competitive: Joy of Paper Cutting
 - Second Place, High Score, Young, Large Group, Competitive: Joy of Learning Chinese
 - Fifth Place, High Score, Young, Large Group, Competitive: GongFu
 - High Score, Costume for all 12 and under: Joy of Learning Chinese
-- Highest Adjudication, third place: Joy of Paper Cutting
+- <b>Highest Adjudication</b>, third place: Joy of Paper Cutting
 - "Mary Poppins" special award "Perfect in every way",  We've Got the World
 - "Garden of Talent" special award: Jasmine Love
 - "Animation" special award: Joy of Paper Cutting
@@ -100,12 +165,12 @@ Judges Choice Award ( (Joy of Paper Cutting)
 
 <b>KAR Regional 2015 at San Jose</b><br>
          <pre>
-First Place, Top Primary Large Group 8 and Under:  Jasmine Love
+<b>First Place</b>, Top Primary Large Group 8 and Under:  Jasmine Love
 Second Place, Top Primary Large Group 8 and Under:  We've Got The World
 Fourth Place, Top Primary Large Group 8 and Under:  Joy Of Learning Chinese
 Fourth Place, Top Primary Large Group 9 - 11: Purple Fish
 First Place, Top Secondary Large Group 8 and Under: Joy Of Paper Cutting
-Most Entertaining, Secondary Large Groups:  Joy Of Paper Cutting
+<b>Most Entertaining</b>, Secondary Large Groups:  Joy Of Paper Cutting
 4 Top First Awards
 Elite Top First for Joy Of Paper Cutting
          </pre>
@@ -131,7 +196,7 @@ Elite Top First for Joy Of Paper Cutting
 National Elite Top First Award (Do the CanCan)
 National Elite Top First Award (Beat It)
 National Top First Award (Little Mulan)
-Most Entertaining, Secondary Large Group (Do the CanCan)
+<b>Most Entertaining</b>, Secondary Large Group (Do the CanCan)
 High Point Award (Do the CanCan)
 High Point Award (Beat It)
 
@@ -187,8 +252,8 @@ Do the CanCan
 Little Mulan
 - Top First Award
 - High Point Award (Primary 8 and Under Large Overall)
-- <em>Most Entertaining Award</em>
-- <em>Video of the Week nominee award</em>
+- <b>Most Entertaining Award</b>
+- <b>Video of the Week award</b>
 
 Beat It
 - Top First Award
@@ -253,7 +318,7 @@ Three dance groups went to ADA 213 and won two "ULTIMATE GOLD", and one "GOLD".
 All won the "HIGHEST OVERALL SCORE" awards in their respective competition category,
 and one team won the "FIRST PLACE" award for all age 6 and under
 Two of the teams won "SPECIAL RECOGNITION" awards in addition for their outstanding performances.
-Ms Lu received the best choreography award: "the ADA Diamond Choreography Winner of 2013".
+Ms Lu received the <b>best choreography</b> award: "the ADA Diamond Choreography Winner of 2013".
 
 And the groups are:
 (1) Dance to the music (Amy, Sophia, Eileen, Shannon, Victoria, Julie, Ella Y, Ella L, Jamie)

@@ -9,13 +9,14 @@
        <p>
          <h4> 2017 </h4>
 
- <b>American Dance Awards 2017 </b><br>
+ <h3>American Dance Awards 2017 </h3><br>
    <blockquote>
    - HIGH SCORE 6 AND UNDER, <b>1st Place </b> (5,6,7,8)<br>
    - HIGH SCORE YOUNG LARGE GROUP, <b>1st Place</b> (Beat It 0.1)<br>
    - Ultimate Gold Awards (5,6,7,8 + Beat It 0.1) <br>
  </blockquote>
-<b>KAR Regional 2017 </b><br>
+ <br>
+<h3>KAR Regional 2017 </h3><br>
   <blockquote>
     - Primary Large Group + Line <b>Most Entertaining</b>, (5,6,7,8)<br>
     - Primary Video of the Week, (5,6,7,8)<br>
@@ -33,8 +34,8 @@
     - Intermediate Solo 9 - 11 NYC All Stars, (Flying Apasaras)<br>
     - Plenty of Elite Top First Awards <br>
   </blockquote>
-
-  <b>TaoLiCup Overseas Competition Final 2017</b>
+<br>
+  <h3>TaoLiCup Overseas Competition Final 2017</h3>
 
     <blockquote>
       - Platinum Award (5,6,7,8)<br>
@@ -58,13 +59,14 @@
       </div>
     </div>
     <div class="col-sm-4">
-      <img src="images/small/dancetothemusic_small.jpg" class="img-responsive" style="width:100%" alt="Image">
-      <img src="images/small/eternalflame16.JPG" class="img-responsive" style="width:100%" alt="Image">
-      <img src="images/small/heymickey16.jpg" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/small/PAA_6499.JPG" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/small/PAA_8339.JPG" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/small/PAA_6675.JPG" class="img-responsive" style="width:100%" alt="Image">
 
-       <img src="images/sliders_small/IMG_1977-001.JPG" class="img-responsive" style="width:100%" alt="Image">
-       <img src="images/sliders_small/DSC_8056-001.JPG" class="img-responsive" style="width:100%" alt="Image">
-       <img src="images/sliders_small/IMG_3415-001.JPG" class="img-responsive" style="width:100%" alt="Image">
+       <img src="images/small/PAA_1747.JPG" class="img-responsive" style="width:100%" alt="Image">
+       <img src="images/small/PAA_3669.JPG" class="img-responsive" style="width:100%" alt="Image">
+       <img src="images/small/PAA_5401.JPG" class="img-responsive" style="width:100%" alt="Image">
+       
     </div>
   </div>
 
@@ -130,6 +132,7 @@
        <img src="images/sliders_small/IMG_1977-001.JPG" class="img-responsive" style="width:100%" alt="Image">
        <img src="images/sliders_small/DSC_8056-001.JPG" class="img-responsive" style="width:100%" alt="Image">
        <img src="images/sliders_small/IMG_3415-001.JPG" class="img-responsive" style="width:100%" alt="Image">
+       <img src="images/small/PAA_5598.JPG" class="img-responsive" style="width:100%" alt="Image">
     </div>
   </div>
   <div id="news" class="row">

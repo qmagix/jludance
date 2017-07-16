@@ -36,7 +36,6 @@
   </blockquote>
 <br>
   <h3>TaoLiCup Overseas Competition Final 2017</h3>
-
     <blockquote>
       - Platinum Award (5,6,7,8)<br>
       - Platinum Award (Purple Fish)<br>

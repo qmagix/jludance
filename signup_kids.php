@@ -5,7 +5,7 @@ require("tools/db.classes.php");
 include("dbconf.php");
 
 $db=new Database(DB_SERVER,DB_NAME,DB_USER,DB_PASS);
-$var=$db->getTableColumn('classes','id','title','ages="kids" and visible=1 and yearid="2009b"');
+$var=$db->getTableColumn('classes','id','title','ages="kids" and visible=1 and yearid="2009b" order by level asc');
 $cb=new Checkboxes($var);
 $_SESSION['checkboxes']=$cb;
 

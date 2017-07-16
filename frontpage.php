@@ -89,7 +89,8 @@
       </div>
     </div>
   </div>
-  <h2>Class Schedule</h2><br>
+  <h2>Class Schedule</h2>
+  <h4>Spring 1/6-6/9, (Summer 6/12-7/28)*, Fall 8/16-12/16</h4>
   <div class="row">
     <div class="col-sm-12">
       <div class="well">
@@ -104,25 +105,26 @@
 		Dance Level 5A,  2:30p - 4:30pm<br/>
 		Dance Level 10B, 3:00p - 5:00pm<br/>
         Dance Level 3D,  5:00p - 6:30pm<br/>
-		Dance Level 1B(New),  6:30p - 7:30pm<br/>
+		Dance Level 1B,  6:30p - 7:30pm<br/>
+		Competition Team Training 1,  5:00-8:00pm<br/>
 
 
 		<h3>Sunday</h3>
 		Dance Level 3B,  9:30 - 11:00am<br/>
 		Dance Level 8B,  11:00 - 1:00pm<br/>
-		Dance Level 5B,  11:15 - 1:15pm<br/>
+		Dance Level 5B,  11:00 - 1:00pm<br/>
 		Dance Level 9B,  1:00p - 3:00pm<br/>
-		Dance Level 4B,  1:15p - 3:15pm<br/>
+		Dance Level 4B,  1:00p - 3:00pm<br/>
 		Dance Level 2B,  3:30p - 5:00pm<br/>
 		Dance Level 6A,  3:00p -5:00pm<br/>
-        Dance Level 1A(New),  5:00p -6:00pm<br/>
+        Dance Level 1A,  5:00p -6:00pm<br/>
+        Dance Level 1D(New),  6:00p -7:00pm<br/>
 
 		<h3>Monday</h3>
 		Dance Level 3C, 5:45p - 7:15pm<br/>
 		Dance Level 5C, 6:45p - 8:45pm<br/>
 
-		<h3>Tuesday</h3>
-		Competition Team Training 1,  5:45-7:45pm<br/>
+		<h3>Tuesday</h3>		
 		Dance Level 4C, 5:45p - 7:45pm<br/>
 		<h3>Wednesday</h3>
         Competition Team Training 3,  4:00-6:00pm<br/>

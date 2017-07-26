@@ -8,7 +8,20 @@
       <div class="well">
        <p>
          <h4> 2017 </h4>
-
+         <h3>KAR National Final 2017 </h3><br>
+           <blockquote>
+             - <b>National Grand Champion</b>, Primary Large Group ("Everybody CanCan")<br>
+             - <b>National Champion</b>, Top Primary Large Groups 8 & Under ("Everybody CanCan") <br>
+             - <b>Naitonal Most Entertaining</b> Primary Large Group + Line, (Everybody CanCan)<br>
+             - National Top Primary Large Group 8 and Under, Second Place (5,6,7,8)<br>
+             - National Top Secondary Large Group 9-11, Second Place (Return of Mulan)<br>
+             - National Top Primary Large Group 8 and Under, Fifth Place (Beat It 0.1)<br>
+             - National Top Secondary Duet/Trio 9 - 11, Second Place (Playful Trio)<br>
+             - "Art of Dance" Judges Choice Award, (Return of Mulan)<br>
+             - "Best Costume" , (Return of Mulan)<br>
+             - All group dances won Elite Top First Awards <br>
+           </blockquote>
+         <br>
  <h3>American Dance Awards 2017 </h3><br>
    <blockquote>
    - HIGH SCORE 6 AND UNDER, <b>1st Place </b> (5,6,7,8)<br>
@@ -58,6 +71,7 @@
       </div>
     </div>
     <div class="col-sm-4">
+      <img src="images/small/IMG_4158.JPG" class="img-responsive" style="width:100%" alt="Image">
       <img src="images/small/PAA_6499.JPG" class="img-responsive" style="width:100%" alt="Image">
       <img src="images/small/PAA_8339.JPG" class="img-responsive" style="width:100%" alt="Image">
       <img src="images/small/PAA_6675.JPG" class="img-responsive" style="width:100%" alt="Image">
@@ -65,7 +79,7 @@
        <img src="images/small/PAA_1747.JPG" class="img-responsive" style="width:100%" alt="Image">
        <img src="images/small/PAA_3669.JPG" class="img-responsive" style="width:100%" alt="Image">
        <img src="images/small/PAA_5401.JPG" class="img-responsive" style="width:100%" alt="Image">
-       
+
     </div>
   </div>
 

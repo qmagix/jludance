@@ -38,6 +38,8 @@
       <div class="well">
         <h4>Recent Awards</h4>
        <p>
+         National Grand Champion, Primary Large Group ("Everybody CanCan"), KAR National Final in Anaheim, 2017<br/>
+         Most Entertaining, Top Primary Large Groups 8 & Under ("Everybody CanCan"), KAR National Final in Anaheim, 2017<br/>
          National Video of the Week Winner, ("5,6,7,8"), KAR 2017<br/>
          First Place, Young Large Group, American Dance Awards ("Beat It 0.1"), 2017<br>
          First Place, 6 & Under, American Dance Awards ("5,6,7,8"), 2017<br>
@@ -124,7 +126,7 @@
 		Dance Level 3C, 5:45p - 7:15pm<br/>
 		Dance Level 5C, 6:45p - 8:45pm<br/>
 
-		<h3>Tuesday</h3>		
+		<h3>Tuesday</h3>
 		Dance Level 4C, 5:45p - 7:45pm<br/>
 		<h3>Wednesday</h3>
         Competition Team Training 3,  4:00-6:00pm<br/>
@@ -150,8 +152,8 @@
 		<h3>Thursday</h3>Adult Level 3,  7:45 - 9:45pm<br/>
 		<h3>Friday</h3>Adult Beginner,  9:30-11:00am<br/>
 		Adult Body Sculpting (塑身形體） Class 3,  7:45-9:15pm<br/>
-		
-	
+
+
 		</td>
 		</tr>
 		</table>

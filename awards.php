@@ -10,8 +10,8 @@
          <h4> 2017 </h4>
          <h3>KAR National Final 2017 </h3><br>
            <blockquote>
-             - <b>National Grand Champion</b>, Primary Large Group ("Everybody CanCan")<br>
-             - <b>National Champion</b>, Top Primary Large Groups 8 & Under ("Everybody CanCan") <br>
+             - <b>National Grand Champion</b>, Primary Large Group + Line ("Everybody CanCan")<br>
+             - <b>National Champion</b>, Top Primary Large Groups and Line 8 & Under ("Everybody CanCan") <br>
              - <b>Naitonal Most Entertaining</b> Primary Large Group + Line, (Everybody CanCan)<br>
              - National Top Primary Large Group 8 and Under, Second Place (5,6,7,8)<br>
              - National Top Secondary Large Group 9-11, Second Place (Return of Mulan)<br>
@@ -71,7 +71,7 @@
       </div>
     </div>
     <div class="col-sm-4">
-      <img src="images/small/IMG_4158.JPG" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/small/IMG_4158.jpg" class="img-responsive" style="width:100%" alt="Image">
       <img src="images/small/PAA_6499.JPG" class="img-responsive" style="width:100%" alt="Image">
       <img src="images/small/PAA_8339.JPG" class="img-responsive" style="width:100%" alt="Image">
       <img src="images/small/PAA_6675.JPG" class="img-responsive" style="width:100%" alt="Image">

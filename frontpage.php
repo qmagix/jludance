@@ -137,7 +137,7 @@
 		Competition Team Training 2,  5:00-8:00pm<br/>
 		<h3>Friday</h3>
 		Dance Level 10A,  6:00 - 8:00pm<br/>
-		Dance Level 2D(New), 6:45 - 7:15pm<br/>
+		Dance Level 2D(New), 6:45 - 8:15pm<br/>
 		Dance Level 7A,  7:15 - 9:15pm<br/>
 
 

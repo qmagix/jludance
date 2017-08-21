@@ -44,7 +44,7 @@
          First Place, Young Large Group, American Dance Awards ("Beat It 0.1"), 2017<br>
          First Place, 6 & Under, American Dance Awards ("5,6,7,8"), 2017<br>
          TaoLi Highest Honors Awards ("Return of Mulan", "5,6,7,8", "Galloping Spirit"), Oversears TaoLiCup Final 2017 <br/>
-         Outstanding Instructor Award [桃李满园奖], Oversears TaoLiCup Final 2017 <br/>
+         Outstanding Instructor Award [桃李满园奖], Overseas TaoLiCup Final 2017 <br/>
          Primary National Grand Champion, Large Group and Line Dances ("Minion's Dance to Music"), KAR Final in Las Vegas, 2016<br/>
           National Video of the Week Winner, ("Minion's Dance to Music"), KAR 2016<br/>
          Regional Champion, Novice Level, ("Hey Mickey"), NexStar Competition 2016<br/>
@@ -137,7 +137,7 @@
 		Competition Team Training 2,  5:00-8:00pm<br/>
 		<h3>Friday</h3>
 		Dance Level 10A,  6:00 - 8:00pm<br/>
-		Dance Level 2D(New), 6:45 - 8:15pm<br/>
+		Dance Level 2D(New), 5:45 - 7:15pm<br/>
 		Dance Level 7A,  7:15 - 9:15pm<br/>
 
 

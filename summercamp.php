@@ -24,7 +24,7 @@ with rich routines to be featured in live theater performance.
 Music class features vocal/singing and/or percussion instrument lessons. -->
 </p>
 <p>
-Camp times and appropriate level/age groups are as follows:
+Pre-team/regular camp times and appropriate level/age groups are as follows:
 <ol>
 <li>Pre-team Camp 1:&nbsp; 6/25 ~ 6/29, &nbsp; Level 5 and up students (one week intensive training camp)</li>
 <li>Pre-team Camp 2:&nbsp; 7/2 ~ 7/13, &nbsp; for Level 2,3 students (10 weekdays)  </li>
@@ -32,7 +32,8 @@ Camp times and appropriate level/age groups are as follows:
 </ol>
 Due to current space limitation, we cannot accomodate more pre-team camps. The sitruation may change. If you are interested in Pre-team camps at other times, please 
 feel free to email to camps@jludance.com to register your interest. 
-<br>
+</p>
+<p>
 All current team members are recommended to join the following team camps
 <ol>
 <li>Team Camp 1*:&nbsp; 6/11 ~ 6/22, &nbsp; Team 1 and Team 3 (10 Weekdays)</li>

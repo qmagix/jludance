@@ -87,7 +87,7 @@ to come to enjoy what their kids have learned and advanced through their hardwor
   </tr>
 </table>
 <p align="left">(* The kids will have a 10 minutes break between each hour. * Parents please prepare water and lunch for your child.)</p>
-<p align="left"><b><font size="5">Tuition: (~ 350/week)</font></b> 
+<p align="left"><b><font size="5">Tuition: (~ 450/week)</font></b> 
 
   <table border=1>
     <tr>

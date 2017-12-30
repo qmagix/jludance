@@ -103,8 +103,7 @@
 		Dance Level 10A,  11:00 -1:00pm<br/>
 		Dance Level 5A,  11:00 -1:00pm<br/>
 		Dance Level 3A,  1:00 - 2:30pm<br/>
-		Dance Level 7B,  1:00 - 3:00pm<br/>
-		Dance Level 1A(open),  2:30 - 3:30pm<br/>       
+		Dance Level 7B,  1:00 - 3:00pm<br/>		
 		Dance Level 6A,  3:00 - 5:30pm<br/>
 		Dance Level 11B,  3:00 - 5:00pm<br/>
         Dance Level 4D,  4:30 - 6:30pm<br/>        
@@ -113,10 +112,11 @@
 
 
 		<h3>Sunday</h3>
-		Dance Level 4B,  9:00 - 11:00am<br/>
-		Dance Level 9B,  11:00 - 1:00pm<br/>
+		Dance Level 4B,  9:00 - 11:00am<br/>		
+		Dance Level 1A(open),  11:00 - 12:00pm<br/>  
 		Dance Level 6B,  11:00 - 1:00pm<br/>
 		Dance Level 10B,  1:00 - 3:00pm<br/>
+		     
 		Dance Level 5B,  1:00 - 3:00pm<br/>
 		Dance Level 3B,  3:00 - 4:30pm<br/>
 		Dance Level 7A,  3:00 -5:00pm<br/>
@@ -148,11 +148,11 @@
 		<h3>Sunday</h3>
 		Adult Level 2,  9 - 11:00am<br/>
 		
-		<h3>Tuesday</h3>Adult beginner,  10:00 - 11:30am<br/>
+		<h3>Tuesday</h3>
 		Adult Level 2,  7:45 - 9:45pm<br/>
 		<h3>Wednesday</h3>Adult Special Training (練功課）,  7:45 - 9:45pm<br/>
 		<h3>Thursday</h3>Adult Level 3,  7:45 - 9:45pm<br/>
-		<h3>Friday</h3>Adult Beginner,  9:30-11:00am<br/>
+		
 		
 
 

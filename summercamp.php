@@ -17,31 +17,42 @@
 Our dance and music summer camp features an intensive and fun dance and music program 
 that aims to enable a leap in artisctic expressiveness and creativity for the campers. 
 It combines the best of professional-level instruction 
-with rich routines to be featured in live theater performance. 
+with rich routines to be featured in live theater performance and maybe competitions. 
 </p>
 <p>
 <!--This year our camp's dance routines include styles from Flamenco, Jazz, Hiphop, and Latin dances, besides intensive technique training. 
 Music class features vocal/singing and/or percussion instrument lessons. -->
 </p>
 <p>
-Pre-team/regular camp times and appropriate level/age groups are as follows:
 <ol>
-<li>Pre-team Camp 1:&nbsp; 6/25 ~ 6/29, &nbsp; Level 5 and up students (one week intensive training camp)</li>
-<li>Pre-team Camp 2:&nbsp; 7/2 ~ 7/13, &nbsp; for Level 2,3 students (10 weekdays)  </li>
-<li>Pre-team Camp 3:&nbsp; 7/2 ~ 7/13, &nbsp; for Level 4,5 students (10 weekdays)  </li>
+<li>Camp 1:&nbsp; 6/8 ~ 6/17, &nbsp; (10 days in a row), for level 10* and up</li>
+<li>Camp 2:&nbsp; 6/8 ~ 6/17, &nbsp; (10 days in a row), for level 7* and up</li>
+<li>Camp 3:&nbsp; 6/18 ~ 6/29, &nbsp; (10 weekdays) for level 8* and up</li>
+<li>Camp 4:&nbsp; 6/18 ~ 6/29, &nbsp; (10 weekdays) for level 6* and up</li>
+<li>Camp 5:&nbsp; 7/2 ~ 7/13, &nbsp; for Level 2,3 students (10 weekdays)  </li>
+<li>Camp 6:&nbsp; 7/16 ~ 7/27, &nbsp; Level 4,5 students(10 weekdays)</li>
+<li>Camp 7:&nbsp; 7/16 ~ 7/27, &nbsp; Level 5,6 students(10 weekdays)</li>
+<li>Camp 8:&nbsp; 7/30 ~ 8/10, &nbsp; Tentatively reserved </li>
 </ol>
-Due to current space limitation, we cannot accomodate more pre-team camps. The sitruation may change. If you are interested in Pre-team camps at other times, please 
-feel free to email to camps@jludance.com to register your interest. 
-</p>
-<p>
-All current team members are recommended to join the following team camps
-<ol>
-<li>Team Camp 1*:&nbsp; 6/11 ~ 6/22, &nbsp; Team 1 and Team 3 (10 Weekdays)</li>
-<li>Team Camp 2*:&nbsp; 6/25 ~ 6/29, &nbsp; Solo/Duet/Trio/Small Group Dance Camp</li>
-<li>Team Camp 3*:&nbsp; 7/2 ~ 7/10, &nbsp; Pre-KAR training Camp (3 days each group, details offline) </li>
-<li>Team Camp 4*:&nbsp; 7/16 ~ 7/27, &nbsp; Team 2 and Team 4 </li>
-<li>Team Camp 5*:&nbsp; 7/30 ~ 8/10, &nbsp; Team 5 and Team 6 </li>
-</ol>
+<!-- * (if you are not sure about each level requirement -->
+<!-- Pre-team/regular camp times and appropriate level/age groups are as follows: -->
+<!-- <ol> -->
+<!-- <li>Pre-team Camp 1:&nbsp; 6/25 ~ 6/29, &nbsp; Level 5 and up students (one week intensive training camp)</li> -->
+<!-- <li>Pre-team Camp 2:&nbsp; 7/2 ~ 7/13, &nbsp; for Level 2,3 students (10 weekdays)  </li> -->
+<!-- <li>Pre-team Camp 3:&nbsp; 7/2 ~ 7/13, &nbsp; for Level 4,5 students (10 weekdays)  </li> -->
+<!-- </ol> -->
+<!-- Due to current space limitation, we cannot accomodate more pre-team camps. The sitruation may change. If you are interested in Pre-team camps at other times, please  -->
+<!-- feel free to email to camps@jludance.com to register your interest.  -->
+<!-- </p> -->
+<!-- <p> -->
+<!-- All current team members are recommended to join the following team camps -->
+<!-- <ol> -->
+<!-- <li>Team Camp 1*:&nbsp; 6/11 ~ 6/22, &nbsp; Team 1 and Team 3 (10 Weekdays)</li> -->
+<!-- <li>Team Camp 2*:&nbsp; 6/25 ~ 6/29, &nbsp; Solo/Duet/Trio/Small Group Dance Camp</li> -->
+<!-- <li>Team Camp 3*:&nbsp; 7/2 ~ 7/10, &nbsp; Pre-KAR training Camp (3 days each group, details offline) </li> -->
+<!-- <li>Team Camp 4*:&nbsp; 7/16 ~ 7/27, &nbsp; Team 2 and Team 4 </li> -->
+<!-- <li>Team Camp 5*:&nbsp; 7/30 ~ 8/10, &nbsp; Team 5 and Team 6 </li> -->
+<!-- </ol> -->
  <p>(* audition and special commitment required) </p>
 
  <p>Each camp has a showcase time open to parents: 3pm at the last Friday of each camp, parents are invited 

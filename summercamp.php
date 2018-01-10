@@ -53,7 +53,7 @@ Music class features vocal/singing and/or percussion instrument lessons. -->
 <!-- <li>Team Camp 4*:&nbsp; 7/16 ~ 7/27, &nbsp; Team 2 and Team 4 </li> -->
 <!-- <li>Team Camp 5*:&nbsp; 7/30 ~ 8/10, &nbsp; Team 5 and Team 6 </li> -->
 <!-- </ol> -->
- <p>(* audition and special commitment required) </p>
+<!--  <p>(* audition and special commitment required) </p> -->
 
  <p>Each camp has a showcase time open to parents: 3pm at the last Friday of each camp, parents are invited 
 to come to enjoy what their kids have learned and advanced through their hardwork. </p>

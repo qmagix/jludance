@@ -104,7 +104,7 @@
 		Dance Level 5A,  11:00 -1:00pm<br/>
 		Dance Level 3A,  1:00 - 2:30pm<br/>
 		Dance Level 7B,  1:00 - 3:00pm<br/>		
-		Dance Level 6A,  3:00 - 5:30pm<br/>
+		Dance Level 6A,  2:30 - 4:30pm<br/>
 		Dance Level 11B,  3:00 - 5:00pm<br/>
         Dance Level 4D,  4:30 - 6:30pm<br/>        
 		Dance Level 2B,  6:30 - 8:00pm<br/>
@@ -113,8 +113,9 @@
 
 		<h3>Sunday</h3>
 		Dance Level 4B,  9:00 - 11:00am<br/>		
-		Dance Level 1A(open),  11:00 - 12:00pm<br/>  
+		Dance Level 1A(new),  11:00 - 12:00pm<br/>  
 		Dance Level 6B,  11:00 - 1:00pm<br/>
+		Dance Level 1C(new),  12:00 - 1:00pm<br/>  
 		Dance Level 10B,  1:00 - 3:00pm<br/>
 		     
 		Dance Level 5B,  1:00 - 3:00pm<br/>
@@ -124,7 +125,7 @@
         Dance Level 2D,  6:00 -7:30pm<br/>
 
 		<h3>Monday</h3>
-		Dance Level 1B(open),  4:15 - 5:15pm<br/>
+		Dance Level 1B(new),  4:15 - 5:15pm<br/>
 		Dance Level 4C, 5:15 - 7:15pm<br/>
 		Dance Level 6C, 6:45 - 8:45pm<br/>
 

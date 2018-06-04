@@ -38,8 +38,9 @@
                 <p>Ms Lu has a rich teaching experience. She has taught dance
                 and choreography in the prestigious Beijing Dance Academy, the
                 Singapore Nanyang Academy of Fine Arts, the LaSalle-Sia College
-                of Arts, the Hongkong Dance Company, the J&amp;L Dance School in the
-                past 15 years.&nbsp; Some of her students have also won awards
+                of Arts, the Hongkong Dance Company, the J&amp;L Dance School,
+                before found the Jun Lu Performing Arts Academy in California
+                .&nbsp; Some of her students have also won awards
                 in national and
                 international dance competitions.&nbsp; Ms. Lu's unique,
                 creative, caring, and effective teaching style was also
@@ -50,12 +51,12 @@
                 creative thinking.&nbsp; </p>
 
                 <p>As an outstanding choreographer, Ms. Lu has choreographed
-                more than 80 solo and group dances, among which &quot;The Fan&quot;
+                more than 100 solo and group dances, among which &quot;The Fan&quot;
                 received the &quot;Best Choreography&quot; award at the 1999 Asia-Pacific
                 International Dance Competition held&nbsp; in Singapore, &quot;The
                 Yellow River&quot; and &quot;The Dance of Singapore&quot; were awarded the gold
                 and the silver medals in the &quot;Best Choreography&quot; category at the
-                2000 Singapore Youth Festival Dance Contest. Her choreograph
+                2000 Singapore Youth Festival Dance Contest. Her choreography
                 work has been staged in many countries.&nbsp;&nbsp;&nbsp;For instance, &quot;The
                 Fan&quot; has been staged many times in Singapore and Japan; &quot;Melody
                 of Western China&quot; has been staged in China, Singapore, and the
@@ -141,6 +142,8 @@
                 American Dance Awards, Choreographer of the Year, Diamond Choreography Winner(2013)<br>
                 American Dance Awards, Choreographer of the Year, Diamond Choreography Winner(2014)<br>
                 Choreographer of the Year, KAR National Final (2015)<br>
+                Best Choreography, Overseas TaoLi Cup (2016-2017)<br>
+                Best Choreography, StarQuest (2018)<br>
                 </p>
                 <p>&nbsp;
             </td>

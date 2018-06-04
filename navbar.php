@@ -9,12 +9,13 @@ function gen_active_menu($pid){
   <li<?php echo $pid=="news"? ' class="active"':''?>><a href="index.php#news">News</a></li>
   <li<?php echo $pid=="about"? ' class="active"':''?>><a href="index.php?a=about">About</a></li>
   <li<?php echo $pid=="awards"? ' class="active"':''?>><a href="index.php?a=awards">Awards</a></li>
+  <li<?php echo $pid=="awards"? ' class="active"':''?>><a href="index.php?a=jobs">JOBS</a></li>
   <li<?php echo $pid=="contact"? ' class="active"':''?>><a href="index.php#contact">Contact</a></li>
 <?php
 }
 ?>
 
-<?php 
+<?php
 if(isset($_GET['a'])){
 	$page_id=$_GET['a'];
 }else{

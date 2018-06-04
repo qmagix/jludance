@@ -27,6 +27,9 @@ switch($a){
 	case "awards":
 	 	include("awards.php");
 	 	break;
+	case "jobs":
+		include("jobs.php");
+		break;
 	case "schedule":
 	 //include("schedule.inc");
 	 //include("schedule.php");

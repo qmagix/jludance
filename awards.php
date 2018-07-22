@@ -128,14 +128,14 @@
       - Gold (Splendor under the Sunï¼Œ Love of Butterfly)<br>
       - Silver (Dragon Fist, Frolicking Fawn)<br>
       - Bronze (Feelings, Beat It)<br>
-      - Taoli Honors Award [æ¡ƒæ�Žæœ€é«˜è�£èª‰å¥–], (Galloping Spirit) <br>
-      - Taoli Honors Award [æ¡ƒæ�Žæœ€é«˜è�£èª‰å¥–], (5,6,7,8) <br>
-      - Taoli Honors Award [æ¡ƒæ�Žæœ€é«˜è�£èª‰å¥–], (Return of MuLan) <br>
-      - Taoli Spirit Award [æ¡ƒæ�Žç²¾ç¥žå¥–]-Pure Elegance (Splendor under the Sun)<br>
-      - Taoli Spirit Award [æ¡ƒæ�Žç²¾ç¥žå¥–]-Most Energetic (Galloping Spirit)<br>
-      - Taoli Spirit Award [æ¡ƒæ�Žç²¾ç¥žå¥–]-Most Energetic (5ï¼Œ6ï¼Œ7ï¼Œ8)<br>
-      - Taoli Spirit Award [æ¡ƒæ�Žç²¾ç¥žå¥–]-Most Energetic (Return of MuLan)<br>
-      - Outstanding Instructor Award [æ¡ƒæ�Žæ»¡å›­å¥–] (Ms LU) <br>
+      - Taoli Honors Award [桃李最高榮譽獎], (Galloping Spirit) <br>
+      - Taoli Honors Award [桃李最高榮譽獎], (5,6,7,8) <br>
+      - Taoli Honors Award [桃李最高榮譽獎], (Return of MuLan) <br>
+      - Taoli Spirit Award [桃李精神奖]-Pure Elegance (Splendor under the Sun)<br>
+      - Taoli Spirit Award [桃李精神奖]-Most Energetic (Galloping Spirit)<br>
+      - Taoli Spirit Award [桃李精神奖]-Most Energetic (5ï¼Œ6ï¼Œ7ï¼Œ8)<br>
+      - Taoli Spirit Award [桃李精神奖]-Most Energetic (Return of MuLan)<br>
+      - Outstanding Instructor Award [桃李满园奖] (Ms LU) <br>
     </blockquote>
 
        </p>

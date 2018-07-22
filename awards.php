@@ -7,6 +7,77 @@
     <div class="col-sm-8">
       <div class="well">
        <p>
+        <h4> 2018 </h4>
+         <h3>KAR National Dance Competition Final, Anaheim, 2018 </h3><br>
+           <blockquote>
+             - <b>National Grand Champion</b>, Primary Large Group + Line ("Red Jasmine")<br>
+             - <b>National Champion</b>, Top Secondary Line 12-14 ("Passion of Embroidery") <br>
+             - <b>National Champion</b>, Primary Large Groups and Line 8 & Under ("Red Jasmine") <br>
+             - <b>National Champion</b>, Novice Large Groups 8 & Under ("Little Mulan") <br>
+             - National Top Primary Large Group 9-11, Second Place (Joy of Paper Cutting)<br>
+             - National Top Primary Large Group 9-11, Sixth Place (Return of Gongfu Panda)<br>
+             - National Top Secondary Large Group 9-11, 10th Place (Poetic Beauty)<br>
+             - National Top Primary Duet/Trio 9 - 11, Fourth Place (Twin Fans)<br>
+             - National Top Primary Solo 9 - 11, Eighth Place (Fish)<br>
+             - "Artistry in Motion" Judges Choice Award, (Passion of Embroidery)<br>
+             - "Fantastic Performance" Judges Choice Award, (Little Red Fans)<br>
+             - "Best Costume" , (Red Jasmine)<br>
+             - All group dances won Elite Top First Awards <br>
+             - Choreographer of the Year, Ms Jun Lu
+             - Studio of the Year           
+           </blockquote>
+         <br>
+         
+         <h3>StarQuest Dance Competition, San Jose, 2018 </h3><br>
+           <blockquote>
+             - <b>StarQuest People's Choice Award</b>, "Return of Gongfu Panda"<br>
+             - <b>Petite Odyssey Award</b>, "Jasmine Love"<br>
+             - Top Nova Petite Line,  1st Place, "Red Jasmine" <br>
+             - Top Nova Junior Large Group,  1st Place, "Return of Gongfu Panda" <br>
+             - Top Nova Junior Duet/Trio, 2nd Place, Twin Fans
+             - Top Nova Junior Solo, 2nd Place, Jasmine in the Rain
+             - <b>Choreography Award</b>, Ms Jun Lu<br>
+             ...  
+           </blockquote>
+         <br>
+         
+         <h3>KAR Regional Dance Competition, San Jose, 2018 </h3><br>
+           <blockquote>
+             - <b>Video of the Week</b>, "Poetic Beauty"<br>
+             - <b>Most Entertaining</b>, Secondary Large Group, "Poetic Beauty"<br>
+             - Top Secondary Large Group 9-11, 1st Place (Poetic Beauty)<br>
+             - Top Secondary Line 12-14, 1st Place, "Passion of Embroidery" <br>
+             - Top Primary Line 8 & Under,  1st Place, "Red Jasmine" <br>
+             - Top Novice Large Groups 8 & Under,  1st Place, "Little Mulan" <br>
+             - Top Primary Large Group 9-11, Third Place (Joy of Paper Cutting)<br>
+             - Top Primary Large Group 9-11, 7th Place (Phantom of Opera 0.1)<br>
+             - Top Primary Large Group 9-11, 8th Place (Return of Gongfu Panda)<br> 
+             ...     
+           </blockquote>
+         <br>
+
+
+       </p>
+      </div>
+    </div>
+    <div class="col-sm-4">
+      <img src="images/karfinal2018/thumbs/CT0_0735.JPG" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/karfinal2018/thumbs/CT0_0957.JPG" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/karfinal2018/thumbs/CT0_3272.JPG" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/karfinal2018/thumbs/CT0_5401.JPG" class="img-responsive" style="width:100%" alt="Image">
+
+       <img src="images/karfinal2018/thumbs/CT0_5155.JPG" class="img-responsive" style="width:100%" alt="Image">
+       <img src="images/karfinal2018/thumbs/CT0_5929.JPG" class="img-responsive" style="width:100%" alt="Image">
+       <img src="images/karfinal2018/thumbs/CT0_5965.JPG" class="img-responsive" style="width:100%" alt="Image">
+       <img src="images/karfinal2018/thumbs/CT0_6605.JPG" class="img-responsive" style="width:100%" alt="Image">
+       <img src="images/karfinal2018/thumbs/CT0_7202.JPG" class="img-responsive" style="width:100%" alt="Image">
+
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-8">
+      <div class="well">
+       <p>
          <h4> 2017 </h4>
          <h3>KAR National Final 2017 </h3><br>
            <blockquote>
@@ -54,17 +125,17 @@
       - Platinum Award (Purple Fish)<br>
       - Platinum Award (Galloping Spirit)<br>
       - Gold (Return of Mulan, Everybody CanCan, Playful Trio)<br>
-      - Gold (Splendor under the Sun， Love of Butterfly)<br>
+      - Gold (Splendor under the Sunï¼Œ Love of Butterfly)<br>
       - Silver (Dragon Fist, Frolicking Fawn)<br>
       - Bronze (Feelings, Beat It)<br>
-      - Taoli Honors Award [桃李最高荣誉奖], (Galloping Spirit) <br>
-      - Taoli Honors Award [桃李最高荣誉奖], (5,6,7,8) <br>
-      - Taoli Honors Award [桃李最高荣誉奖], (Return of MuLan) <br>
-      - Taoli Spirit Award [桃李精神奖]-Pure Elegance (Splendor under the Sun)<br>
-      - Taoli Spirit Award [桃李精神奖]-Most Energetic (Galloping Spirit)<br>
-      - Taoli Spirit Award [桃李精神奖]-Most Energetic (5，6，7，8)<br>
-      - Taoli Spirit Award [桃李精神奖]-Most Energetic (Return of MuLan)<br>
-      - Outstanding Instructor Award [桃李满园奖] (Ms LU) <br>
+      - Taoli Honors Award [æ¡ƒæ�Žæœ€é«˜è�£èª‰å¥–], (Galloping Spirit) <br>
+      - Taoli Honors Award [æ¡ƒæ�Žæœ€é«˜è�£èª‰å¥–], (5,6,7,8) <br>
+      - Taoli Honors Award [æ¡ƒæ�Žæœ€é«˜è�£èª‰å¥–], (Return of MuLan) <br>
+      - Taoli Spirit Award [æ¡ƒæ�Žç²¾ç¥žå¥–]-Pure Elegance (Splendor under the Sun)<br>
+      - Taoli Spirit Award [æ¡ƒæ�Žç²¾ç¥žå¥–]-Most Energetic (Galloping Spirit)<br>
+      - Taoli Spirit Award [æ¡ƒæ�Žç²¾ç¥žå¥–]-Most Energetic (5ï¼Œ6ï¼Œ7ï¼Œ8)<br>
+      - Taoli Spirit Award [æ¡ƒæ�Žç²¾ç¥žå¥–]-Most Energetic (Return of MuLan)<br>
+      - Outstanding Instructor Award [æ¡ƒæ�Žæ»¡å›­å¥–] (Ms LU) <br>
     </blockquote>
 
        </p>

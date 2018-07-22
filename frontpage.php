@@ -38,6 +38,16 @@
       <div class="well">
         <h4>Recent Awards</h4>
        <p>
+       National Grand Champion, Primary Large Group + Line ("Red Jasmine"), KAR National Final in Anaheim, 2018<br/>
+       National Champion, Top Secondary Line 12-14 ("Passion of Embroidery"), KAR National Final, 2018<br/>
+		National Champion, Primary Large Groups and Line 8 & Under ("Red Jasmine"), KAR National Final, 2018<br/>
+		National Champion, Novice Large Groups 8 & Under ("Little Mulan"), KAR National Final, 2018<br/>
+		 Choreographer of the Year, Ms Jun Lu, National Final, KAR 2018<br/>
+		  Studio of the Year, KAR National Final, 2018<br/>
+		 Most Entertaining and Video of the Week Winner, ("Poetic Beauty"), KAR Regional 2018<br/>
+		 StarQuest People's Choice Award, "Return of Gongfu Panda", StarQuest 2018 <br>
+		 Petite Odyssey Award, "Jasmine Love",, StarQuest 2018 <br>
+		 StarQuest Choreography Award, Ms Jun Lu, 2018<br>
          National Grand Champion, Primary Large Group ("Everybody CanCan"), KAR National Final in Anaheim, 2017<br/>
          Most Entertaining, Top Primary Large Groups 8 & Under ("Everybody CanCan"), KAR National Final in Anaheim, 2017<br/>
          National Video of the Week Winner, ("5,6,7,8"), KAR 2017<br/>
@@ -48,10 +58,11 @@
          Primary National Grand Champion, Large Group and Line Dances ("Minion's Dance to Music"), KAR Final in Las Vegas, 2016<br/>
           National Video of the Week Winner, ("Minion's Dance to Music"), KAR 2016<br/>
          Regional Champion, Novice Level, ("Hey Mickey"), NexStar Competition 2016<br/>
-       National Champion, Top Primary Large Groups 8 & Under ("Jasmine Love"), KAR 2015<br/>
+<!--       National Champion, Top Primary Large Groups 8 & Under ("Jasmine Love"), KAR 2015<br/>
    National Champion, Top Secondary Large Groups 8 & Under ("Joy of Paper Cutting"), KAR 2015<br/>
    Most Entertaining, National Final, Secondary Large Group ("Joy of Paper Cutting"), KAR 2015<br/>
     Choreographer of the Year, National Final, KAR 2015<br>
+  --> 
     ......<br>
     <a href="index.php?a=awards">More Details</a>
        </p>

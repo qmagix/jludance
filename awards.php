@@ -68,9 +68,9 @@
 
        <img src="images/karfinal2018/thumbs/CT0_5155.JPG" class="img-responsive" style="width:100%" alt="Image">
        <img src="images/karfinal2018/thumbs/CT0_5929.JPG" class="img-responsive" style="width:100%" alt="Image">
-       <img src="images/karfinal2018/thumbs/CT0_5965.JPG" class="img-responsive" style="width:100%" alt="Image">
+       <!-- img src="images/karfinal2018/thumbs/CT0_5965.JPG" class="img-responsive" style="width:100%" alt="Image" -->
        <img src="images/karfinal2018/thumbs/CT0_6605.JPG" class="img-responsive" style="width:100%" alt="Image">
-       <img src="images/karfinal2018/thumbs/CT0_7202.JPG" class="img-responsive" style="width:100%" alt="Image">
+       <!-- img src="images/karfinal2018/thumbs/CT0_7202.JPG" class="img-responsive" style="width:100%" alt="Image" -->
 
     </div>
   </div>

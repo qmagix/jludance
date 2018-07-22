@@ -34,8 +34,8 @@
              - <b>Petite Odyssey Award</b>, "Jasmine Love"<br>
              - Top Nova Petite Line,  1st Place, "Red Jasmine" <br>
              - Top Nova Junior Large Group,  1st Place, "Return of Gongfu Panda" <br>
-             - Top Nova Junior Duet/Trio, 2nd Place, Twin Fans
-             - Top Nova Junior Solo, 2nd Place, Jasmine in the Rain
+             - Top Nova Junior Duet/Trio, 2nd Place, Twin Fans <br>
+             - Top Nova Junior Solo, 2nd Place, Jasmine in the Rain <br>
              - <b>Choreography Award</b>, Ms Jun Lu<br>
              ...  
            </blockquote>

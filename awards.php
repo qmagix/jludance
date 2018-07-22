@@ -23,8 +23,8 @@
              - "Fantastic Performance" Judges Choice Award, (Little Red Fans)<br>
              - "Best Costume" , (Red Jasmine)<br>
              - All group dances won Elite Top First Awards <br>
-             - Choreographer of the Year, Ms Jun Lu
-             - Studio of the Year           
+             - <b>Choreographer of the Year</b>, Ms Jun Lu <br>
+             - <b>Studio of the Year </b>          
            </blockquote>
          <br>
          

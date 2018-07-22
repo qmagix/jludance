@@ -28,7 +28,7 @@
            </blockquote>
          <br>
          
-         <h3>StarQuest Dance Competition, San Jose, 2018 </h3><br>
+         <h3>StarQuest Dance Competition, 2018 </h3><br>
            <blockquote>
              - <b>StarQuest People's Choice Award</b>, "Return of Gongfu Panda"<br>
              - <b>Petite Odyssey Award</b>, "Jasmine Love"<br>
@@ -41,7 +41,7 @@
            </blockquote>
          <br>
          
-         <h3>KAR Regional Dance Competition, San Jose, 2018 </h3><br>
+         <h3>KAR Regional Dance Competition, 2018 </h3><br>
            <blockquote>
              - <b>Video of the Week</b>, "Poetic Beauty"<br>
              - <b>Most Entertaining</b>, Secondary Large Group, "Poetic Beauty"<br>

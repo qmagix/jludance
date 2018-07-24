@@ -62,7 +62,7 @@
    National Champion, Top Secondary Large Groups 8 & Under ("Joy of Paper Cutting"), KAR 2015<br/>
    Most Entertaining, National Final, Secondary Large Group ("Joy of Paper Cutting"), KAR 2015<br/>
     Choreographer of the Year, National Final, KAR 2015<br>
-  --> 
+  -->
     ......<br>
     <a href="index.php?a=awards">More Details</a>
        </p>
@@ -136,7 +136,7 @@
     Dance Level 2D,  6:00 -7:30pm<br/>
 
 		<h3>Monday</h3>
-		Dance Level 1B,  4:15 - 5:15pm<br/>
+		Dance Level 1B(Open),  4:15 - 5:15pm<br/>
 		Dance Level 4C, 5:15 - 7:15pm<br/>
 		Dance Level 6C, 6:45 - 8:45pm<br/>
 

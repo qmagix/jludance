@@ -117,7 +117,7 @@
 		Dance Level 7B,  1:00 - 3:00pm<br/>
 		Dance Level 6A,  2:30 - 4:30pm<br/>
 		Dance Level 11B,  3:00 - 5:00pm<br/>
-    Dance Level 4D,  4:30 - 6:30pm<br/>
+        Dance Level 4D,  4:30 - 6:30pm<br/>
 		Dance Level 2B,  6:30 - 8:00pm<br/>
 		Competition Team Training 1,  5:00-8:30pm<br/>
 
@@ -132,8 +132,8 @@
 		Dance Level 5B,  1:00 - 3:00pm<br/>
 		Dance Level 3B,  3:00 - 4:30pm<br/>
 		Dance Level 7A,  3:00 -5:00pm<br/>
-    Dance Level 2A,  4:30 -6:00pm<br/>
-    Dance Level 2D,  6:00 -7:30pm<br/>
+        Dance Level 2A,  4:30 -6:00pm<br/>
+        Dance Level 2D,  6:00 -7:30pm<br/>
 
 		<h3>Monday</h3>
 		Dance Level 1B(Open),  4:15 - 5:15pm<br/>
@@ -142,19 +142,20 @@
 
 		<h3>Tuesday</h3>
 		Dance Level 5C, 5:45 - 7:45pm<br/>
-    Competition Team Training 5,  4:00-6:00pm<br/>
-    Competition Team Training 4,  6:00-8:00pm<br/>
+        Competition Team Training 5,  4:00-6:00pm<br/>
+        Competition Team Training 4,  6:00-8:00pm<br/>
 		<h3>Wednesday</h3>
-    Competition Team Training 3,  4:00-6:00pm<br/>
+        Competition Team Training 3,  4:00-6:00pm<br/>
 		Dance Level 9A,  6:00 - 8:00pm<br/>
 		<h3>Thursday</h3>
 		Dance Level 2C(Open), 4:45 - 6:15pm<br/>
 		Dance Level 3C, 6:15 - 7:45pm<br/>
 		Competition Team Training 2,  5:00-8:00pm<br/>
 		<h3>Friday</h3>
-    Dance Level 1D(Open),  4:45 - 5:45pm<br/>
+		Competition Team Training 6,  4:00-6:00pm<br/>
+        Dance Level 1D(Open),  4:45 - 5:45pm<br/>
 		Dance Level 3D, 5:45 - 7:15pm<br/>
-    Dance Level 11A,  6:00 - 8:00pm<br/>
+        Dance Level 11A,  6:00 - 8:00pm<br/>
 		Dance Level 8A,  7:15 - 9:15pm<br/>
 
 

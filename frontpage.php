@@ -173,9 +173,6 @@
 		<h3>Wednesday</h3>Adult Special Training (練功課）,  7:45 - 9:45pm<br/>
 		<h3>Thursday</h3>Adult Level 3,  7:45 - 9:45pm<br/>
 
-
-
-
 		</td>
 		</tr>
 		</table>

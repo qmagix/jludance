@@ -164,7 +164,7 @@
 
 
 		</td><td valign=top><h2>Adults</h2>
-		<h3>Saturday</h3>Adult Body Sculpting (塑身形體） Class 1,  8:00-9:30pm<br/>
+		<h3>Saturday</h3>Adult Body Sculpting (塑身形體） Class 1,  8:00-10:00pm<br/>
 		<h3>Sunday</h3>
 		Adult Level 2,  9 - 11:00am<br/>
 

@@ -89,7 +89,8 @@ if(isset($_SESSION['checkboxes'])){
     $addmessage.="(name, email, phone, message, interest, time, IP) VALUES ";
     $addmessage.="('$name','$email','$phone','$comment','$s','$day','$r')";
 
-     mysql_query($addmessage) or die(mysql_error());
+     //mysql_query($addmessage) or die(mysql_error());
+		 $db->query($addmessage);
      //print $addmessage;
      print "Thanks for signing up, look forward to seeing you in class soon.<br> ";
 	//print $chinese." - ".$ballet." - ".$flamenco." - ".$jazz." - ".$troupe;

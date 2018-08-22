@@ -5,7 +5,7 @@ $a=isset($_GET["a"])?$_GET["a"]:"home";
 $page_id="home";
 include("navbar.php");
 
-$dbmaintenance=true;
+$dbmaintenance=false;
 
 switch($a){
 	case "signup":

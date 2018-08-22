@@ -4,10 +4,10 @@
  *
  * Author: Qingfeng Huang
  * Email: qingfeng@qhuang.com
- * 
+ *
  */
  $s=$_GET['s'];
- $sid=$_GET['sid'];
+
  include("header.php");
  $db=new Database(DB_SERVER,DB_NAME,DB_USER,DB_PASS);
 switch ($s){
@@ -33,6 +33,7 @@ case 'waiting':
  	echo "<h2> Students on waiting list</h2>";
  	break;
 case 'towaiting':
+    $sid=$_GET['sid'];
     $q="UPDATE students SET status='waiting' WHERE id='$sid'";
 				
  	echo "<h2> Students on waiting list</h2>".$q;
@@ -54,7 +55,7 @@ default:
  	echo "<h2> Students no longer taking class</h2>";
  }
  */
-			//echo $q; 
+			//echo $q;
  $re=$db->query($q);
  //echo "<h2> Active students</h2>";
  $emails=listList($re);

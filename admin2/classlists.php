@@ -10,7 +10,7 @@ function listView($r,$titlefield,$actionlink){
 	$str="All: <ul>";
 	$i=0;
 	$emails="";
-	while ($row=mysql_fetch_assoc($r)){
+	while ($row=mysqli_fetch_assoc($r)){
 		$sid=$row['id'];
 		$str.="<li><a href=\"".$actionlink."id=$sid\"> ".$row[$titlefield]."</a></li>";
 		$i++;
@@ -103,7 +103,7 @@ function classemail($db, $id, $subjecttmp, $messagetmp, $tbstudent="students", $
 		$q="SELECT * FROM ".$tbstudent." WHERE id IN (".$idstr.")";
 		$r=$db->query($q);
 		$i=1;
-		while ($row=mysql_fetch_assoc($r)){
+		while ($row=mysqli_fetch_assoc($r)){
 			$to=$row['email'];
 			//$to="qingfenghuang@msn.com";
 			$totest="huangq@gmail.com";
@@ -159,7 +159,7 @@ function showListEmails($db,$tblist,$id,$tbstudent="students",$studentlistlink="
 		$r=$db->query($q);
 		$emails="";
 		$namephones="";
-		while ($row=mysql_fetch_assoc($r)){
+		while ($row=mysqli_fetch_assoc($r)){
 			$emails.=$row['email'].",<br>";
 
 			$namephones.=$row['name']." : ".$row['phone'].",<br>";
@@ -235,7 +235,7 @@ if(isset($_POST['title'])){
 		$id=$_GET['id'];
 	}
   if(isset($_GET['key'])){
-		$code=mysql_escape_string($_GET['key']);
+		$code=mysqli_escape_string($_GET['key']);
 		$lencode=strlen($code);
 	}
 

@@ -6,18 +6,18 @@
  * Window - Preferences - PHPeclipse - PHP - Code Templates
  */
 
- 
+
 
 require_once("header.php");
 
 $db=new Database(DB_SERVER,DB_NAME,DB_USER,DB_PASS);
- 
+
  if($_GET['t']){
- 	switch($_GET[t]){
- 	case 'a': 
+ 	switch($_GET['t']){
+ 	case 'a':
  	  $_SESSION['student_type']="adult";
  	  $_SESSION['class_tb']="classes";
- 	  
+
  	  prt_h2("Email ".$_SESSION['student_type']." student -- which class?");
 	 $var=$db->getTableColumn($_SESSION['class_tb'],'id','title','visible=1 and ages="adult" and yearid="'.$config['yearid'].'"');
 	  //$var=$db->getTableColumn($_SESSION['class_tb'],'id','title','visible=1 and ages="adult"');
@@ -26,7 +26,7 @@ $db=new Database(DB_SERVER,DB_NAME,DB_USER,DB_PASS);
  	case 'c':
  	  $_SESSION['student_type']="children";
  	  $_SESSION['class_tb']="classes";
- 	  
+
  	  prt_h2("Email ".$_SESSION['student_type']." student -- which class?");
 	 $var=$db->getTableColumn($_SESSION['class_tb'],'id','title','visible=1 and ages="kids" and yearid="'.$config['yearid'].'"'.' order by level');
 	 //$var=$db->getTableColumn($_SESSION['class_tb'],'id','title','visible=1 and ages="kids"');
@@ -45,6 +45,3 @@ $db=new Database(DB_SERVER,DB_NAME,DB_USER,DB_PASS);
 
  }
 ?>
-
-  
-  

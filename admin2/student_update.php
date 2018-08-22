@@ -13,7 +13,7 @@ function prt_update_form_on_code_match($sid,$code,$db){
 	$q="SELECT * FROM students WHERE id='$sid' AND user_update_code='$code'";
 	//echo $q;
 	$re=$db->query($q);
-	$r=mysql_fetch_assoc($re);
+	$r=mysqli_fetch_assoc($re);
 	//var_dump($r);
 	if($r){
 		//update info
@@ -27,7 +27,7 @@ function prt_update_form_on_code_match($sid,$code,$db){
 			echo "<a href=\"$link\">Please send a new update link</a> <br>";
 
 			echo " Thank You! ";
-				
+
 		}else{
 		   //create form
 			print "<form method='post' action='student_update.php' name='form' id=\"kidinfo\">";
@@ -41,30 +41,30 @@ function prt_update_form_on_code_match($sid,$code,$db){
 			//print "<b>Lat :</b> <input type='text' name='latitude' size='20' id='latitude' value=\"".$r['latitude']."\"> ";
 			//print "<b>Lng :</b> <input type='text' name='longitude' size='20' id='longitude' value=\"".$r['longitude']."\"> <br><br>";
 			print "<input type='hidden' name='id' value=\"".$r['id']."\">";
-				
+
 			print "<input type='submit' name='submit' value='Update'>";
 			//print "<input type='button' value='Geocode' onclick=\"codeAddress();\">";
 			print "</form><br>";
-	
-			
+
+
 		}
 	}
 	return $r;
-	
+
 }
 
 function qmail($to, $subject,$message){
 	$headers = 'From: info@jludance.com' . "\r\n" .
 			'Reply-To: info@jludance.com' . "\r\n" .
 			'X-Mailer: PHP/' . phpversion();
-	
+
 	@mail($to, $subject, $message, $headers);
 }
 
 function recordUpdateEmailAlert($db,$table,$entryid,$parr,$to){
 	$q="SELECT * FROM $table WHERE id='$entryid'";
 	$re=$db->query($q);
-	$r=mysql_fetch_assoc($re);
+	$r=mysqli_fetch_assoc($re);
 	$cmp="";
 	foreach ($parr as $key=>$val){
 		if(array_key_exists($key, $r)){
@@ -74,20 +74,20 @@ function recordUpdateEmailAlert($db,$table,$entryid,$parr,$to){
 		}
 		$cmp.="\n\r";
 	}
-	
-	//email 
+
+	//email
 	$subject="Record updated for $entryid in ".$table;
 
 	$message="Here is the change of record for $entryid \n\r\n\r";
 	$message.=$cmp;
 	qmail($to, $subject,$message);
-	
-	
+
+
 }
 
 function random_string($len = 8)
 {
-		$pool = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';				
+		$pool = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
 		$str = '';
 		for ($i=0; $i < $len; $i++)
 		{
@@ -103,22 +103,22 @@ function emailSecureInfoUpdateRequest($db, $table,$id,$msgheader,$linkheader){
 	$re=$db->query($qupdate);
 	//gen the update link
 	$link=$linkheader."id=$id"."&key=".$newcode;
-	//email user the link 
+	//email user the link
 	//$to=$db->getValue("students",'email',$id);
 	$q="SELECT * FROM $table WHERE id='$id'";
 	$re=$db->query($q);
-	$r=mysql_fetch_assoc($re);
+	$r=mysqli_fetch_assoc($re);
 	$to=$r['email'];
 	//email
 	$subject="Record updated for ".$r['name']." requested";
-	
+
 	$message=$msgheader."Here is the link you can use for updating the information: \n\r";
 	$message.=$link;
 	$message.="\r\n\r\n Thank you, \r\n - Jun Lu Performing Arts";
 	qmail($to, $subject,$message);
-	
+
 	//qmail("huangq@gmail.com","processed enw update request for ".$to,$adminmsg);
-	
+
 }
 
 function pushActiveStudentInfoUpdateRequests($db,$studentid=0){
@@ -139,11 +139,11 @@ function pushActiveStudentInfoUpdateRequests($db,$studentid=0){
 		//send to all
 		$q="SELECT * from students WHERE status='active'";
 		$re=$db->query($q);
-		$r=mysql_fetch_array($re);
-		
+		$r=mysqli_fetch_array($re);
+
 		$k=0;
-		
-		while ($row = mysql_fetch_array($re, MYSQL_ASSOC)) {
+
+		while ($row = mysqli_fetch_array($re, mysqli_ASSOC)) {
 			emailSecureInfoUpdateRequest($db, "students",$row['id'],$msgheader,$linkheader);
 			$k=$k+1;
 			$adminmsg.=$k.": ".$row['name']." (".$row['id'].") ".$row['email']."\r\n";
@@ -162,7 +162,7 @@ function adminCodeRegen($db,$codename){
 function adminCodeExist($db,$codename,$code){
 	$q="SELECT * FROM admincodes WHERE codename='$codename'";
 	$re=$db->query($q);
-	$r=mysql_fetch_assoc($re);
+	$r=mysqli_fetch_assoc($re);
 	return $r['code']==$code;
 }
 
@@ -180,10 +180,10 @@ if($_POST['name']){
 	$name=$_POST['name'];
     $phone=$_POST['phone'];
     $email=$_POST['email'];
-    $city=$_POST['city']; 
+    $city=$_POST['city'];
     $guardian=$_POST['guardian'];
-    $bday=$_POST['birthday']; 
-    $address=$_POST['address'];		
+    $bday=$_POST['birthday'];
+    $address=$_POST['address'];
     $sid=$_POST['id'];
    $lat=$_POST['latitude'];
    $lng=$_POST['longitude'];
@@ -203,14 +203,14 @@ if($_POST['name']){
     $db=new Database(DB_SERVER,DB_NAME,DB_USER,DB_PASS);
     //grab old and email alert update for record
     recordUpdateEmailAlert($db,'students',$sid,$_POST,'huangq@gmail.com');
-    
+
     $res=$db->query($s);
-    
+
     echo "$name info has been updated. Thank You!";
-    
+
 }else{
 	$id=$_GET['id'];
-	$code=mysql_escape_string($_GET['key']);
+	$code=mysqli_escape_string($_GET['key']);
 	$cmd=$_GET['cmd'];
 	$lencode=strlen($code);
 	switch ($cmd){
@@ -224,7 +224,7 @@ if($_POST['name']){
 					$db=new Database(DB_SERVER,DB_NAME,DB_USER,DB_PASS);
 					$q="SELECT * FROM students WHERE id='$id'";
 					$re=$db->query($q);
-					$r=mysql_fetch_assoc($re);
+					$r=mysqli_fetch_assoc($re);
 					//var_dump($r);
 // 					if($db->getValue('students', 'user_update_code', $id)==$code){
 				    if($r['user_update_code']==$code){
@@ -237,7 +237,7 @@ if($_POST['name']){
 						die("No match. Please email info@jludance.com for assistance.");
 					}
 				}
-				    
+
 			}
 			break;
 		case "singlerequest":
@@ -261,23 +261,23 @@ if($_POST['name']){
             }
             break;
 		default:
-			
+
 			if(is_numeric($id) && $lencode >0 && $lencode<16){
 				$db=new Database(DB_SERVER,DB_NAME,DB_USER,DB_PASS);
-				
+
 				prt_h2("Please update student info, make sure all is correct and up to date.");
-				
-				if(prt_update_form_on_code_match($id,$code,$db)){					
+
+				if(prt_update_form_on_code_match($id,$code,$db)){
 					echo "<hr/>";
 				}else{
 					die("No match");
 				}
-				
+
 			}else{
 				die("Wrong URL");
 			}
 	}
 }
-	
+
 
 ?>

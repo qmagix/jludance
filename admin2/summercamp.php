@@ -13,10 +13,10 @@ function listCurrentCamps($db){
 	$re=$db->query($q);
 	$cids=array();
 	$str="Existing Camps: <ul>";
-	while ($row=mysql_fetch_assoc($re)){
+	while ($row=mysqli_fetch_assoc($re)){
 		$cids[]=$row['id'];
 		$str.="<li><a href=\"summercamp.php?id=".$row['id']."\"> ".$row['title']."</a> "." </li>";
-		
+
 	}
 	$str.="</ul>";
 	echo $str;
@@ -33,7 +33,7 @@ function listSignupByCamp($cid,$db){
 	$str.="<tr><th>Name</th><th>Age</th><th>Phone</th><th>Notes</th></tr>";
 	$k=0;
 	$emails="";
-	while ($row=mysql_fetch_assoc($re)){
+	while ($row=mysqli_fetch_assoc($re)){
 		$str.="<tr>";
 		$str.="<td>".$row['name']."</td><td>".$row['age']."</td><td>".$row['phone']." </td><td>".$row['message']." </td><td>";
 		$str.="</tr>";
@@ -42,7 +42,7 @@ function listSignupByCamp($cid,$db){
 	}
 	$str.="</table>";
 	$str.="<b>Total students: ".$k."</b><hr>";
-	
+
 	$str.=$emails;
 	echo $str;
 }
@@ -50,7 +50,7 @@ function listSignupByCamp($cid,$db){
 
 
 require_once("header.php");
- 
+
 
 $db=new Database(DB_SERVER,DB_NAME,DB_USER,DB_PASS);
 

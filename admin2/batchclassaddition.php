@@ -4,7 +4,7 @@
  *
  * Author: Qingfeng Huang
  * Email: qingfeng@qhuang.com
- * 
+ *
  */
 require_once("header.php");
 
@@ -29,13 +29,13 @@ foreach($clist as $row){
 	}
 }
 
-if($_POST['t']){
+if(isset($_POST['t'])){
 	$info['title']=$_POST['title'];
 	$info['visible']=$_POST['visible'];
 	$info['ages']=$_POST['t'];
 	$info['yearid']=$_POST['yearid'];
  	switch($_POST['t']){
- 	case 'adult': 
+ 	case 'adult':
  	  $_SESSION['student_type']="adult";
  	  $_SESSION['class_tb']="classes";
 	  $db->saveItem($_SESSION['class_tb'],$info);
@@ -52,12 +52,12 @@ if($_POST['t']){
 	  prt_list_deepener($var,"getclassinfo.php");
  	  break;
  	case 'z':
- 	  
+
  	  break;
  	default:
  	  die ("Unknown class type");
  	}
-	 
+
 
  }
 ?>

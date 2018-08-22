@@ -18,7 +18,7 @@ function searchDB($search_str,$db){
 	$str.="<tr><th>Name</th><th>Status</th><th>Classes</th><th>Birthday</th><th>EMAIL</th><th>Phone</th><th>Guardian</th></tr>";
 	$k=0;
 	$emails="";
-	while ($row=mysql_fetch_assoc($re)){
+	while ($row=mysqli_fetch_assoc($re)){
 		$str.="<tr>";
 		$str.="<td>".$row['name']."</td><td>".$row['status']."</td><td>".getClassesBySid($row['id'],$db)."</td><td>".$row['birthday']."</td><td>".$row['email']." </td><td>".$row['phone']." </td><td>".$row['guardian']." </td><td>";
 		$str.="</tr>";
@@ -37,7 +37,7 @@ function searchDB($search_str,$db){
 	$str.="<tr><th>Name</th><th>Status</th><th>Classes</th><th>Birthday</th><th>EMAIL</th><th>Phone</th><th>Guardian</th></tr>";
 	$k=0;
 	$emails="";
-	while ($row=mysql_fetch_assoc($re)){
+	while ($row=mysqli_fetch_assoc($re)){
 		$str.="<tr>";
 		$str.="<td>".$row['name']."</td><td>".$row['status']."</td><td>".getClassesBySid($row['id'],$db)."</td><td>".$row['birthday']."</td><td>".$row['email']." </td><td>".$row['phone']." </td><td>".$row['guardian']." </td><td>";
 		$str.="</tr>";
@@ -55,7 +55,7 @@ function searchDB($search_str,$db){
 	$str.="<tr><th>Name</th><th>Guardian</th><th>Status</th><th>Classes</th><th>Birthday</th><th>EMAIL</th><th>Phone</th></tr>";
 	$k=0;
 	$emails="";
-	while ($row=mysql_fetch_assoc($re)){
+	while ($row=mysqli_fetch_assoc($re)){
 		$str.="<tr>";
 		$str.="<td>".$row['name']."</td><td>".$row['guardian']." </td><td>".$row['status']."</td><td>".getClassesBySid($row['id'],$db)."</td><td>".$row['birthday']."</td><td>".$row['email']." </td><td>".$row['phone']." </td><td>";
 		$str.="</tr>";
@@ -72,7 +72,7 @@ function searchDB($search_str,$db){
 	$str.="<tr><th>Name</th><th>Guardian</th><th>Status</th><th>Classes</th><th>Birthday</th><th>EMAIL</th><th>Phone</th></tr>";
 	$k=0;
 	$emails="";
-	while ($row=mysql_fetch_assoc($re)){
+	while ($row=mysqli_fetch_assoc($re)){
 		$str.="<tr>";
 		$str.="<td>".$row['name']."</td><td>".$row['guardian']." </td><td>".$row['status']."</td><td>".getClassesBySid($row['id'],$db)."</td><td>".$row['birthday']."</td><td>".$row['email']." </td><td>".$row['phone']." </td><td>";
 		$str.="</tr>";
@@ -91,7 +91,7 @@ function searchDB($search_str,$db){
 if(isset($_POST["search_str"])){
 echo $_POST["search_str"]."<hr>";
   $db=new Database(DB_SERVER,DB_NAME,DB_USER,DB_PASS);
-  searchDB(mysql_real_escape_string($_POST["search_str"]),$db);
+  searchDB(mysqli_real_escape_string($_POST["search_str"]),$db);
   //go to db
 }
 ?>

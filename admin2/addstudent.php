@@ -6,13 +6,13 @@
  * Window - Preferences - PHPeclipse - PHP - Code Templates
  */
 require_once("header.php");
- 
+
 $yearid=$config['yearid'];
 $db=new Database(DB_SERVER,DB_NAME,DB_USER,DB_PASS);
- 
+
  if($_GET['t']){
- 	switch($_GET[t]){
- 	case 'adult': 
+ 	switch($_GET['t']){
+ 	case 'adult':
  	  $_SESSION['student_type']="adult";
  	  $_SESSION['class_tb']="classes";
  	  break;
@@ -29,7 +29,3 @@ $db=new Database(DB_SERVER,DB_NAME,DB_USER,DB_PASS);
 
  }
 ?>
-
-  
-  
-  

@@ -5,18 +5,32 @@ $a=isset($_GET["a"])?$_GET["a"]:"home";
 $page_id="home";
 include("navbar.php");
 
+$dbmaintenance=true;
+
 switch($a){
 	case "signup":
 		include("signup.php");
 		break;
 	case "signup_kids":
-		include("signup_kids.php");
+		if($dbmaintenance){
+			include('maintenancenotice.php');
+		}else{
+			include("signup_kids.php");
+		}
 		break;
 	case "signup_adults":
-		include("signup_adults.php");
+		if($dbmaintenance){
+			include('maintenancenotice.php');
+		}else{
+			include("signup_adults.php");
+		}
 		break;
 	case "summercamp_signup":
-		include("summercamp_signup.php");
+		if($dbmaintenance){
+			include('maintenancenotice.php');
+		}else{
+			include("summercamp_signup.php");
+		}
 		break;
 	case "gallery":
 		include("gallery.php");

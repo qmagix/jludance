@@ -51,6 +51,7 @@ print "<input type='submit' name='submit' value='submit'>";
    }
   else if (isset($_POST['submit']))
   {
+		//print_r($_POST);
  $scode=$_POST['secretcode'];
 
 	if($scode!=$_SESSION["secret_post_code"]){
@@ -68,9 +69,11 @@ print "<input type='submit' name='submit' value='submit'>";
 	 	//$cb->prt();
 	 	foreach ($cb->selection as $key=>$value){
 	 		//print $key."=".$_POST[$key]."<br>";
-	 		if($_POST[$key]=='on'){
-	 			$cb->check($key);
-	 		}
+			if(isset($_POST[$key])){
+		 		if($_POST[$key]=='on'){
+		 			$cb->check($key);
+		 		}
+			}
 	 	}
 	    $s=$cb->getCheckedIdsInStr();
 	}
@@ -84,14 +87,15 @@ print "<input type='submit' name='submit' value='submit'>";
     {
      $r=$_SERVER["REMOTE_ADDR"];
      $day=date("D M d, Y H:i:s");
-    $addmessage="INSERT INTO signups";
+    $addmessage="INSERT INTO signups ";
     $addmessage.="(name, email, phone, message, city, interest, time,IP, age, guardian) VALUES ";
     $addmessage.="('$name','$email','$phone','$comment', '$city','$s','$day','$r','$age', '$guardian')";
 
 
-     mysql_query($addmessage) or die(mysql_error());
+     //mysqli_query($addmessage,) or die(mysqli_error());
+		 $db->query($addmessage);
      //print $addmessage;
-     print "Thanks for signing up, look forward to seeing you in class
+     print $addmessage." \\ Thanks for signing up, look forward to seeing you in class
      soon. <br> ";
 
 	//print $chinese." - ".$ballet." - ".$flamenco." - ".$jazz." - ".$troupe;

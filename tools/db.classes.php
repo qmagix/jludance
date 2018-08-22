@@ -61,7 +61,7 @@
  		//echo $q;
  	}
  	function query($q){
- 		$result=mysqli_query($this->connection,$q)  or die(mysqli_error());
+ 		$result=mysqli_query($this->connection,$q) or die(mysqli_error());
  		return $result;
  	}
  	function lastInsterId(){

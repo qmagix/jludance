@@ -1,9 +1,5 @@
 <?php
 
-
-?>
-<?
-
 require("tools/html.form.classes.php");
 include("dbconf.php");
 require("tools/db.classes.php");
@@ -14,7 +10,7 @@ $var=$db->getTableColumn('classes','id','title','ages="adult" and visible=1 and 
 $cb=new Checkboxes($var);
 $_SESSION['checkboxes']=$cb;
 
-srand((double)microtime()*1000000); 
+srand((double)microtime()*1000000);
 
 if(!empty($_SESSION["secret_post_code"])){
 }else{
@@ -44,7 +40,7 @@ $cid=$_GET["cid"];
      print "<b>Email:</b> <input type='text' name='email' size='40'> (please make sure it is correct)<br>";
      print "<b>Phone:</b> <input type='text' name='phone' size='40'> (optional) <br>";
      print "<b><br>Interested classes: </b><br>";
-    
+
 $cb->prt();
 
      print "<br><br>";
@@ -80,7 +76,7 @@ if(isset($_SESSION['checkboxes'])){
     $s=$cb->getCheckedIdsInStr();
 }
 
-   
+
     if(!$email ||!$name )
     {
       print "<font color='red'>Name or email not entered, please go back and check again</font><br>";
@@ -92,7 +88,7 @@ if(isset($_SESSION['checkboxes'])){
     $addmessage="INSERT INTO signups ";
     $addmessage.="(name, email, phone, message, interest, time, IP) VALUES ";
     $addmessage.="('$name','$email','$phone','$comment','$s','$day','$r')";
-     	
+
      mysql_query($addmessage) or die(mysql_error());
      //print $addmessage;
      print "Thanks for signing up, look forward to seeing you in class soon.<br> ";
@@ -100,10 +96,10 @@ if(isset($_SESSION['checkboxes'])){
 
      $subject="new sign up";
      $to="jludance@gmail.com";
-    	
-    $message="Name: ".$name."---".$comment."+email:+".$email."-phone:-".$phone;	
-    //$message.=" --- Interest $s";   
-    $message.=" --- Interest <a href=\"http://www.jludance.com/admin/listclass.php?tb=classes&id=$s\">$s</a>";  
+
+    $message="Name: ".$name."---".$comment."+email:+".$email."-phone:-".$phone;
+    //$message.=" --- Interest $s";
+    $message.=" --- Interest <a href=\"http://www.jludance.com/admin/listclass.php?tb=classes&id=$s\">$s</a>";
     @mail($to, $subject, $message);
     $subject="new adult class sign up";
     $to="huangq@gmail.com";

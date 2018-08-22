@@ -1,4 +1,4 @@
-<?
+<?php
 //
 require("tools/html.form.classes.php");
 require("tools/db.classes.php");
@@ -9,11 +9,11 @@ $var=$db->getTableColumn('classes','id','title','ages="kids" and visible=1 and y
 $cb=new Checkboxes($var);
 $_SESSION['checkboxes']=$cb;
 
-srand((double)microtime()*1000000); 
+srand((double)microtime()*1000000);
 
 if(!empty($_SESSION["secret_post_code"])){
 }else{
-	
+
 		$_SESSION["secret_post_code"]=rand(0,100000);
 }
 
@@ -52,16 +52,16 @@ print "<input type='submit' name='submit' value='submit'>";
   else if (isset($_POST['submit']))
   {
  $scode=$_POST['secretcode'];
- 
+
 	if($scode!=$_SESSION["secret_post_code"]){
        unset($_SESSION["secret_post_code"]);
        die("bad visual code, please go back and re-enter the correct number. Sorry for inconvenience. We do get quite a bit spam so have to do this.");
-	}else{   
+	}else{
 	$name=$_POST['name'];
     $phone=$_POST['phone'];
     $email=$_POST['email'];
     $comment=$_POST['comment'];
-    $city=$_POST['city']; 
+    $city=$_POST['city'];
 	$s='';
 	if(isset($_SESSION['checkboxes'])){
 	    $cb=$_SESSION['checkboxes'];
@@ -75,7 +75,7 @@ print "<input type='submit' name='submit' value='submit'>";
 	    $s=$cb->getCheckedIdsInStr();
 	}
     $guardian=$_POST['guardian'];
-    $age=$_POST['age']; 		
+    $age=$_POST['age'];
     if(!$email ||!$name )
     {
       print "<font color='red'>Name or email not entered, please go back and check again</font><br>";
@@ -87,30 +87,30 @@ print "<input type='submit' name='submit' value='submit'>";
     $addmessage="INSERT INTO signups";
     $addmessage.="(name, email, phone, message, city, interest, time,IP, age, guardian) VALUES ";
     $addmessage.="('$name','$email','$phone','$comment', '$city','$s','$day','$r','$age', '$guardian')";
-    
-     
+
+
      mysql_query($addmessage) or die(mysql_error());
      //print $addmessage;
      print "Thanks for signing up, look forward to seeing you in class
      soon. <br> ";
-	 
+
 	//print $chinese." - ".$ballet." - ".$flamenco." - ".$jazz." - ".$troupe;
 
      $subject="new kids class sign up";
      $to="jludance@gmail.com";
-     //$message="Name: ".$name."---".$comment;	
+     //$message="Name: ".$name."---".$comment;
      $message="Name: ".$name."---".$comment."+email:+".$email."--phone:--".$phone."=Guardian=".$guardian;
-     
+
 	  //$message.=" --- Interest <a href=\"http://www.jludance.com/admin/listclass.php?tb=kidsclasses&id=$s\">$s</a>";
-	  
+
 	  $cids=split(':',$s);
 	  $message.="----Interests:\n ";
 	  foreach ($cids as $value) {
 	    if($value){
 	       $message.="<a href=\"http://www.jludance.com/admin/listclass.php?tb=classes&id=$value\">$value</a> -- <br>\n";
 		 }
-      }	  
-	  
+      }
+
      @mail($to, $subject, $message);
 
     }}
@@ -120,7 +120,3 @@ print "<input type='submit' name='submit' value='submit'>";
 </div>
 </div>
 </div>
-
-
-
-

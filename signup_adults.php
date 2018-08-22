@@ -19,7 +19,7 @@ if(!empty($_SESSION["secret_post_code"])){
 
 ?>
 <center>
-<?
+<?php
 $cid=$_GET["cid"];
 ?>
 
@@ -30,7 +30,7 @@ $cid=$_GET["cid"];
     <div class="col-sm-12">
       <div class="well">
 
-<?
+<?php
 
     if (!isset($_POST['submit']))
     {

@@ -24,7 +24,7 @@ if(!empty($_SESSION["secret_post_code"])){
   <div class="row">
     <div class="col-sm-12">
       <div class="well">
-<?
+<?php
 
     if (!isset($_POST['submit']))
     {

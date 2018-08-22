@@ -144,17 +144,17 @@
 		Dance Level 5C, 5:45 - 7:45pm<br/>
         Competition Team Training 5,  4:00-6:00pm<br/>
         Competition Team Training 4,  6:00-8:00pm<br/>
-        
+
 		<h3>Wednesday</h3>
         Competition Team Training 3,  4:00-7:00pm<br/>
         Competition Team Training 7,  4:00-6:00pm<br/>
 		Dance Level 9A,  6:00 - 8:00pm<br/>
-		
+
 		<h3>Thursday</h3>
 		Dance Level 2C(Open), 4:45 - 6:15pm<br/>
 		Dance Level 3C, 6:15 - 7:45pm<br/>
 		Competition Team Training 2,  5:00-8:00pm<br/>
-		
+
 		<h3>Friday</h3>
 		Competition Team Training 6,  4:00-6:00pm<br/>
         Dance Level 1D(Open),  4:45 - 5:45pm<br/>
@@ -182,11 +182,11 @@
   </div>
   <div class="row">
     <div class="col-sm-6">
-     <p><a href="index.php?a=signup_kids" class="btn btn-info btn-lg active" role="button">Signup Kids' Class</a></p>
+     <p><a href="http://admin.jludance.org/signups/create" class="btn btn-info btn-lg active" role="button">Signup Kids' Class</a></p>
       <img src="images/content/photo1.gif" class="img-responsive" style="width:100%" alt="Image">
     </div>
     <div class="col-sm-6">
-      <p><a href="index.php?a=signup_adults" class="btn btn-info btn-lg active" role="button">Signup Adults' Class</a></p>
+      <p><a href="http://admin.jludance.org/signups/create" class="btn btn-info btn-lg active" role="button">Signup Adults' Class</a></p>
       <img src="images/content/photo15.jpg" class="img-responsive" style="width:100%" alt="Image">
     </div>
   </div>

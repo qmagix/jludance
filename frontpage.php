@@ -182,11 +182,11 @@
   </div>
   <div class="row">
     <div class="col-sm-6">
-     <p><a href="http://admin.jludance.org/signups/create" class="btn btn-info btn-lg active" role="button">Signup Kids' Class</a></p>
+     <p><a href="http://admin.jludance.org/signup" class="btn btn-info btn-lg active" role="button">Signup Kids' Class</a></p>
       <img src="images/content/photo1.gif" class="img-responsive" style="width:100%" alt="Image">
     </div>
     <div class="col-sm-6">
-      <p><a href="http://admin.jludance.org/signups/create" class="btn btn-info btn-lg active" role="button">Signup Adults' Class</a></p>
+      <p><a href="http://admin.jludance.org/signup" class="btn btn-info btn-lg active" role="button">Signup Adults' Class</a></p>
       <img src="images/content/photo15.jpg" class="img-responsive" style="width:100%" alt="Image">
     </div>
   </div>

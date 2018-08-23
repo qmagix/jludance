@@ -42,7 +42,7 @@ if(isset($_GET['a'])){
 <?php gen_active_menu($page_id);?>
        </ul>
        <ul class="nav navbar-nav navbar-right">
-         <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+         <li><a href="http://admin.jludance.org/"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
        </ul>
      </div>
    </div>

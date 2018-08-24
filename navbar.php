@@ -2,7 +2,7 @@
 function gen_active_menu($pid){
   ?>
   <li<?php echo $pid=="home"? ' class="active"':''?>><a href="index.php">Home</a></li>
-  <li<?php echo $pid=="signup"? ' class="active"':''?>><a href="http://admin.jludance.org/signup">Signup</a></li>
+  <li<?php echo $pid=="signup"? ' class="active"':''?>><a href="https://admin.jludance.org/signup">Signup</a></li>
   <li<?php echo $pid=="schedule"? ' class="active"':''?>><a href="index.php#schedule">Schedule</a></li>
   <!--li<?php echo $pid=="summercamp"? ' class="active"':''?>><a href="index.php?a=summercamp">SummerCamps</a></li-->
   <li<?php echo $pid=="gallery"? ' class="active"':''?>><a href="index.php?a=gallery">Gallery</a></li>
@@ -42,7 +42,7 @@ if(isset($_GET['a'])){
 <?php gen_active_menu($page_id);?>
        </ul>
        <ul class="nav navbar-nav navbar-right">
-         <li><a href="http://admin.jludance.org/login"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+         <li><a href="https://admin.jludance.org/login"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
        </ul>
      </div>
    </div>

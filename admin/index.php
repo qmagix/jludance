@@ -1,3 +1,3 @@
 <?php
-header('Location: http://danceinthewind.com/studio/admin/') ;
+header('Location: https://admin.jludance.org/') ;
 ?>

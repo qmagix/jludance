@@ -94,11 +94,11 @@ switch($a){
 	case "job":
 		include("hiring.php");
 		break;
-	default:
 	case "faq":
 		include("faq.php");
 		break;
 	default:
+
 	 include("carousel.php");
 	 include("frontpage.php");
 }

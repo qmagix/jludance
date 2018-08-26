@@ -9,7 +9,8 @@ function gen_active_menu($pid){
   <li<?php echo $pid=="news"? ' class="active"':''?>><a href="index.php#news">News</a></li>
   <li<?php echo $pid=="about"? ' class="active"':''?>><a href="index.php?a=about">About</a></li>
   <li<?php echo $pid=="awards"? ' class="active"':''?>><a href="index.php?a=awards">Awards</a></li>
-  <li<?php echo $pid=="awards"? ' class="active"':''?>><a href="index.php?a=jobs">JOBS</a></li>
+  <li<?php echo $pid=="jobs"? ' class="active"':''?>><a href="index.php?a=jobs">JOBS</a></li>
+  <li<?php echo $pid=="faq"? ' class="active"':''?>><a href="index.php?a=faq">FAQ</a></li>
   <li<?php echo $pid=="contact"? ' class="active"':''?>><a href="index.php#contact">Contact</a></li>
 <?php
 }

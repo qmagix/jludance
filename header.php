@@ -39,6 +39,10 @@
       max-height: 800px;
   }
 
+  ul.faq li{
+    font-weight: bold;
+  }
+
   /* Hide the carousel text when the screen is less than 600 pixels wide */
   @media (max-width: 600px) {
     .carousel-caption {

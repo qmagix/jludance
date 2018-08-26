@@ -198,6 +198,7 @@
 1600 Saratoga Ave,  # 427 <br>
 San Jose, CA 95129 <br>
 <br>
+FAQs: <a href="index.php?a=faq">Click Here for Frequently Asked Questions with Answers</a>  <br>
 Phone:    (408) 219-3562 <br>
 Email:    info@jludance.com      <br>
 <br>

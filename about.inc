@@ -160,7 +160,7 @@
   <div class="row">
     <div class="col-sm-12">
       <div class="well">
-        <a href="docs/registration.pdf">
+        <a href="docs/registration_form.pdf">
           Registration Form
         </a>
         |

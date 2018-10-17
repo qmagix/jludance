@@ -160,11 +160,11 @@
   <div class="row">
     <div class="col-sm-12">
       <div class="well">
-        <a href="http://www.danceinthewind.com/studio/registration2007.pdf">
+        <a href="docs/registration.pdf">
           Registration Form
         </a>
         |
-        <a href="http://www.danceinthewind.com/studio/policy.pdf">
+        <a href="docs/policy.pdf">
           Academy Policy
         </a>
       </div>

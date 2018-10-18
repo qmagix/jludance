@@ -111,6 +111,8 @@
         <table width="100%"><tr><td valign=top><h2>Kids</h2><h3>Saturday</h3>
 		Dance Level 8B,  9:00 - 11:00am<br/>
 		Dance Level 4A,  9:00 - 11:00am<br/>
+		Dance Level 2E,  9:30 - 11:00am (New)<br/>
+		Dance Level 1E,  11:00 - 12:00pm (New)<br/>
 		Dance Level 10A,  11:00 -1:00pm<br/>
 		Dance Level 5A,  11:00 -1:00pm<br/>
 		Dance Level 3A,  1:00 - 2:30pm<br/>

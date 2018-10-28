@@ -2,7 +2,7 @@
 
 ?>
 <div class="container text-center">
-  <h3 id="about">Jun Lu Performing Arts Academy</h3><br>
+  <h3 id="about">Life, Beauty, Passion and Joy at Jun Lu Performing Arts Academy</h3><br>
     <div class="row">
 	    <div class="col-sm-6">
 	     <h4 align="center">We are the Champions by Team 1</h4>

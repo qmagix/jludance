@@ -58,5 +58,8 @@
 	      <h4 align="center">Better Faster Stronger</h4><center>
 	      <iframe width="560" height="315" src="https://www.youtube.com/embed/0Z_xCRFbqMQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	    </div>
-    </div>  
+    </div>
+     <div class="row">
+     Video Credit: Olivia, Janey, Shannon, Danci, Grace, Annie, Mia's dad, Leo, Lex... 
+      </div>
 </div>

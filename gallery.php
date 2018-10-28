@@ -42,5 +42,15 @@
 	      <h4 align="center">2018 National Grand Champion Moments</h4><center>
 	      <iframe width="560" height="315" src="https://www.youtube.com/embed/dU-d87hPLug" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	    </div>
+    </div>
+        <div class="row">
+	    <div class="col-sm-6">
+	     <h4 align="center">This is Me! </h4>
+	     <iframe width="560" height="315" src="https://www.youtube.com/embed/IvSyZtw38wE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	     </div>
+	    <div class="col-sm-6">
+	      <h4 align="center">Better Faster Stronger</h4><center>
+	      <iframe width="560" height="315" src="https://www.youtube.com/embed/0Z_xCRFbqMQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	    </div>
     </div>  
 </div>

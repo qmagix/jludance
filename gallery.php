@@ -29,7 +29,7 @@
 	      <iframe width="560" height="315" src="https://www.youtube.com/embed/1rM31bl4RnU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	    </div>
 	      <div class="col-sm-6">
-	      <h4 align="center">Fun to Get Started by Team 6</h4><center>
+	      <h4 align="center">We just get started by Team 6</h4><center>
 	      <iframe width="560" height="315" src="https://www.youtube.com/embed/h0oY2lSKSX0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	    </div>
 	     </div>  

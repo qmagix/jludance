@@ -64,6 +64,6 @@
 	    </div>
     </div>
      <div class="row">
-     Video Credit: Olivia, Janey, Shannon, Danci, Grace, Annie, Mia's dad, Leo, Lex... 
+     Video Credit: Olivia, Janey, Shannon, Danci, Grace, Annie, Mia's dad, Jiatong, Leo, Lex... 
       </div>
 </div>

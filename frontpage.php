@@ -130,8 +130,8 @@
 		Dance Level 7B,  11:00 - 1:00pm<br/>
 		Dance Level 2C,  12:00 - 1:30pm<br/>
 		Dance Level 11B,  1:00 - 3:00pm<br/>
-
 		Dance Level 6B,  1:00 - 3:00pm<br/>
+    Dance Level 1B,  2:00 - 3:00pm<br/>
 		Dance Level 4B,  3:00 - 5:00pm<br/>
 		Dance Level 8A,  3:00 -5:00pm<br/>
     Dance Level 3A,  4:30 -6:00pm<br/>

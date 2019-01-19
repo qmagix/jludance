@@ -13,26 +13,29 @@
 </font></b></p>
 
 <p align="center">
-&nbsp;<b><a href="index.php?a=summercamp_signup">Signup</a></b></p>
-Our dance and music summer camp features an intensive and fun dance and music program 
-that aims to enable a leap in artisctic expressiveness and creativity for the campers. 
-It combines the best of professional-level instruction 
-with rich routines to be featured in live theater performance and maybe competitions. 
+&nbsp;<b><a href="https://admin.jludance.org/signup/camp">Signup</a></b></p>
+Our dance and music summer camp features an intensive and fun dance and music program
+that aims to enable a leap in artisctic expressiveness and creativity for the campers.
+It combines the best of professional-level instruction
+with rich routines to be featured in live theater performance and maybe competitions.
 </p>
 <p>
-<!--This year our camp's dance routines include styles from Flamenco, Jazz, Hiphop, and Latin dances, besides intensive technique training. 
+<!--This year our camp's dance routines include styles from Flamenco, Jazz, Hiphop, and Latin dances, besides intensive technique training.
 Music class features vocal/singing and/or percussion instrument lessons. -->
 </p>
 <p>
 <ol>
-<li>Camp 1:&nbsp; 6/8 ~ 6/17, &nbsp; (10 days in a row), for level 10* and up</li>
-<li>Camp 2:&nbsp; 6/8 ~ 6/17, &nbsp; (10 days in a row), for level 7* and up</li>
-<li>Camp 3:&nbsp; 6/18 ~ 6/29, &nbsp; (10 weekdays) for level 8* and up</li>
-<li>Camp 4:&nbsp; 6/18 ~ 6/29, &nbsp; (10 weekdays) for level 6* and up</li>
-<li>Camp 5:&nbsp; 7/2 ~ 7/13, &nbsp; for Level 2,3 students (10 weekdays)  </li>
-<li>Camp 6:&nbsp; 7/16 ~ 7/27, &nbsp; Level 4,5 students(10 weekdays)</li>
-<li>Camp 7:&nbsp; 7/16 ~ 7/27, &nbsp; Level 5,6 students(10 weekdays)</li>
-<li>Camp 8:&nbsp; 7/30 ~ 8/10, &nbsp; Tentatively reserved </li>
+<li>Camp 1:&nbsp; 6/7 ~ 6/16, &nbsp; (tentative, 10 days in a row), for level 11+ and up</li>
+<li>Camp 2:&nbsp; 6/10 ~ 6/21, &nbsp; (10 weekdays) for level 8+ and up</li>
+<li>Camp 3:&nbsp; 6/10 ~ 6/21, &nbsp; (10 weekdays) for levels ~ 6,7,8</li>
+<li>Camp 4:&nbsp; 6/24 ~ 7/5, &nbsp; (10 weekdays) for level 9+ and up</li>
+<li>Camp 5:&nbsp; 6/24 ~ 7/5, &nbsp; (10 weekdays) for level 6+ and up</li>
+<li>Camp 6:&nbsp; 6/24 ~ 7/5, &nbsp; (10 weekdays) for levels ~ 4,5</li>
+<li>Camp 7:&nbsp; 7/8 ~ 7/19, &nbsp; (10 weekdays) for Level 2 students   </li>
+<li>Camp 8:&nbsp; 7/8 ~ 7/19, &nbsp; (10 weekdays) for Level 3 students  </li>
+<li>Camp 9:&nbsp; 7/22 ~ 8/2, &nbsp; (10 weekdays) Level 4+ and up</li>
+<li>Camp 10:&nbsp; 7/22 ~ 8/2, &nbsp; (10 weekdays) Level 5+ and up</li>
+<li>Camp 11:&nbsp; 7/22 ~ 8/2, &nbsp; (10 weekdays) Level 6+ and up</li>
 </ol>
 <!-- * (if you are not sure about each level requirement -->
 <!-- Pre-team/regular camp times and appropriate level/age groups are as follows: -->
@@ -55,9 +58,9 @@ Music class features vocal/singing and/or percussion instrument lessons. -->
 <!-- </ol> -->
 <!--  <p>(* audition and special commitment required) </p> -->
 
- <p>Each camp has a showcase time open to parents: 3pm at the last Friday of each camp, parents are invited 
+ <p>Each camp has a showcase time open to parents: 3pm at the last Friday of each camp, parents are invited
 to come to enjoy what their kids have learned and advanced through their hardwork. </p>
-<a href="index.php?a=summercamp_signup">Signup now</a> for early bird rate</p>
+<a href="https://admin.jludance.org/signup/camp">Signup now</a> for early bird rate</p>
 
 <h2> Camp daily schedule</h2>
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" height="136">
@@ -97,26 +100,26 @@ to come to enjoy what their kids have learned and advanced through their hardwor
     <p align="center">Art appreciation</td>
   </tr>
 </table>
-<p align="left">(* The kids will have a 10 minutes break between each hour. * Parents please prepare water and lunch for your child.)</p>
-<p align="left"><b><font size="5">Tuition: (~ 450/week)</font></b> 
+<p align="left">(* The kids will have a 10 minutes break between each hour. * Parents please prepare water and lunch for your child. * actual content/daily schedule of each camp may change depending on the needs of each group)</p>
+<p align="left"><b><font size="5">Tuition: </font></b>
 
   <table border=1>
     <tr>
       <td>CAMP</td><td>regular</td><td>early bird(before Feb 1)</td>
     </tr>
     <tr>
-      <td>10 day camp</td><td>900</td><td>800</td>      
-    </tr>    
+      <td>10 day camp</td><td>990</td><td>880</td>
+    </tr>
     <tr>
-      <td>5 day camp</td><td>500</td><td>450</td>
-    </tr>    
+      <td>5 day camp</td><td>550</td><td>500</td>
+    </tr>
   </table>
 $5/hour extra for the optional 4~6pm class. </p>
 <p align="left">For more details or questions, please email jun@jludance.com or call 408-712-9188</p>
 
-<p>Cancellation: we reserve the right to cancel the camp if the enrollment is 
+<p>Cancellation: we reserve the right to cancel the camp if the enrollment is
 not sufficient. You will get a full refund if this happened.&nbsp; </p>
-<h2><b><a href="index.php?a=summercamp_signup">Signup Online</a></b></h2>
+<h2><b><a href="https://admin.jludance.org/signup/camp">Signup Online</a></b></h2>
 </div>
 
 </div>

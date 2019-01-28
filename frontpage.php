@@ -118,7 +118,6 @@
 		Dance Level 4A,  1:00 - 3:00pm<br/>
 		Dance Level 8B,  1:00 - 3:00pm<br/>
 		Dance Level 7A,  2:30 - 4:30pm<br/>
-		Dance Level 12B,  3:00 - 5:00pm<br/>
     Dance Level 5D,  4:30 - 6:30pm<br/>
 		Dance Level 3B,  6:30 - 8:00pm<br/>
 		Competition Team Training 1,  5:00-8:30pm<br/>
@@ -150,7 +149,6 @@
 		<h3>Wednesday</h3>
     Competition Team Training 3,  4:00-7:00pm<br/>
     Competition Team Training 7,  4:00-6:00pm<br/>
-		Dance Level 10A,  6:00 - 8:00pm<br/>
 
 		<h3>Thursday</h3>
 		Dance Level 3C, 4:45 - 6:15pm<br/>

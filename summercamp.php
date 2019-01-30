@@ -105,7 +105,7 @@ to come to enjoy what their kids have learned and advanced through their hardwor
 
   <table border=1>
     <tr>
-      <td>CAMP</td><td>regular</td><td>early bird(before Feb 1)</td>
+      <td>CAMP</td><td>regular</td><td>early bird(Payment or $100 deposit before Feb 3rd)</td>
     </tr>
     <tr>
       <td>10 day camp</td><td>990</td><td>880</td>

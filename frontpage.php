@@ -121,6 +121,7 @@
     Dance Level 5D,  4:30 - 6:30pm<br/>
 		Dance Level 3B,  6:30 - 8:00pm<br/>
 		Competition Team Training 1,  5:00-8:30pm<br/>
+    Boy's Hiphop Class,  8:00 - 9:00pm<br/>
 
 
 		<h3>Sunday</h3>
@@ -164,7 +165,7 @@
 
 
 		</td><td valign=top><h2>Adults</h2>
-		<h3>Saturday</h3>Adult Body Sculpting (塑身形體） Class 1,  8:00-10:00pm<br/>
+		<h3>Saturday</h3>Adult Body Sculpting (塑身形體） Class 1,  7:30-9:30pm<br/>
 		<h3>Sunday</h3>
 		Adult Level 2,  9 - 11:00am<br/>
 

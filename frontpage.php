@@ -119,6 +119,7 @@
 		Dance Level 8B,  1:00 - 3:00pm<br/>
 		Dance Level 7A,  2:30 - 4:30pm<br/>
     Dance Level 5D,  4:30 - 6:30pm<br/>
+    Boy's Hiphop Class Junior,  5:00 - 6:00pm<br/>
 		Dance Level 3B,  6:30 - 8:00pm<br/>
     Boy's Hiphop Class,  6:30 - 7:30pm<br/>
 		Competition Team Training 1,  5:00-8:30pm<br/>

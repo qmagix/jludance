@@ -113,8 +113,9 @@
 		Dance Level 5A,  9:00 - 11:00am<br/>
 		Dance Level 2E,  9:30 - 11:00am (New)<br/>
 		Dance Level 1A,  11:00 - 12:00pm (New)<br/>
-		Dance Level 11A,  11:00 -1:00pm<br/>
-		Dance Level 6A,  11:00 -1:00pm<br/>
+		Dance Level 11A,  11:00 - 1:00pm<br/>
+		Dance Level 6A,  11:00 - 1:00pm<br/>
+    Dance Level 1C,  12:30 - 1:30pm<br/>
 		Dance Level 4A,  1:00 - 3:00pm<br/>
 		Dance Level 8B,  1:00 - 3:00pm<br/>
 		Dance Level 7A,  2:30 - 4:30pm<br/>

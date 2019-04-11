@@ -147,7 +147,7 @@
 
 		<h3>Tuesday</h3>
 		Dance Level 6C, 5:45 - 7:45pm<br/>
-    Competition Team Training 5,  4:00-6:00pm<br/>
+    Competition Team Training 5,  4:00-7:00pm<br/>
     Competition Team Training 4,  6:00-8:00pm<br/>
 
 		<h3>Wednesday</h3>
@@ -160,7 +160,7 @@
 		Competition Team Training 2,  5:00-8:00pm<br/>
 
 		<h3>Friday</h3>
-		Competition Team Training 6,  4:00-6:00pm<br/>
+		Competition Team Training 6,  4:00-7:00pm<br/>
     Dance Level 2D,  4:45 - 6:15pm<br/>
 		Dance Level 4D, 5:45 - 7:45pm<br/>
     Dance Level 12A,  6:00 - 8:00pm<br/>

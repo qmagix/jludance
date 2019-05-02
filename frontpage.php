@@ -129,6 +129,7 @@
 
 		<h3>Sunday</h3>
 		Dance Level 5B,  9:00 - 11:00am<br/>
+    Dance Level 1D,  9:30 - 10:30am<br/>
 		Dance Level 2A,  10:30 - 12:00pm<br/>
 		Dance Level 7B,  11:00 - 1:00pm<br/>
 		Dance Level 2C,  12:00 - 1:30pm<br/>
@@ -160,6 +161,7 @@
 		Competition Team Training 2,  5:00-8:00pm<br/>
 
 		<h3>Friday</h3>
+    Dance Level 1E,  3:45 - 4:45pm<br/>
 		Competition Team Training 6,  4:00-7:00pm<br/>
     Dance Level 2D,  4:45 - 6:15pm<br/>
 		Dance Level 4D, 5:45 - 7:45pm<br/>
@@ -171,10 +173,9 @@
 		<h3>Saturday</h3>Adult Body Sculpting (塑身形體） Class 1,  7:30-9:30pm<br/>
 		<h3>Sunday</h3>
 		Adult Level 2,  9 - 11:00am<br/>
-
 		<h3>Tuesday</h3>
 		Adult Level 2,  7:45 - 9:45pm<br/>
-		<h3>Wednesday</h3>Adult Special Training (練功課）,  7:45 - 9:45pm<br/>
+		<h3>Wednesday</h3>Adult Level 1,  7:45 - 9:45pm<br/>
 		<h3>Thursday</h3>Adult Level 3,  7:45 - 9:45pm<br/>
 
 		</td>

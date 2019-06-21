@@ -147,7 +147,7 @@
                 <b>Best Choreography</b>, StarQuest (2018)<br>
                 <b>Choreographer of the Year</b>, KAR National Final (2018)<br>
                 </p>
-                
+
                 <p>&nbsp;
             </td>
           </tr>
@@ -166,6 +166,10 @@
         |
         <a href="docs/policy.pdf">
           Academy Policy
+        </a>
+        |
+        <a href="docs/JLPATeamAudition.pdf">
+          Team Audition
         </a>
       </div>
     </div>

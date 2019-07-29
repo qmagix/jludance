@@ -103,7 +103,7 @@
     </div>
   </div>
   <h2>2019 Class Schedule</h2>
-  <h4>Spring 1/7-6/9, (Summer 6/10-8/11)*, Fall 8/12-12/22</h4>
+  <h4>Spring 1/7-6/9, (Summer 6/10-7/28)*, Fall 8/14-12/22</h4>
   <div class="row">
     <div class="col-sm-12">
       <div class="well">

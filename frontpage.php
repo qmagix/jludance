@@ -38,6 +38,16 @@
       <div class="well">
         <h4>Recent Awards</h4>
        <p>
+         <b>National Grand Champion</b>, Secondary Large Group + Line ("Colorful Joy"), KAR National Final in Anaheim, 2019<br/>
+         <b>National Grand Champion</b>, Primary Large Group + Line ("Hey Mickey"), KAR National Final in Anaheim, 2019<br/>
+         <b>National Champion</b>, Top Secondary Line 9-11 ("This is Me"), KAR National Final, 2019<br/>
+         <b>National Champion</b>, Top Secondary Large Group 9-11 ("Purple Fish"), KAR National Final, 2019<br/>
+         <b>National Champion</b>, Top Secondary Large Group 12-14 ("Colorful Joy"), KAR National Final, 2019<br/>
+     <b>National Champion</b>, Primary Large Groups and Line 8 & Under ("Hey Mickey"), KAR National Final, 2019<br/>
+     <b>National Champion</b>, Top Primary Line 9-11 ("WA!"), KAR National Final, 2019<br/>
+     <b>National Champion</b>, Top Novice Large Line 8 & Under("Dragon Fist"), KAR National Final, 2019<br/>
+      <b>Choreographer of the Year</b>, Ms Jun Lu, National Final, KAR 2019<br/>
+       <b>Studio of the Year</b>, KAR National Final, 2019<br/>
        <b>National Grand Champion</b>, Primary Large Group + Line ("Red Jasmine"), KAR National Final in Anaheim, 2018<br/>
        <b>National Champion</b>, Top Secondary Line 12-14 ("Passion of Embroidery"), KAR National Final, 2018<br/>
 		<b>National Champion</b>, Primary Large Groups and Line 8 & Under ("Red Jasmine"), KAR National Final, 2018<br/>
@@ -111,8 +121,8 @@
         <table width="100%"><tr><td valign=top><h2>Kids</h2><h3>Saturday</h3>
 		Dance Level 9B,  9:00 - 11:00am<br/>
 		Dance Level 5A,  9:00 - 11:00am<br/>
-		Dance Level 2E,  9:30 - 11:00am (New)<br/>
-		Dance Level 1A,  11:00 - 12:00pm (New)<br/>
+		Dance Level 2E,  9:30 - 11:00am <br/>
+		Dance Level 1A,  11:00 - 12:00pm <br/>
 		Dance Level 11A,  11:00 - 1:00pm<br/>
 		Dance Level 6A,  11:00 - 1:00pm<br/>
     Dance Level 1C,  12:30 - 1:30pm<br/>
@@ -129,7 +139,7 @@
 
 		<h3>Sunday</h3>
 		Dance Level 5B,  9:00 - 11:00am<br/>
-    Dance Level 1D,  9:30 - 10:30am<br/>
+    Dance Level 1D,  9:30 - 10:30am (new)<br/>
 		Dance Level 2A,  10:30 - 12:00pm<br/>
 		Dance Level 7B,  11:00 - 1:00pm<br/>
 		Dance Level 2C,  12:00 - 1:30pm<br/>
@@ -158,15 +168,14 @@
 		<h3>Thursday</h3>
 		Dance Level 3C, 4:45 - 6:15pm<br/>
 		Dance Level 4C, 6:15 - 8:15pm<br/>
-		Competition Team Training 2,  5:00-8:00pm<br/>
+		Competition Team Training 2,  4:00-7:00pm<br/>
 
 		<h3>Friday</h3>
-    Dance Level 1E,  3:45 - 4:45pm<br/>
+    Dance Level 1E,  3:30 - 4:30pm (New)<br/>
 		Competition Team Training 6,  4:00-7:00pm<br/>
-    Dance Level 2D,  4:45 - 6:15pm<br/>
-		Dance Level 4D, 5:45 - 7:45pm<br/>
-    Dance Level 12A,  6:00 - 8:00pm<br/>
-		Dance Level 9A,  7:15 - 9:15pm<br/>
+    Dance Level 2D,  4:30 - 6:00pm<br/>
+		Dance Level 4D, 6:00 - 8:00pm<br/>
+		Dance Level 9A,  6:00 - 9:00pm<br/>
 
 
 		</td><td valign=top><h2>Adults</h2>
@@ -175,8 +184,8 @@
 		Adult Level 2,  9 - 11:00am<br/>
 		<h3>Tuesday</h3>
 		Adult Level 2,  7:45 - 9:45pm<br/>
-		<h3>Wednesday</h3>Adult Level 1,  7:45 - 9:45pm<br/>
 		<h3>Thursday</h3>Adult Level 3,  7:45 - 9:45pm<br/>
+    <h3>Friday</h3>Adult Level 1,  7:45 - 9:45pm<br/>
 
 		</td>
 		</tr>

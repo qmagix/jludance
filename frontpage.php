@@ -47,7 +47,14 @@
      <b>National Champion</b>, Top Primary Line 9-11 ("WA!"), KAR National Final, 2019<br/>
      <b>National Champion</b>, Top Novice Large Line 8 & Under("Dragon Fist"), KAR National Final, 2019<br/>
       <b>Choreographer of the Year</b>, Ms Jun Lu, National Final, KAR 2019<br/>
+      <b>National Champion</b>, Intermediate Large Groups 12 and above ("Colorful Joy"), Starpower Talent National Final, 2019<br/>
+      <b>National Champion</b>, Novice Line 9-11 ("WA!"), Starpower Talent National Final, 2019<br/>
+      <b>National Champion</b>, Novice Small Group("Passion of Wa"), Starpower Talent National Final, 2019<br/>
+      <b>National Champion</b>, Novice Duet/Trio ("Trio Wa"), Starpower Talent National Final, 2019<br/>
+      <b>National Champion</b>, Large Group Novice 8 & Under ("Dragon Fist"), Starpower Talent National Final, 2019<br/>
+
        <b>Studio of the Year</b>, KAR National Final, 2019<br/>
+       <b>Best Choreography</b>, Ms Nan, Starpower National Final, 2019<br/>
        <b>National Grand Champion</b>, Primary Large Group + Line ("Red Jasmine"), KAR National Final in Anaheim, 2018<br/>
        <b>National Champion</b>, Top Secondary Line 12-14 ("Passion of Embroidery"), KAR National Final, 2018<br/>
 		<b>National Champion</b>, Primary Large Groups and Line 8 & Under ("Red Jasmine"), KAR National Final, 2018<br/>

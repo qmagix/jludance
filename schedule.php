@@ -5,13 +5,13 @@ $DB_DATABASE='l5studio';
 $DB_USERNAME='l5studio';
 $DB_PASSWORD='qingfeng';
 
-$conn = new mysqli($DB_HOST, $DB_USERNAME, $DB_PASSWORD);
+$conn = mysqli_connect($DB_HOST, $DB_USERNAME, $DB_PASSWORD,$DB_DATABASE);
 
 // Check connection
-if ($conn->connect_error) {
-    die("Connection failed: " . $conn->connect_error);
-}
-echo "Connected successfully";
+// if ($conn->connect_error) {
+//     die("Connection failed: " . $conn->connect_error);
+// }
+// echo "Connected successfully";
 $today=date('Y-m-d');
 $sql="SELECT * FROM l5_study_groups WHERE ending_date>".$today." ORDER BY title ASC";
 $link=$conn;

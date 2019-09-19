@@ -19,11 +19,17 @@
     }
     .navbar-custom {
        background-color: #CC3333;
+       height: 50px!important;
        /* background-color: transparent;
         background: transparent;
         border-color: transparent;*/
        /* color: #FF7C0A;*/
     }
+
+    .nav a{
+              color: white !important;
+              font-size: 1.5em !important;
+          }
 
 
     /* Add a gray background color and some padding to the footer */

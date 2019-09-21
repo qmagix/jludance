@@ -7,6 +7,98 @@
     <div class="col-sm-8">
       <div class="well">
        <p>
+        <h4> 2019 </h4>
+
+
+         <h3>KAR National Dance Competition Final, Anaheim, 2019 </h3><br>
+           <blockquote>
+            - <b>National Grand Champion</b>, Secondary Large Group + Line ("Colorful Joy")<br/>
+            - <b>National Grand Champion</b>, Primary Large Group + Line ("Hey Mickey")<br/>
+            - <b>National Champion</b>, Top Secondary Line 9-11 ("This is Me")<br/>
+            - <b>National Champion</b>, Top Secondary Large Group 9-11 ("Purple Fish")<br/>
+            - <b>National Champion</b>, Top Secondary Large Group 12-14 ("Colorful Joy")<br/>
+         - <b>National Champion</b>, Primary Large Groups and Line 6-8 ("Hey Mickey")<br/>
+         - <b>National Champion</b>, Top Primary Line 9-11 ("WA!")<br/>
+         - <b>National Champion</b>, Top Novice Line 6-8 ("Dragon Fist")<br/>
+         - <b> Miss Teen Dance American Title, Primary </b> Shannon Ma (FanTasy) <br/>
+         - <b> Miss Teen Dance American Title Runnerup, Primary</b> Tianne Wu (Water Spirit) <br/>
+         - Naitonal Top Novice Line 8 & Under, Second Place, ("Chick Chick") <br/>
+         - Naitonal Top Primary Line 6-8, Second Place, ("We Know the Way") <br/>
+         - National Top Primary Small Group 9-11, Eighth Place (Passion of Wa)<br>
+         - National Top Primary Small Group 12-14, Fourth Place (Seeds of Nature)<br>
+         - National Top Secondary Small Group 9-11, Eleventh Place (Water Spirit)<br>
+         - National Top Secondary Large Group 9-11, Tenth Place (Cuckoo Clock Heart)<br>
+         - National Top Secondary Solo 12 - 14, Seventeenth Place - Ella ("Spirit in Water")<br>
+         - National Top Primary Solo 9 - 11, Eighteenth Place - Adelyn ("Dancing Reindeer")<br>
+         - National Top Primary Duet/Trio 6 - 8, Tenth Place (Passion of Wa)<br>
+         - "Best Costume", Primary Large Group and Line (We Know the Way)<br>
+         - "HARD HITTING & FIERCE" Judges Choice Award,Novice Small Group, Large Group, Line (Dragon Fist)<br>
+         - "DYNAMIC PERFORMANCE" Judges Choice Award, Primary Small Group (Passion of Wa)<br>
+         - "INNOVATIVE CHOREOGRAPHY" Judges Choice Award, Secondary Small Group (Seeds of Nature)<br>
+         - "SMILES FOR MILES" Judges Choice Award, Secondary Large Group, Line (This is Me)<br>
+         - Plenty of Elite Top First Awards <br>
+          - <b>2019 Choreographer of the Year</b>, Ms Jun Lu<br/>
+           - <b>2019 Studio of the Year</b><br/>
+           </blockquote>
+         <br>
+
+
+
+         <h3>StarPower National Talent Competition Final, 2019 </h3><br>
+           <blockquote>
+             - <b>National Champion</b>, Intermediate Large Groups 12 and above ("Colorful Joy")<br/>
+             - <b>National Champion</b>, Novice Line 9-11 ("WA!")<br/>
+             - <b>National Champion</b>, Novice Small Group("Passion of Wa")<br/>
+             - <b>National Champion</b>, Novice Duet/Trio ("Trio Wa")<br/>
+             - <b>National Champion</b>, Large Group Novice 8 & Under ("Dragon Fist")<br/>
+             - <b>National Championship Battle Second Place</b>, 11 & Under Intermediate Small Groups ("Water Spirit")<br/>
+             - <b>National Championship Battle Third Place</b>, 11 & Under Intermediate Small Groups ("Hey Mickey")<br/>
+              - <b>Best Choreography</b>, Ms Nan<br/>
+             ...
+           </blockquote>
+         <br>
+
+         <h3>StarPower Talent Competition Regional, 2019 </h3><br>
+           <blockquote>
+             - <b>Regional Champion, Intermediate Level Overall Highest Score </b>("This is Me")<br/>
+             - <b>Regional Champion</b>, Intermediate Level 9-11 Line ("This is Me")<br/>
+             - <b>Regional Champion</b>, Intermediate Level 9-11 Large Group ("Purple Fish")<br/>
+             - <b>Second Place</b>, Intermediate Level 9-11 Large Group ("Cuckoo Clock Heart")<br/>
+             - <b>Regional Champion</b>, Intermediate Level 9-11 Small Group ("Water Spirit")<br/>
+             - <b>Regional Champion, Novice Level Overall Highest Score </b>("Hey Mickey")<br/>
+             - <b>Regional Champion</b>, Novice Petite Line ("Dragon Fist")<br/>
+             - <b>Second Place</b>, Novice Petite Division ("Chick Chick")<br/>
+             - <b>Regional Champion </b>Novice Level 7-8 Large Group ("Hey Mickey")<br/>
+             - <b>Second Place </b>Novice Level 7-8 Small Group ("Dance of Wa")<br/>
+             - <b>Regional Champion </b>Novice Level 7-8 Duo/Trio ("Duel Wa!")<br/>
+             - <b>Regional Champion </b>Novice Level 9-11 Solo ("Dancing Reindeer")<br/>
+             - <b>MOST ENTERTAINING</b>, ("Hey Mickey!")<br/>
+              -<b>Best Choreography</b>, Ms Lu<br/>
+             ...
+           </blockquote>
+         <br>
+
+
+       </p>
+      </div>
+    </div>
+    <div class="col-sm-4">
+      <img src="images/2019finals/thumbs/IMG_1107.JPG" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/2019finals/thumbs/IMG_1064.JPG" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/2019finals/thumbs/IMG_1093.JPG" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/2019finals/thumbs/IMG_1098.JPG" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/2019finals/thumbs/IMG_1105.JPG" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/2019finals/thumbs/IMG_1922.JPG" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/2019finals/thumbs/IMG_1924.JPG" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/2019finals/thumbs/IMG_0964.PNG" class="img-responsive" style="width:100%" alt="Image">
+
+
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-8">
+      <div class="well">
+       <p>
         <h4> 2018 </h4>
          <h3>KAR National Dance Competition Final, Anaheim, 2018 </h3><br>
            <blockquote>
@@ -24,10 +116,10 @@
              - "Best Costume" , (Red Jasmine)<br>
              - All group dances won Elite Top First Awards <br>
              - <b>Choreographer of the Year</b>, Ms Jun Lu <br>
-             - <b>Studio of the Year </b>          
+             - <b>Studio of the Year </b>
            </blockquote>
          <br>
-         
+
          <h3>StarQuest Dance Competition, 2018 </h3><br>
            <blockquote>
              - <b>StarQuest People's Choice Award</b>, "Return of Gongfu Panda"<br>
@@ -37,10 +129,10 @@
              - Top Nova Junior Duet/Trio, 2nd Place, Twin Fans <br>
              - Top Nova Junior Solo, 2nd Place, Jasmine in the Rain <br>
              - <b>Choreography Award</b>, Ms Jun Lu<br>
-             ...  
+             ...
            </blockquote>
          <br>
-         
+
          <h3>KAR Regional Dance Competition, 2018 </h3><br>
            <blockquote>
              - <b>Video of the Week</b>, "Poetic Beauty"<br>
@@ -51,8 +143,8 @@
              - Top Novice Large Groups 8 & Under,  1st Place, "Little Mulan" <br>
              - Top Primary Large Group 9-11, Third Place (Joy of Paper Cutting)<br>
              - Top Primary Large Group 9-11, 7th Place (Phantom of Opera 0.1)<br>
-             - Top Primary Large Group 9-11, 8th Place (Return of Gongfu Panda)<br> 
-             ...     
+             - Top Primary Large Group 9-11, 8th Place (Return of Gongfu Panda)<br>
+             ...
            </blockquote>
          <br>
 

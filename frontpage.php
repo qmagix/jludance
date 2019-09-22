@@ -56,6 +56,7 @@
        <b>Best Choreography</b>, Ms Nan, Starpower National Final, 2019<br/>
        ......<br>
        <a href="index.php?a=awards">More 2019 Details</a>
+       <br>
        <b>National Grand Champion</b>, Primary Large Group + Line ("Red Jasmine"), KAR National Final in Anaheim, 2018<br/>
        <b>National Champion</b>, Top Secondary Line 12-14 ("Passion of Embroidery"), KAR National Final, 2018<br/>
 		<b>National Champion</b>, Primary Large Groups and Line 8 & Under ("Red Jasmine"), KAR National Final, 2018<br/>

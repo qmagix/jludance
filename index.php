@@ -44,6 +44,9 @@ switch($a){
 	case "jobs":
 		include("jobs.php");
 		break;
+	case "newsletter":
+		include("newsletter.php");
+		break;
 	// case "schedule":
 	//  //include("schedule.inc");
 	//  //include("schedule.php");

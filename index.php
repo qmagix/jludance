@@ -105,6 +105,6 @@ switch($a){
 	 include("carousel.php");
 	 include("frontpage.php");
 }
-
+include("nav_social.php");
 include("footer.php");
 ?>

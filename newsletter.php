@@ -12,8 +12,8 @@
          We are happy to start a school newsletter to share various news among our student and alumnus families.
          Here is a link to our first newsletter:
 
+         <h4><a href="https://mailchi.mp/5573c7708855/jludances-dancers-and-alumni-family-newsletter-2">Dancer and Alumni Family Newsletter #2, Oct 2019</a></h4>
          <h4><a href="https://mailchi.mp/00a68e78c678/jludances-dancer-and-alumni-family-newsletter-1804861">Dancer and Alumni Family Newsletter #1, Sept 2019</a></h4>
-
 
          There are lots of interesting things happening among our dancers and families every day, and plenty of reflections and wisdom as well.   We welcome all to submit your stories, including pictures and writings.
 

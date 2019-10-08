@@ -66,6 +66,10 @@
     .carousel-caption {
       display: none;
     }
+
+    .navbar-brand img{
+      width: 40px;
+    }
   }
 
   body { padding-top: 50px; }

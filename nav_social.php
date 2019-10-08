@@ -5,6 +5,5 @@
 <!-- <a target="_blank" href="https://twitter.com/dancejlu" class="fa fa-twitter"></a> -->
 <a target="_blank" href="http://jludance.com/index.php?a=gallery" class="fa fa-film"></a>
 <a target="_blank" href="http://jludance.com/index.php?a=awards" class="fa fa-trophy"></a>
-<a target="_blank" href="http://jludance.com/index.php?a=newsletter" class="fa fa-pencil-square-o"></a>
 <a target="_blank" href="http://jludance.com/index.php?a=newsletter" class="fa fa-question-circle"></a>
 </div>

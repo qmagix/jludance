@@ -72,6 +72,26 @@
     }
   }
 
+  @media (max-width: 1400px) {
+    .nav a{
+              color: white !important;
+              font-size: 1.2em !important;
+          }
+  }
+
+  @media (max-width: 1200px) {
+    .nav a{
+              color: white !important;
+              font-size: 1em !important;
+          }
+  }
+  @media (max-width: 900px) {
+    .nav a{
+              color: grey !important;
+              font-size: 0em;
+          }
+  }
+
   body { padding-top: 50px; }
 
   .fa {

@@ -121,8 +121,8 @@
       </div>
     </div>
   </div>
-  <h2>2019 Class Schedule</h2>
-  <h4>Spring 1/7-6/9, (Summer 6/10-7/28)*, Fall 8/14-12/22</h4>
+  <h2>2020 Class Schedule</h2>
+  <h4>Spring 1/6-6/9, (Summer 6/10-8/12)*, Fall 8/13-12/20</h4>
 <?php include('schedule.php');?>
   <div class="row">
     <div class="col-sm-6">

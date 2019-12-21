@@ -100,6 +100,9 @@ switch($a){
 	case "faq":
 		include("faq.php");
 		break;
+		case "recital":
+			include("recital.php");
+			break;
 	default:
 
 	 include("carousel.php");

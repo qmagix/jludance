@@ -2,7 +2,7 @@
     <div class="row text-center">
 <div class="col-lg-12 margin-tb">
 
-      <h1> Welcome to Jun Lu Performing Arts 2019 Christmas Showcase /Annual Recitals </h1>
+      <h1> Welcome to Our Christmas Showcase/Annual Recitals </h1>
 
   <div>
 Dates: 2019-12-20 - 2019-12-22<br>

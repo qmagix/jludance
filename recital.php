@@ -14,7 +14,7 @@ Venue: Louis Mayer Theater, Santa Clara University, 500 El Camino Real, Santa Cl
 <a href="https://admin.jludance.org/recitalsessions/8/repertoire"> Showcase 3 </a> |
 <a href="https://admin.jludance.org/recitalsessions/9/repertoire"> Showcase 4 </a> |
 </div>
----<br>
+-Feedback Appreciated-<br>
 <div class="col-lg-12 margin-tb">
 
 <a class="btn btn-primary" href="https://www.instagram.com/junludance/?hl=en"> Check out and comment on our instagram </a>

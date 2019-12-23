@@ -14,6 +14,7 @@ Venue: Louis Mayer Theater, Santa Clara University, 500 El Camino Real, Santa Cl
 <a href="https://admin.jludance.org/recitalsessions/8/repertoire"> Showcase 3 </a> |
 <a href="https://admin.jludance.org/recitalsessions/9/repertoire"> Showcase 4 </a> |
 </div>
+
 -Feedback Appreciated-<br>
 <div class="col-lg-12 margin-tb">
 
@@ -21,7 +22,15 @@ Venue: Louis Mayer Theater, Santa Clara University, 500 El Camino Real, Santa Cl
 <a class="btn btn-primary" href="https://www.instagram.com/junludance/?hl=en"> Check out and comment on our instagram </a>
 <a class="btn btn-success" href="https://forms.gle/17Jtn9sp8Ud81CMK6">
 or use Google Forms to send in your comment (请点击这里给我们留言) </a>
-<a class="btn btn-info" href="https://photos.app.goo.gl/35VDHvsY1LsDZhro8"> Recital Photos Album (演出相册) [Update Daily] </a>
+<h3>Reictal Photos (演出相册) [Update Daily]</a>
+<ul class="list-group">
+  <li class="list-group-item"><a href="https://photos.app.goo.gl/35VDHvsY1LsDZhro8"> Class Photos </a></li>
+  <li class="list-group-item"><a href="https://photos.app.goo.gl/sgpjM9Fwj5V3DzMK7"> Set 1 </a></li>
+  <li class="list-group-item"><a href="https://photos.app.goo.gl/pRuyqJAskpsrb2qN9"> Set 2 </a></li>
+  <li class="list-group-item"><a href="https://drive.google.com/drive/folders/1HERxgXYcvK3txVBMNiCNK9vvDpmM_ob8"> Set 3 </a></li>
+
+
+</ul>
 </div>
 </div>
 <div class="row text-center">

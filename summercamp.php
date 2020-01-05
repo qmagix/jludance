@@ -28,7 +28,7 @@ Music class features vocal/singing and/or percussion instrument lessons. -->
   <li>Summer Camp  1 - 10 days, 6/5, 6/8-14, 6/20-21.  Recommended for dancers age 14 and up or existing Team 1 dancers</li>
   <li>Summer Camp  2, 6/10-6/20* - 10 days 6/10-13, 6/15-20. Recommended for dancers age 10 and above, or existing Team 4 dancers</li>
   <li>Summer Camp  3, 6/10-6/20* - 10 days 6/10-13, 6/15-20. Recommended for dancers age 8 and above, or existing Team 8 dancers</li>
-  <li>Summer Camp  4, 6/22-7/3 - Weekdays only.  Recommended for dancers age 11 or more, or existing Team 4 dancers.</li>
+  <li>Summer Camp  4, 6/22-7/3 - Weekdays only.  Recommended for dancers age 11 or more, or existing Team 2 dancers.</li>
   <li>Summer Camp  5, 6/22-7/3 - Weekdays only.  Recommended for dancers age 9 or more, or existing Team 3 dancers.</li>
   <li>Summer Camp  6, 6/22-7/3 - Weekdays only.  Recommended for dancers age 8 or more, or existing Team 7 dancers.</li>
   <li>Summer Camp  7, 7/6-7/17 - Weekdays only.  Recommended for dancers age 4-6</li>

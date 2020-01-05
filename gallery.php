@@ -3,6 +3,7 @@
 ?>
 <div class="container text-center">
   <h3 id="about">Life, Beauty, Passion and Joy at Jun Lu Performing Arts Academy</h3><br>
+  New : <a href='https://www.jludance.org/index.php?a=recital'>2019 Christmas Showcase Photos and Videos</a>
     <div class="row">
 	    <div class="col-sm-6">
 	     <h4 align="center">We are the Champions by Team 1</h4>
@@ -12,17 +13,17 @@
 	      <h4 align="center">I Do Believe by Team 2</h4><center>
 	      <iframe width="560" height="315" src="https://www.youtube.com/embed/i2EbPVEsMrw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	    </div>
-    </div>  
+    </div>
     <div class="row">
     	<div class="col-sm-6">
 	      <h4 align="center">From Cowboys to Jasmine by Team 3</h4><center>
-	      <iframe width="560" height="315" src="https://www.youtube.com/embed/5ix_D0GVAAk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>	    
+	      <iframe width="560" height="315" src="https://www.youtube.com/embed/5ix_D0GVAAk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	    </div>
 	    <div class="col-sm-6">
 	    <h4 align="center">The Year of Panda by Team 4</h4><center>
 	      <iframe width="560" height="315" src="https://www.youtube.com/embed/5dUEFrl6rFY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	     </div>
-    </div>  
+    </div>
         <div class="row">
         <div class="col-sm-6">
 	      <h4 align="center">From Princess to Soldiers by Team 5</h4><center>
@@ -32,17 +33,17 @@
 	      <h4 align="center">We just get started by Team 6</h4><center>
 	      <iframe width="560" height="315" src="https://www.youtube.com/embed/h0oY2lSKSX0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	    </div>
-	     </div>  
+	     </div>
         <div class="row">
 	    <div class="col-sm-6">
 	     <h4 align="center">2017 Recital Trailer</h4>
-	     <iframe width="560" height="315" src="https://www.youtube.com/embed/il3ZIek14Rg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
+	     <iframe width="560" height="315" src="https://www.youtube.com/embed/il3ZIek14Rg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	     </div>
 	    <div class="col-sm-6">
 	      <h4 align="center">2017 Recital Compiled by Shannon Ma</h4><center>
 	      <iframe width="560" height="315" src="https://www.youtube.com/embed/dAoR6yLJbG0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	    </div>
-    </div>  
+    </div>
     <div class="row">
 	    <div class="col-sm-6">
 	     <h4 align="center">Moments in Theater by Shannon Ma</h4>
@@ -64,6 +65,6 @@
 	    </div>
     </div>
      <div class="row">
-     Video Credit: Olivia, Janey, Shannon, Danci, Grace, Annie, Mia's dad, Jiatong, Leo, Lex... 
+     Video Credit: Olivia, Janey, Shannon, Danci, Grace, Annie, Mia's dad, Jiatong, Leo, Lex...
       </div>
 </div>

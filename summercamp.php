@@ -25,17 +25,20 @@ Music class features vocal/singing and/or percussion instrument lessons. -->
 </p>
 <p>
 <ol>
-<li>Camp 1:&nbsp; 6/7 ~ 6/16, &nbsp; (tentative, 10 days in a row), for level 11+ and up</li>
-<li>Camp 2:&nbsp; 6/10 ~ 6/21, &nbsp; (10 weekdays) for level 8+ and up</li>
-<li>Camp 3:&nbsp; 6/10 ~ 6/21, &nbsp; (10 weekdays) for levels ~ 6,7,8</li>
-<li>Camp 4:&nbsp; 6/24 ~ 7/5, &nbsp; (10 weekdays) for level 9+ and up</li>
-<li>Camp 5:&nbsp; 6/24 ~ 7/5, &nbsp; (10 weekdays) for level 6+ and up</li>
-<li>Camp 6:&nbsp; 6/24 ~ 7/5, &nbsp; (10 weekdays) for levels ~ 4,5</li>
-<li>Camp 7:&nbsp; 7/8 ~ 7/19, &nbsp; (10 weekdays) for Level 2 students   </li>
-<li>Camp 8:&nbsp; 7/8 ~ 7/19, &nbsp; (10 weekdays) for Level 3 students  </li>
-<li>Camp 9:&nbsp; 7/22 ~ 8/2, &nbsp; (10 weekdays) Level 4+ and up</li>
-<li>Camp 10:&nbsp; 7/22 ~ 8/2, &nbsp; (10 weekdays) Level 5+ and up</li>
-<li>Camp 11:&nbsp; 7/22 ~ 8/2, &nbsp; (10 weekdays) Level 6+ and up</li>
+  <li>Summer Camp  1 - 10 days, 6/5, 6/8-14, 6/20-21.  Recommended for dancers age 14 and up or existing Team 1 dancers</li>
+  <li>Summer Camp  2, 6/10-6/20* - 10 days 6/10-13, 6/15-20. Recommended for dancers age 10 and above, or existing Team 4 dancers</li>
+  <li>Summer Camp  3, 6/10-6/20* - 10 days 6/10-13, 6/15-20. Recommended for dancers age 8 and above, or existing Team 8 dancers</li>
+  <li>Summer Camp  4, 6/22-7/3 - Weekdays only.  Recommended for dancers age 11 or more, or existing Team 4 dancers.</li>
+  <li>Summer Camp  5, 6/22-7/3 - Weekdays only.  Recommended for dancers age 9 or more, or existing Team 3 dancers.</li>
+  <li>Summer Camp  6, 6/22-7/3 - Weekdays only.  Recommended for dancers age 8 or more, or existing Team 7 dancers.</li>
+  <li>Summer Camp  7, 7/6-7/17 - Weekdays only.  Recommended for dancers age 4-6</li>
+  <li>Summer Camp  8, 7/6-7/17 - Weekdays only.  Recommended for dancers age 6 and above</li>
+  <li>Summer Camp  9 , 7/6-7/17 - Weekdays only.  Recommended for dancers age 8 and above.</li>
+  <li>Summer Camp 10, 7/20-7/31 - Weekdays only.  Recommended for dancers age 7 or above, or existing Team 9 dancers.</li>
+  <li>Summer Camp 11, 7/20-7/31 - Weekdays only.  Recommended for dancers age 8 or above, or existing Team 5 dancers.</li>
+  <li>Summer Camp 12, 7/20-7/31 - Weekdays only.  Recommended for dancers age 10 or more, or existing Team 6 dancers.</li>
+
+
 </ol>
 <!-- * (if you are not sure about each level requirement -->
 <!-- Pre-team/regular camp times and appropriate level/age groups are as follows: -->
@@ -59,7 +62,9 @@ Music class features vocal/singing and/or percussion instrument lessons. -->
 <!--  <p>(* audition and special commitment required) </p> -->
 
  <p>Each camp has a showcase time open to parents: 3pm at the last Friday of each camp, parents are invited
-to come to enjoy what their kids have learned and advanced through their hardwork. </p>
+to come to enjoy what their kids have learned and advanced through their hardwork.
+There is also a free dance team audition at the end of each camp for those who are wishing to join our 2020-2021 competitive dance team.
+</p>
 <a href="https://admin.jludance.org/signup/camp">Signup now</a> for early bird rate</p>
 
 <h2> Camp daily schedule</h2>
@@ -102,20 +107,19 @@ to come to enjoy what their kids have learned and advanced through their hardwor
 </table>
 <p align="left">(* The kids will have a 10 minutes break between each hour. * Parents please prepare water and lunch for your child. * actual content/daily schedule of each camp may change depending on the needs of each group)</p>
 <p align="left"><b><font size="5">Tuition: </font></b>
-
   <table border=1>
     <tr>
-      <td>CAMP</td><td>regular</td><td>early bird(Payment or $100 deposit before Feb 3rd)</td>
+      <td>CAMP</td><td>regular</td><td>early bird(Payment before Feb 15)</td>
     </tr>
     <tr>
-      <td>10 day camp</td><td>990</td><td>880</td>
+      <td>10 day camp</td><td>1000</td><td>900</td>
     </tr>
     <tr>
       <td>5 day camp</td><td>550</td><td>500</td>
     </tr>
   </table>
-$5/hour extra for the optional 4~6pm class. </p>
-<p align="left">For more details or questions, please email jun@jludance.com or call 408-712-9188</p>
+optional 4-6pm after camp care $5/hour. </p>
+<p align="left">For more details or questions, please email campinfo@jludance.com or call 408-712-9188</p>
 
 <p>Cancellation: we reserve the right to cancel the camp if the enrollment is
 not sufficient. You will get a full refund if this happened.&nbsp; </p>

@@ -122,7 +122,7 @@
     </div>
   </div>
   <h2>2020 Class Schedule</h2>
-  <h4>Spring 1/6-6/9 (Spring Recess 4/13-19), (Summer 6/10-8/12)*, Fall 8/13-12/20</h4>
+  <h4>Spring 1/6-6/9 (Spring Recess 4/12-18), (Summer 6/10-8/12)*, Fall 8/13-12/20</h4>
 <?php include('schedule.php');?>
   <div class="row">
     <div class="col-sm-6">

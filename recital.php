@@ -32,6 +32,11 @@ or use Google Forms to send in your comment (请点击这里给我们留言) </a
   <li class="list-group-item"><a href="https://photos.app.goo.gl/sfEEhpXNDiQnMmGy8"> Set 5 [1] (Thanks Peter) </a></li>
   <li class="list-group-item"><a href="https://photos.app.goo.gl/ptguRb1pAyCz7fjP6"> Set 6 [4] (Thanks Peter)</a></li>
   <li class="list-group-item"><a href="https://photos.app.goo.gl/dSPaDFz7D9UQdTgw7"> Set 7 [4] (Thanks Bei)</a></li>
+  <li class="list-group-item"><a href="https://photos.app.goo.gl/J1VJ3nijyQEuMhAP7"> Set 8 [1] (Thanks Leo)</a></li>
+  <li class="list-group-item"><a href="https://photos.app.goo.gl/VcDAZYT8uaSUZzcz8"> Set 9 [3] (Thanks Leo)</a></li>
+  <!-- <li class="list-group-item"><a href="https://photos.app.goo.gl/6SsmvhgBSUVnABSE9"> Set 10 [2] (Thanks Leo)</a></li>
+  <li class="list-group-item"><a href="https://photos.app.goo.gl/XUhE8uQQuvvXdTus8"> Set 11 [4] (Thanks Leo)</a></li> -->
+
 
 </ul>
 </div>

@@ -25,17 +25,10 @@ or use Google Forms to send in your comment (请点击这里给我们留言) </a
 <h3>Reictal Photos (演出相册) [Update Daily]</a>
 <ul class="list-group">
   <li class="list-group-item"><a href="https://photos.app.goo.gl/35VDHvsY1LsDZhro8"> Class Photos </a></li>
-  <li class="list-group-item"><a href="https://photos.app.goo.gl/sgpjM9Fwj5V3DzMK7"> Set 1 [2] (Thanks Luna)</a></li>
-  <li class="list-group-item"><a href="https://photos.app.goo.gl/pRuyqJAskpsrb2qN9"> Set 2 [2] (Thanks Diana)</a></li>
-  <li class="list-group-item"><a href="https://drive.google.com/drive/folders/1HERxgXYcvK3txVBMNiCNK9vvDpmM_ob8"> Set 3 [3] (Thanks Theresa)</a></li>
-  <li class="list-group-item"><a href="https://photos.app.goo.gl/jN6rmNTfJcz23vnS9"> Set 4 [2] (Thanks 滚石)</a></li>
-  <li class="list-group-item"><a href="https://photos.app.goo.gl/sfEEhpXNDiQnMmGy8"> Set 5 [1] (Thanks Peter) </a></li>
-  <li class="list-group-item"><a href="https://photos.app.goo.gl/ptguRb1pAyCz7fjP6"> Set 6 [4] (Thanks Peter)</a></li>
-  <li class="list-group-item"><a href="https://photos.app.goo.gl/dSPaDFz7D9UQdTgw7"> Set 7 [4] (Thanks Bei)</a></li>
-  <li class="list-group-item"><a href="https://photos.app.goo.gl/J1VJ3nijyQEuMhAP7"> Set 8 [1] (Thanks Leo)</a></li>
-  <li class="list-group-item"><a href="https://photos.app.goo.gl/VcDAZYT8uaSUZzcz8"> Set 9 [3] (Thanks Leo)</a></li>
-  <!-- <li class="list-group-item"><a href="https://photos.app.goo.gl/6SsmvhgBSUVnABSE9"> Set 10 [2] (Thanks Leo)</a></li>
-  <li class="list-group-item"><a href="https://photos.app.goo.gl/XUhE8uQQuvvXdTus8"> Set 11 [4] (Thanks Leo)</a></li> -->
+  <li class="list-group-item"><a href="https://photos.app.goo.gl/J1VJ3nijyQEuMhAP7"> Showcase 1</a></li>
+  <li class="list-group-item"><a href="https://photos.app.goo.gl/6SsmvhgBSUVnABSE9"> Showcase 2</a></li>
+  <li class="list-group-item"><a href="https://photos.app.goo.gl/VcDAZYT8uaSUZzcz8"> Showcase 3</a></li>
+  <li class="list-group-item"><a href="https://photos.app.goo.gl/XUhE8uQQuvvXdTus8"> Showcase 4 </a></li>
 
 
 </ul>

@@ -28,6 +28,10 @@
        /* color: #FF7C0A;*/
     }
 
+    .navbar-collapse{
+      background-color: #CC3333;
+    }
+
     .nav a{
               color: white !important;
               font-size: 1.5em !important;

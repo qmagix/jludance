@@ -8,7 +8,7 @@
           <tr>
             <td width="100%">
             <h3>Mission </h3>
-            <p><font class="maintxt">We advocate and promote mutual
+            <p><font class="maintxt">Jun Lu Performing Arts, also known as Jun Lu Dance Studio and New Arts, advocates and promotes mutual
             understanding and appreciation through languages of the arts.&nbsp;&nbsp;
             Our programs, through the beautiful arts of motion and sound,
             encourage passion, creativity thinking, and team spirit besides the

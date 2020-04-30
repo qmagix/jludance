@@ -1,7 +1,7 @@
 <footer class="container-fluid text-center">
   <p>
     Copyright &copy
-       Jun Lu Performing Arts, 2016
+       Jun Lu Dance Studio, A New Arts Company, Since 2005
   </p>
 </footer>
 <script>

@@ -140,12 +140,13 @@
                 Outstanding teacher award from the Singapore Nanyang Academy of
                 Fine Arts (2000)<br>
                 ......<br>
-                American Dance Awards, <b>Choreographer of the Year</b>, Diamond Choreography Winner(2013)<br>
-                American Dance Awards, <b>Choreographer of the Year</b>, Diamond Choreography Winner(2014)<br>
+                <b>Choreographer of the Year</b>, American Dance Awards, Diamond Choreography Winner(2013)<br>
+                <b>Choreographer of the Year</b>, American Dance Awards, Diamond Choreography Winner(2014)<br>
                 <b>Choreographer of the Year</b>, KAR National Final (2015)<br>
                 <b>Best Choreography</b>, Overseas TaoLi Cup (2016-2017)<br>
                 <b>Best Choreography</b>, StarQuest (2018)<br>
                 <b>Choreographer of the Year</b>, KAR National Final (2018)<br>
+                <b>Choreographer of the Year</b>, KAR National Final (2019)<br>
                 </p>
 
                 <p>&nbsp;

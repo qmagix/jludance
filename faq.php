@@ -8,6 +8,7 @@
       <div class="well">
 <ul>
 
+<li><a href="#pay">How do I pay for tuition?</a></li>
 <li><a href="#waitinglist">How do I signup for waiting list?</a></li>
 <li><a href="#whichclass">Which class/level is appropriate for my child?</a></li>
 <li><a href="#levelabcd">What does A,B mean in Level 1A and Level 1B?</a></li>
@@ -31,6 +32,17 @@
 <div class="row">
 
 <ul class="faq">
+  <li id="pay">How do I pay for tuition?</li>
+  You can send in tuition in cash or check via the following methods:
+  <ol>
+    <li>Zelle: 4082193562 or jun@jludance.com</li>
+    <li>ApplePay: 4082193562</li>
+      <li>Venmo: 4082193562</li>
+      <li>Check: mail to Jun Lu Performing Arts, 1600 Saratoga Ave, Suite 427, San Jose, CA 95129</li>
+        <li>Paypal: 4082193562 (family and friends)</li>
+  </ol>
+  <br>  <br>
+
 <li id="waitinglist">How do I signup for waiting list?</li>
 The same as signing up for a regular class. Once the respective
 class is full, you will automatically be put into a waiting list.

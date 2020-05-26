@@ -25,6 +25,26 @@ Music class features vocal/singing and/or percussion instrument lessons. -->
 </p>
 <p>
 <ol>
+  <li>  Summer Online Camp 1, 6/8-8/1, Tue-Th-Sat [hours: 18:00-20:30] (Tuition:$900) - Recommended for dancers age 14 and up or existing Team 1 dancers </li>
+  <li>  Summer Online Camp 2, 6/8-8/1, Mon-Wed-Fri [hours: 18:00-20:30] (Tuition:$900) - Recommended for dancers age 10 and above, or existing Team 4 dancers</li>
+  <li>  Summer Online Camp 3, 6/8-8/1, Tue-Th-Sat [hours: 16:00-18:30] (Tuition:$900) - Recommended for dancers age 8 and above, or existing Team 8 dancers</li>
+  <li>  Summer Online Camp 4, 6/8-8/1, Tue-Thu-Sat [hours: 16:00-18:30] (Tuition:$900) - Recommended for dancers age 11 or more, or existing Team 2 dancers.</li>
+  <li>  Summer Online Camp 5, 6/8-8/1, Mon-Wed-Fri [hours: 16:00-18:30] (Tuition:$900) - Recommended for dancers age 9 or more, or existing Team 3 dancers.</li>
+  <li>  Summer Online Camp 6, 6/8-8/1, Mon-Wed-Fri [hours: 15:30-18:00] (Tuition:$900) - Recommended for dancers age 8 or more, or existing Team 7 dancers.</li>
+  <li>  Summer Online Camp 7, 6/8-8/1, All Weekdays [hours: 09:00-10;30] (Tuition:$900) - Recommended for dancers age 5-6 or existing level 2-3 students</li>
+  <li>  Summer Online Camp 8, 6/8-8/1, All Weekdays [hours: 10:30-12:00] (Tuition:$900) - Recommended for dancers age 7 and above or existing level 4-5 students</li>
+  <li>  Summer Online Camp 9, 6/8-8/1, All Weekdays [hours: 09:00-10:30] (Tuition:$900) - This is a special morning hour class for all dancers ages 9-12, hiphop/jazz/tech</li>
+  <li>  Summer Online Camp 10, 6/8-8/1, All Weekdays [hours: 10:30-12:00] (Tuition:$900) - Recommended for dancers age 7 or above, or existing Team 9 dancers.</li>
+  <li>  Summer Online Camp 11, 6/8-8/1, Tue-Th-Sat [hours: 16:00-18:30] (Tuition:$900) - Recommended for dancers age 8 or above, or existing Team 5 dancers.</li>
+  <li>  Summer Online Camp 12, 6/8-8/1, Mon-Wed-Fri [hours: 16:00-18:30] (Tuition:$900) - Recommended for dancers age 10 or more, or existing Team 6 dancers.</li>
+
+</ol>
+</p>
+<p>
+  DUE TO COVID_19 SHELTER IN PLACE ORDER FROM SANTA CLARA COUNTY AND CAL GOV,
+  the following on-site camp plan is on hold now.
+  Please use the above online camp info for now.
+<ol>
   <li>Summer Camp  1 - 10 days, 6/5, 6/8-14, 6/20-21.  Recommended for dancers age 14 and up or existing Team 1 dancers</li>
   <li>Summer Camp  2, 6/10-6/20* - 10 days 6/10-13, 6/15-20. Recommended for dancers age 10 and above, or existing Team 4 dancers</li>
   <li>Summer Camp  3, 6/10-6/20* - 10 days 6/10-13, 6/15-20. Recommended for dancers age 8 and above, or existing Team 8 dancers</li>
@@ -37,9 +57,8 @@ Music class features vocal/singing and/or percussion instrument lessons. -->
   <li>Summer Camp 10, 7/20-7/31 - Weekdays only.  Recommended for dancers age 7 or above, or existing Team 9 dancers.</li>
   <li>Summer Camp 11, 7/20-7/31 - Weekdays only.  Recommended for dancers age 8 or above, or existing Team 5 dancers.</li>
   <li>Summer Camp 12, 7/20-7/31 - Weekdays only.  Recommended for dancers age 10 or more, or existing Team 6 dancers.</li>
-
-
 </ol>
+</p>
 <!-- * (if you are not sure about each level requirement -->
 <!-- Pre-team/regular camp times and appropriate level/age groups are as follows: -->
 <!-- <ol> -->

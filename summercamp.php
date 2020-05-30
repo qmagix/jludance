@@ -33,7 +33,7 @@ Music class features vocal/singing and/or percussion instrument lessons. -->
   <li>  Summer Online Camp 6, 6/8-8/1, Mon-Wed-Fri [hours: 15:30-18:00] (Tuition:$900) - Recommended for dancers age 8 or more, or existing Team 7 dancers.</li>
   <li>  Summer Online Camp 7, 6/8-8/1, All Weekdays [hours: 09:00-10;30] (Tuition:$900) - Recommended for dancers age 5-6 or existing level 2-3 students</li>
   <li>  Summer Online Camp 8, 6/8-8/1, All Weekdays [hours: 10:30-12:00] (Tuition:$900) - Recommended for dancers age 7 and above or existing level 4-5 students</li>
-  <li>  Summer Online Camp 9, 6/8-8/1, All Weekdays [hours: 09:00-10:30] (Tuition:$900) - This is a special morning hour class for all dancers ages 9-12, hiphop/jazz/tech</li>
+  <li>  Summer Online Camp 9, 6/8-8/1, All Weekdays [hours: 09:00-10:30] (Tuition:$900) - This is a special morning hour class for all dancers ages 8-11, hiphop/jazz/tech</li>
   <li>  Summer Online Camp 10, 6/8-8/1, All Weekdays [hours: 10:30-12:00] (Tuition:$900) - Recommended for dancers age 7 or above, or existing Team 9 dancers.</li>
   <li>  Summer Online Camp 11, 6/8-8/1, Tue-Th-Sat [hours: 16:00-18:30] (Tuition:$900) - Recommended for dancers age 8 or above, or existing Team 5 dancers.</li>
   <li>  Summer Online Camp 12, 6/8-8/1, Mon-Wed-Fri [hours: 16:00-18:30] (Tuition:$900) - Recommended for dancers age 10 or more, or existing Team 6 dancers.</li>

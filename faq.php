@@ -18,6 +18,7 @@
 <li><a href="#team">Can my child join your competition team?</a></li>
 <li><a href="#styleofdance">What style of dance do you teach in each class?</a></li>
 <li><a href="#performance">Can my child join school performance?</a></li>
+<li><a href="#performance">Are there any penalty for quiting a registered class?</a></li>
 <li><a href="#moreq">What if I have more questions?</a></li>
 </ul>
 
@@ -107,6 +108,12 @@ dance style is not very distinguished, more of a "happy and lovely" dance style.
   have enough time for the routine and costumes ready for the performance,
   we will let the class know and the class will work towards a
   later performance.
+
+<br>  <br>
+<li id="performance">Any penalty for quiting a registered class?</li>
+  Well, we understand all family have various things happening that may not be totally under their control.
+  When presented a reasonal reason for quit a class, we will refund partial tuition. Just for every refund
+  there is a $50 processing fee. Furthermore, registration fee is not refundable.  
 
 <br>  <br>
 <li id="moreq">What if I have more questions?</li>

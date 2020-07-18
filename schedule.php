@@ -75,20 +75,20 @@ mysqli_close($conn);
 
 <ul class="nav nav-tabs" id="myTab" role="tablist">
   <li class="nav-item">
-    <a class="nav-link btn btn-primary" id="spring-tab" data-toggle="tab" href="#spring" role="tab" aria-controls="home" aria-selected="true">Spring</a>
+    <a class="nav-link btn btn-primary" id="spring-tab" data-toggle="tab" href="#spring" role="tab" aria-controls="spring" aria-selected="false">Spring</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link active btn btn-primary" id="summer-tab" data-toggle="tab" href="#summer" role="tab" aria-controls="profile" aria-selected="false">Summer</a>
+    <a class="nav-link btn btn-primary" id="summer-tab" data-toggle="tab" href="#summer" role="tab" aria-controls="summer" aria-selected="false">Summer</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link btn btn-primary" id="fall-tab" data-toggle="tab" href="#fall" role="tab" aria-controls="contact" aria-selected="false">Fall</a>
+    <a class="nav-link btn active btn-primary" id="fall-tab" data-toggle="tab" href="#fall" role="tab" aria-controls="fall-tab" aria-selected="true">Fall</a>
   </li>
 </ul>
 <div class="tab-content" id="myTabContent">
   <div class="tab-pane fade" id="spring" role="tabpanel" aria-labelledby="spring-tab">
    Spring Session Registration has been closed.
   </div>
-  <div class="tab-pane fade show active" id="summer" role="tabpanel" aria-labelledby="summer-tab">
+  <div class="tab-pane fade" id="summer" role="tabpanel" aria-labelledby="summer-tab">
     <div class="row">
       <div class="col-sm-12">
         <div class="well">
@@ -108,7 +108,7 @@ mysqli_close($conn);
       </div>
     </div>
   </div>
-  <div class="tab-pane fade" id="fall" role="tabpanel" aria-labelledby="fall-tab">
+  <div class="tab-pane show active" id="fall" role="tabpanel" aria-labelledby="fall-tab">
     <div class="row">
       <div class="col-sm-12">
         <div class="well">
@@ -116,10 +116,10 @@ mysqli_close($conn);
           <table width="100%">
             <tr>
             <td valign=top>
-     <?php print_classes('Kid Classes', $semester1['kids']);?>
+     <?php print_classes('Kid Classes', $semester3['kids']);?>
     </td>
     <td valign=top>
-     <?php print_classes('Adult Classes',  $semester1['adult']); ?>
+     <?php print_classes('Adult Classes',  $semester3['adult']); ?>
       </td>
       </tr>
       </table>

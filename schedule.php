@@ -64,8 +64,8 @@ $DB_PASSWORD='qingfeng';
 // $DB_PASSWORD='';
 
 $conn = mysqli_connect($DB_HOST, $DB_USERNAME, $DB_PASSWORD,$DB_DATABASE);
-//mysql_set_charset("utf8");
 
+mysqli_set_charset($conn, "utf8");
 $semester1=get_classes($conn,4);
 $semester2=get_classes($conn,5);
 $semester3=get_classes($conn,6);

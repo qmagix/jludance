@@ -36,11 +36,10 @@
   <li id="pay">How do I pay for tuition?</li>
   You can send in tuition in cash or check via the following methods:
   <ol>
-    <li>Zelle: 4082193562 or jun@jludance.com</li>
+    <li>Zelle: 4082193562 or jun@jludance.com (Zelle is the prefered method)</li>
     <li>ApplePay: 4082193562</li>
-      <li>Venmo: 4082193562</li>
       <li>Check: mail to Jun Lu Performing Arts, 1600 Saratoga Ave, Suite 427, San Jose, CA 95129</li>
-        <li>Paypal: 4082193562 (family and friends)</li>
+        <li>Paypal: 4082193562 (family and friends, add 3% merchant fee if choose goods and service)</li>
   </ol>
   <br>  <br>
 
@@ -79,9 +78,14 @@ For levels 4 and up, black leotard with pink ballet shoes will be appropriate.
 
 <li id="buywear">Where should we buy the ballet outfit for class?</li>
   Almost any dance wear store.
-  Our studio have limited stock of ballet outfit with ballet shoes as well.
-  (For levels 3 and under, you shall buy the ballet tutu from us, unless you
+  Our studio have limited stock of ballet Leotard with ballet shoes as well.
+  (For levels 3 and under, you shall buy the ballet outfit with tutu from us, unless you
   find a style that matches our standard tutu style for levels 3 and under.)
+  During the pandemic, here is recommended ballet outfit from amazon: <br>
+  <a href="https://www.amazon.com/MdnMd-Girls-Dance-Leotard-Ballet/dp/B07HFZMLND/">Ballet outfit for level 3 and under</a>
+  | <a href="https://www.amazon.com/Capezio-Toddler-Little-Canvas-2028C/dp/B000M9MCZA/">Pink Canvas Ballet Shoes</a>
+  | <a href="https://www.amazon.com/Capezio-Womens-Camisole-Leotard-Adjustable/dp/B002L779LI/">Black Leotard for Level 3 and Up</a>
+
   <br>
     <br>
 
@@ -113,7 +117,7 @@ dance style is not very distinguished, more of a "happy and lovely" dance style.
 <li id="performance">Any penalty for quiting a registered class?</li>
   Well, we understand all family have various things happening that may not be totally under their control.
   When presented a reasonal reason for quit a class, we will refund partial tuition. Just for every refund
-  there is a $50 processing fee. Furthermore, registration fee is not refundable.  
+  there is a $50 processing fee. Furthermore, registration fee is not refundable.
 
 <br>  <br>
 <li id="moreq">What if I have more questions?</li>

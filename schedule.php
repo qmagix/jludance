@@ -66,9 +66,9 @@ $DB_PASSWORD='qingfeng';
 $conn = mysqli_connect($DB_HOST, $DB_USERNAME, $DB_PASSWORD,$DB_DATABASE);
 
 mysqli_set_charset($conn, "utf8");
-$semester1=get_classes($conn,4);
-$semester2=get_classes($conn,5);
-$semester3=get_classes($conn,6);
+$semester1=get_classes($conn,7);
+$semester2=get_classes($conn,8);
+$semester3=get_classes($conn,9);
 
 mysqli_close($conn);
 ?>
@@ -87,7 +87,24 @@ mysqli_close($conn);
 </ul>
 <div class="tab-content" id="myTabContent">
   <div class="tab-pane fade" id="spring" role="tabpanel" aria-labelledby="spring-tab">
-   Spring Session Registration has been closed.
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="well">
+         <p>
+          <table width="100%">
+            <tr>
+            <td valign=top>
+     <?php print_classes('Kid Classes', $semester1['kids']);?>
+    </td>
+    <td valign=top>
+     <?php print_classes('Adult Classes',  $semester1['adult']); ?>
+      </td>
+      </tr>
+      </table>
+         </p>
+        </div>
+      </div>
+    </div>
   </div>
   <div class="tab-pane fade" id="summer" role="tabpanel" aria-labelledby="summer-tab">
     <div class="row">

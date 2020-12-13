@@ -121,8 +121,8 @@
       </div>
     </div>
   </div>
-  <h2>2020 Class Schedule</h2>
-  <h4>Spring 1/6-6/9 (Spring Recess 4/12-18), (Summer 6/8-8/1)*, Fall 8/8-12/20</h4>
+  <h2>2021 Class Schedule</h2>
+  <h4>Spring 1/4-6/13 (Spring Recess 4/12-18), (Summer 6/14-8/15)*, Fall 8/16-12/19</h4>
   (Updated details on <a href="http://admin.jludance.org/signup">signup</a> pages)
 <?php include('schedule.php');?>
   <div class="row">

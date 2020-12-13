@@ -86,7 +86,7 @@ mysqli_close($conn);
   </li>
 </ul>
 <div class="tab-content" id="myTabContent">
-  <div class="tab-pane fade" id="spring" role="tabpanel" aria-labelledby="spring-tab">
+  <div class="tab-pane show active" id="spring" role="tabpanel" aria-labelledby="spring-tab">
     <div class="row">
       <div class="col-sm-12">
         <div class="well">
@@ -126,7 +126,7 @@ mysqli_close($conn);
       </div>
     </div>
   </div>
-  <div class="tab-pane show active" id="fall" role="tabpanel" aria-labelledby="fall-tab">
+  <div class="tab-pane fade" id="fall" role="tabpanel" aria-labelledby="fall-tab">
     <div class="row">
       <div class="col-sm-12">
         <div class="well">

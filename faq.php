@@ -77,14 +77,16 @@ For levels 4 and up, black leotard with pink ballet shoes will be appropriate.
 <br>  <br>
 
 <li id="buywear">Where should we buy the ballet outfit for class?</li>
-  Almost any dance wear store.
+  Almost any dance wear store or <a href="http://admin.jludance.com/dancewear">here</a>.
   Our studio have limited stock of ballet Leotard with ballet shoes as well.
   (For levels 3 and under, you shall buy the ballet outfit with tutu from us, unless you
   find a style that matches our standard tutu style for levels 3 and under.)
-  During the pandemic, here is recommended ballet outfit from amazon: <br>
-  <a href="https://www.amazon.com/MdnMd-Girls-Dance-Leotard-Ballet/dp/B07HFZMLND/">Ballet outfit for level 3 and under</a>
+  During the pandemic, click here for <a href="http://admin.jludance.com/dancewear">recommended dance training outfit</a> from amazon
+
+   <br>
+  <!-- <a href="https://www.amazon.com/MdnMd-Girls-Dance-Leotard-Ballet/dp/B07HFZMLND/">Ballet outfit for level 3 and under</a>
   | <a href="https://www.amazon.com/Capezio-Toddler-Little-Canvas-2028C/dp/B000M9MCZA/">Pink Canvas Ballet Shoes</a>
-  | <a href="https://www.amazon.com/Capezio-Womens-Camisole-Leotard-Adjustable/dp/B002L779LI/">Black Leotard for Level 3 and Up</a>
+  | <a href="https://www.amazon.com/Capezio-Womens-Camisole-Leotard-Adjustable/dp/B002L779LI/">Black Leotard for Level 3 and Up</a> -->
 
   <br>
     <br>

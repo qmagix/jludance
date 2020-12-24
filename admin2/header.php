@@ -51,7 +51,4 @@ print_html_header_with_css("Studio Management Panel", "studio.css");
 }else{
 	header("Location: index.php");
 }
-
-
-
 ?>

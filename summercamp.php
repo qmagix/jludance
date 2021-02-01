@@ -80,11 +80,11 @@ Online Plan
 <!-- </ol> -->
 <!--  <p>(* audition and special commitment required) </p> -->
 
- <p>Each camp has a showcase time open to parents: 3pm at the last Friday of each camp, parents are invited
+ <p>Each onsite camp has a showcase time open to parents: 3pm at the last Friday of each camp, parents are invited
 to come to enjoy what their kids have learned and advanced through their hardwork.
-There is also a free dance team audition at the end of each camp for those who are wishing to join our 2020-2021 competitive dance team.
+There is also a free dance team audition at the end of each camp for those who are wishing to join our 2021-2022 competitive dance team.
 </p>
-<a href="https://admin.jludance.org/signup/camp">Signup now</a> for early bird rate</p>
+<a href="https://admin.jludance.org/signup/camp">Signup now</a> </p>
 
 <h2> Camp daily schedule</h2>
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" height="136">
@@ -131,10 +131,10 @@ There is also a free dance team audition at the end of each camp for those who a
       <td>CAMP</td><td>regular</td><td>early bird(Payment before Feb 15)</td>
     </tr>
     <tr>
-      <td>10 day camp</td><td>1000</td><td>900</td>
+      <td>10 day onsite camp</td><td>1000</td><td>950</td>
     </tr>
     <tr>
-      <td>5 day camp</td><td>550</td><td>500</td>
+      <td>Online camp</td><td>900</td><td>850</td>
     </tr>
   </table>
 optional 4-6pm after camp care $5/hour. </p>

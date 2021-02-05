@@ -20,13 +20,13 @@ that aims to enable a leap in artisctic expressiveness and creativity for the ca
 It combines the best of professional-level instruction
 with rich routines to be featured in live theater/outdoor performance and maybe competitions.
 </p>
-<p>We hope the pandemic could be total under control in the bay area before summer and we can 
-go back to the studio we all miss so much for onsite classes. However,  
-due to the pandemic uncertainty, we have to plan both onsite and online camps. 
+<p>We hope the pandemic could be total under control in the bay area before summer and we can
+go back to the studio we all miss so much for onsite classes. However,
+due to the pandemic uncertainty, we have to plan both onsite and online camps.
 The online camps as a contigency plan.
 </p>
-<p>You are welcome to signup both onsite and online plans according to your schedule. 
-Only need to pay tuition/deposit for one type.    
+<p>You are welcome to signup both onsite and online plans according to your schedule.
+Only need to pay tuition/deposit for one type.
 </p>
 <p>
 Onsite Plan
@@ -45,7 +45,7 @@ Onsite Plan
 </ol>
 </p>
 <p>
-Online Plan
+Online Plan 6/14-8/06
 <ol>
   <li>  Online Summer Camp 1, Tue+Thur+Sat 6:00-8:30pm [hours: 18:00-20:30] (Tuition:$900) - Recommended for dancers age 14 and up or existing Team 1 dancers  </li>
   <li>  Online Summer Camp 2, Tue+Thur+Sat 4:00-6:30pm [hours: 16:00-18:30] (Tuition:$900) - Recommended for dancers age 12 and up or existing Team 2-4 dancers </li>

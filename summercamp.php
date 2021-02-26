@@ -31,7 +31,7 @@ Only need to pay tuition/deposit for one type.
 <p>
 Onsite Plan
 <ol>
-  <li>Summer Camp 1, special dates and time(TBD) [hours: 09:00-11:00] (Tuition:$) - Recommended for dancers age 14 and up or existing Team 1 dancers </li>
+  <li>Summer Camp 1, special dates and time(TBD) (Tuition:$) - Recommended for dancers age 14 and up or existing Team 1 dancers </li>
   <li>Summer Camp 2, 6/14-6/25 [hours: 09:00-16:00] (Tuition:$1000) - Recommended for dancers age 12 and up or existing Team 2-4 dancers </li>
   <li>Summer Camp 3, 6/14-6/25 [hours: 09:00-16:00] (Tuition:$1000) - Recommended for dancers age 10 and up or existing Team 3-6 dancers </li>
   <li>Summer Camp 4, 6/14-6/25 [hours: 09:00-16:00] (Tuition:$1000) - Recommended for dancers age 9 and up or existing Team 5-7 dancers </li>
@@ -86,7 +86,7 @@ There is also a free dance team audition at the end of each camp for those who a
 </p>
 <a href="https://admin.jludance.org/signup/camp">Signup now</a> </p>
 
-<h2> Camp daily schedule</h2>
+<h2> Onsite Camp daily schedule</h2>
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" height="136">
   <tr>
     <td width="19%" height="35">&nbsp;</td>

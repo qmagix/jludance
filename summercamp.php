@@ -134,7 +134,7 @@ There is also a free dance team audition at the end of each camp for those who a
       <td>10 day onsite camp</td><td>1000</td><td>950</td>
     </tr>
     <tr>
-      <td>Online camp</td><td>900</td><td>850</td>
+      <td>Online camp</td><td>1000</td><td>950</td>
     </tr>
   </table>
 optional 4-6pm after camp care $5/hour. </p>

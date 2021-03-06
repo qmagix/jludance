@@ -138,6 +138,7 @@ There is also a free dance team audition at the end of each camp for those who a
     </tr>
   </table>
 optional 4-6pm after camp care $5/hour. </p>
+<p align="left">You can pay the tuition via zelle to mobile number 4082193562 (Qingfeng)</p>
 <p align="left">For more details or questions, please email campinfo@jludance.com or call 408-712-9188</p>
 
 <p>Cancellation: we reserve the right to cancel the camp if the enrollment is

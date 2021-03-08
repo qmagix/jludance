@@ -53,8 +53,8 @@ Online Plan 6/14-8/06
   <li>  Online Summer Camp 4, Tue+Thur+Sat 4:00-6:30pm [hours: 16:00-18:30] (Tuition:$1000) - Recommended for dancers age 9 and up or existing Team 5-7 dancers </li>
   <li>  Online Summer Camp 5, Mon+Wed+Fri, 4-6:30pm [hours: 16:00-18:30] (Tuition:$1000) - Recommended for dancers age 8 and up or existing Team 6-8 dancers </li>
   <li>  Online Summer Camp 6, Mon+Wed+Fri 3:30-6pm [hours: 15:30-18:00] (Tuition:$1000) - Recommended for dancers age 8 and up or existing Team 7-9 dancers </li>
-  <li>  Online Summer Camp 7, Every Weekday, 9-10:30AM [hours: 09:00-10:30] (Tuition:$1000) - Recommended for dancers age 7 and up or existing Team 9-10 dancers </li>
-  <li>  Online Summer Camp 8, Every Weekday, 10:30-12:00 [hours: 10:30-12:00] (Tuition:$1000) - Recommended for dancers age 6 and up or existing team 10-11 dancers </li>
+  <li>  Online Summer Camp 7, Every Weekday, 9-10:30AM [hours: 09:00-10:30] (Tuition:$1000) - Recommended for dancers age 7 and up or existing Team 10-11 dancers </li>
+  <li>  Online Summer Camp 8, Every Weekday, 10:30-12:00 [hours: 10:30-12:00] (Tuition:$1000) - Recommended for dancers age 6 and up or existing team 9-10 dancers </li>
   <li>  Online Summer Camp 9, Every Weekday, 10:30-12:00 [hours: 10:30-12:00] (Tuition:$1000) - Recommended for dancers age 7 and up or existing team 9 dancers </li>
 </ol>
 </p>

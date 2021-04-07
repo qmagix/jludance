@@ -128,13 +128,13 @@ There is also a free dance team audition at the end of each camp for those who a
 <p align="left"><b><font size="5">Tuition: </font></b>
   <table border=1>
     <tr>
-      <td>CAMP</td><td>regular</td><td>early bird(Payment before March 7th)</td>
+      <td>CAMP</td><td>regular</td><td>early bird2(Payment before April 15th)</td>
     </tr>
     <tr>
-      <td>10 day onsite camp</td><td>1000</td><td>950</td>
+      <td>10 day onsite camp</td><td>1100</td><td>1000</td>
     </tr>
     <tr>
-      <td>Online camp</td><td>1000</td><td>950</td>
+      <td>Online camp</td><td>1000</td><td>960</td>
     </tr>
   </table>
 optional 4-6pm after camp care $5/hour. </p>

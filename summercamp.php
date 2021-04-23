@@ -32,16 +32,16 @@ Only need to pay tuition/deposit for one type.
 Onsite Plan
 <ol>
   <li>Summer Camp 1, special dates and time(TBD) (Tuition:$) - Recommended for dancers age 14 and up or existing Team 1 dancers </li>
-  <li>Summer Camp 2, 6/14-6/25 [hours: 13:30-19:30**] (Tuition:$1000) - Recommended for dancers age 12 and up or existing Team 2-4 dancers </li>
-  <li>Summer Camp 3, 6/28-7/9 [hours: 09:00-16:00] (Tuition:$1000) - Recommended for dancers age 10 and up or existing Team 3-6 dancers </li>
-  <li>Summer Camp 4, 6/14-6/25 [hours: 09:00-16:00] (Tuition:$1000) - Recommended for dancers age 9 and up or existing Team 5-7 dancers </li>
-  <li>Summer Camp 5, 7/12-7/23 [hours: 09:00-16:00] (Tuition:$1000) - Recommended for dancers age 8 and up or existing Team 6-8 dancers </li>
-  <li>Summer Camp 6, 7/26-8/6 [hours: 09:00-16:00] (Tuition:$1000) - Recommended for dancers age 8 and up or existing Team 7-9 dancers </li>
+  <li>Summer Camp 2, 6/7-6/18 [hours: 13:30-19:30**] (Tuition:$1100) - Recommended for dancers age 12 and up or existing Team 2-4 dancers </li>
+  <li>Summer Camp 3, 6/21-25, 7/5-9 [hours: 09:00-16:00] (Tuition:$1100) - Recommended for dancers age 10 and up or existing Team 3-6 dancers </li>
+  <li>Summer Camp 4, 6/14-6/25 [hours: 09:00-16:00] (Tuition:$1100) - Recommended for dancers age 9 and up or existing Team 5-7 dancers </li>
+  <li>Summer Camp 5, 7/12-7/23 [hours: 09:00-16:00] (Tuition:$1100) - Recommended for dancers age 8 and up or existing Team 6-8 dancers </li>
+  <li>Summer Camp 6, 7/26-8/6 [hours: 09:00-16:00] (Tuition:$1100) - Recommended for dancers age 8 and up or existing Team 7-9 dancers </li>
   <li>Summer Camp 7, Placeholder, TBD </li>
-  <li>Summer Camp 8, 7/12-7/23 [hours: 09:00-16:00] (Tuition:$1000) - Recommended for dancers age 5 and up or existing level 3+ dancers </li>
-  <li>Summer Camp 9, 7/26-8/6 [hours: 09:00-16:00] (Tuition:$1000) - Recommended for dancers age 7 and up or existing team 9 dancers </li>
-  <li>Summer Camp 10, 7/26-8/6 [hours: 09:00-16:00] (Tuition:$1000) - Recommended for dancers age 6 and up or existing team 10 dancers </li>
-  <li>Summer Camp 11, 7/12-7/23 [hours: 09:00-16:00] (Tuition:$1000) - Recommended for dancers age 5 and up or existing team 11 dancers  </li>
+  <li>Summer Camp 8, 7/12-7/23 [hours: 09:00-16:00] (Tuition:$1100) - Recommended for dancers age 5 and up or existing level 3+ dancers </li>
+  <li>Summer Camp 9, 7/26-8/6 [hours: 09:00-16:00] (Tuition:$1100) - Recommended for dancers age 7 and up or existing team 9 dancers </li>
+  <li>Summer Camp 10, 7/26-8/6 [hours: 09:00-16:00] (Tuition:$1100) - Recommended for dancers age 6 and up or existing team 10 dancers </li>
+  <li>Summer Camp 11, 7/12-7/23 [hours: 09:00-16:00] (Tuition:$1100) - Recommended for dancers age 5 and up or existing team 11 dancers  </li>
 </ol>
 </p>
 <p>
@@ -128,13 +128,13 @@ There is also a free dance team audition at the end of each camp for those who a
 <p align="left"><b><font size="5">Tuition: </font></b>
   <table border=1>
     <tr>
-      <td>CAMP</td><td>regular</td><td>early bird(Payment before March 7th)</td>
+      <td>CAMP</td><td>regular</td><td>early bird2(Payment before April 15th)</td>
     </tr>
     <tr>
-      <td>10 day onsite camp</td><td>1000</td><td>950</td>
+      <td>10 day onsite camp</td><td>1100</td><td>1000</td>
     </tr>
     <tr>
-      <td>Online camp</td><td>1000</td><td>950</td>
+      <td>Online camp</td><td>1000</td><td>960</td>
     </tr>
   </table>
 optional 4-6pm after camp care $5/hour. </p>

@@ -32,7 +32,7 @@ Only need to pay tuition/deposit for one type.
 Onsite Plan
 <ol>
   <li>Summer Camp 1, special dates and time(TBD) (Tuition:$) - Recommended for dancers age 14 and up or existing Team 1 dancers </li>
-  <li>Summer Camp 2, 6/14-6/25 [hours: 09:00-16:00] (Tuition:$1000) - Recommended for dancers age 12 and up or existing Team 2-4 dancers </li>
+  <li>Summer Camp 2, 6/14-6/25 [hours: 13:30-19:30**] (Tuition:$1000) - Recommended for dancers age 12 and up or existing Team 2-4 dancers </li>
   <li>Summer Camp 3, 6/28-7/9 [hours: 09:00-16:00] (Tuition:$1000) - Recommended for dancers age 10 and up or existing Team 3-6 dancers </li>
   <li>Summer Camp 4, 6/14-6/25 [hours: 09:00-16:00] (Tuition:$1000) - Recommended for dancers age 9 and up or existing Team 5-7 dancers </li>
   <li>Summer Camp 5, 7/12-7/23 [hours: 09:00-16:00] (Tuition:$1000) - Recommended for dancers age 8 and up or existing Team 6-8 dancers </li>

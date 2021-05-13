@@ -73,77 +73,58 @@ $semester3=get_classes($conn,9);
 mysqli_close($conn);
 ?>
 
-
-<ul class="nav nav-tabs" id="myTab" role="tablist">
-  <li class="nav-item">
-    <a class="nav-link btn btn-primary" id="spring-tab" data-toggle="tab" href="#spring" role="tab" aria-controls="spring" aria-selected="false">Spring</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link btn btn-primary" id="summer-tab" data-toggle="tab" href="#summer" role="tab" aria-controls="summer" aria-selected="false">Summer</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link btn active btn-primary" id="fall-tab" data-toggle="tab" href="#fall" role="tab" aria-controls="fall-tab" aria-selected="true">Fall</a>
-  </li>
+<ul class="nav nav-tabs">
+  <li class="active"><a class="nav-link btn btn-primary" data-toggle="tab" href="#home">Spring</a></li>
+  <li><a class="nav-link btn btn-primary" data-toggle="tab" href="#menu1">Summer</a></li>
+  <li><a class="nav-link btn btn-primary" data-toggle="tab" href="#menu2">Fall</a></li>
 </ul>
-<div class="tab-content" id="myTabContent">
-  <div class="tab-pane show active" id="spring" role="tabpanel" aria-labelledby="spring-tab">
-    <div class="row">
-      <div class="col-sm-12">
-        <div class="well">
+
+<div class="tab-content">
+  <div id="home" class="tab-pane fade in active">
+    <h3>Spring Session</h3>
          <p>
           <table width="100%">
             <tr>
             <td valign=top>
-     <?php print_classes('Kid Classes', $semester1['kids']);?>
-    </td>
-    <td valign=top>
-     <?php print_classes('Adult Classes',  $semester1['adult']); ?>
-      </td>
-      </tr>
-      </table>
+            <?php print_classes('Kid Classes', $semester1['kids']);?>
+            </td>
+            <td valign=top>
+            <?php print_classes('Adult Classes',  $semester1['adult']); ?>
+              </td>
+              </tr>
+          </table>
          </p>
-        </div>
-      </div>
-    </div>
   </div>
-  <div class="tab-pane fade" id="summer" role="tabpanel" aria-labelledby="summer-tab">
-    <div class="row">
-      <div class="col-sm-12">
-        <div class="well">
-         <p>
+  <div id="menu1" class="tab-pane fade">
+    <h3>Summer Session</h3>
+        <p>
           <table width="100%">
             <tr>
             <td valign=top>
-     <?php print_classes('Kid Classes', $semester2['kids']);?>
-    </td>
-    <td valign=top>
-     <?php print_classes('Adult Classes',  $semester2['adult']); ?>
-      </td>
-      </tr>
-      </table>
-         </p>
-        </div>
-      </div>
-    </div>
+              <?php print_classes('Kid Classes', $semester2['kids']);?>
+            </td>
+            <td valign=top>
+              <?php print_classes('Adult Classes',  $semester2['adult']); ?>
+            </td>
+            </tr>
+          </table>
+        </p>
   </div>
-  <div class="tab-pane fade" id="fall" role="tabpanel" aria-labelledby="fall-tab">
-    <div class="row">
-      <div class="col-sm-12">
-        <div class="well">
-         <p>
+  <div id="menu2" class="tab-pane fade">
+    <h3>Fall Session</h3>
+    <p>
           <table width="100%">
             <tr>
             <td valign=top>
-     <?php print_classes('Kid Classes', $semester3['kids']);?>
-    </td>
-    <td valign=top>
-     <?php print_classes('Adult Classes',  $semester3['adult']); ?>
-      </td>
-      </tr>
-      </table>
+            <?php print_classes('Kid Classes', $semester3['kids']);?>
+            </td>
+            <td valign=top>
+            <?php print_classes('Adult Classes',  $semester3['adult']); ?>
+            </td>
+            </tr>
+          </table>
          </p>
-        </div>
-      </div>
-    </div>
   </div>
 </div>
+
+

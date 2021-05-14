@@ -142,7 +142,10 @@ optional 4-6pm after camp care $5/hour. </p>
 <p align="left">For more details or questions, please email campinfo@jludance.com or call 408-712-9188</p>
 
 <p>Cancellation: we reserve the right to cancel the camp if the enrollment is
-not sufficient. You will get a full refund if this happened.&nbsp; </p>
+not sufficient. You will get a full refund if this happened.&nbsp;  $100 of the payment is non-refundable administrative fee.
+If a student has to cancel registration for personal reasons, $100 will be deducted from the payment if the request is sent in before 5/1.
+A third of the payment will be deducted if the request comes in after that. No refund one week before the camp starts (half the of payment might be credited to the regular class tuition if cancellation
+is due to a reason not under the student's control). </p>
 <h2><b><a href="https://admin.jludance.org/signup/camp">Signup Online</a></b></h2>
 </div>
 

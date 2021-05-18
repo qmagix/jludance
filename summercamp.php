@@ -31,7 +31,8 @@ Only need to pay tuition/deposit for one type.
 <p>
 Onsite Plan
 <ol>
-  <li>Summer Camp 1, special dates and time(TBD) (Tuition:$) - Recommended for dancers age 14 and up or existing Team 1 dancers </li>
+<li> One Week HipHop Camp, 7/5-9 [hours: 9:00-16:00] (Tuition:$600) - This is a special Hiphop dance camp (for team Zen and other dancers who are interested in hiphop, ages 9-16)</li>
+  <li>Summer Camp 1, 6/14-18, 9-4pm [hours: 09:00-16:00] (Tuition:$600) - Recommended for dancers age 14 and up or existing Team 1 dancers </li>
   <li>Summer Camp 2, 6/7-6/18 [hours: 13:30-19:30**] (Tuition:$1100) - Recommended for dancers age 12 and up or existing Team 2-4 dancers </li>
   <li>Summer Camp 3, 6/21-25, 7/5-9 [hours: 09:00-16:00] (Tuition:$1100) - Recommended for dancers age 10 and up or existing Team 3-6 dancers </li>
   <li>Summer Camp 4, 6/14-6/25 [hours: 09:00-16:00] (Tuition:$1100) - Recommended for dancers age 9 and up or existing Team 5-7 dancers </li>

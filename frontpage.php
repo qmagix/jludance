@@ -8,10 +8,10 @@
       <div class="well">
        <p>
          <h4> What We Do</h4>
-         Jun Lu Performing Arts offers a wide range of high quality dance classes,
-         from eastern folks dances (including Han and Tibetan, Mongolian, Uygur,
+         Jun Lu Performing Arts offers a wide range of high quality dance and music classes.
+         Dance styles range from eastern folks dances (including Han and Tibetan, Mongolian, Uygur,
          Korean, Dai, Yi dances) to western dances (including Ballet,
-         Flamenco, Jazz, Hiphop).  Whether you are here for a recreational exercise
+         Flamenco, Jazz, Hiphop).  Music classes include musical theater, choir, instrucments and music technology. Whether you are here for a recreational exercise
          and fun or to advance a career in arts,  our dedicated faculty gives
          personal attention and professional training to match your interests.
        </p>

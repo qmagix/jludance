@@ -120,22 +120,29 @@ There is also a free dance team audition at the end of each camp for those who a
 </table>
 <p align="left">(* The kids will have a 10 minutes break between each hour. * Parents please prepare water and lunch for your child. * actual content/daily schedule of each camp may change depending on the needs of each group)</p>
 <p align="left"><b><font size="5">Tuition: </font></b>
-  <table border=1>
+
+  <table class="table">
+  <thead>
     <tr>
-      <td>CAMP</td><td>regular</td><td>early bird2(Payment before April 15th)</td>
+      <th scope="col">CAMP</th>
+      <th scope="col">Regular</th>
+      <th scope="col">Early Bird2 (before April 15th)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">10 day onsite camp</th>
+      <td>$1100</td>
+      <td>$1000</td>
+
     </tr>
     <tr>
-      <td>10 day onsite camp</td><td>1100</td><td>1000</td>
+      <th scope="row">Online weekly camps</th>
+      <td colspan="2">$150/week</td>
+
     </tr>
-    <tr>
-      <td>Online weekly camps</td><td col=2>
-        $150/week for 1-2 weeks<br>
-        $140/week for 3-4 weeks<br>
-        $130/week for 5-6 weeks<br>
-        $120/week for more than 6 weeks<br>
-      </td>
-    </tr>
-  </table>
+  </tbody>
+</table>
 optional 4-6pm after camp care $5/hour. </p>
 <p align="left">You can pay the tuition via zelle to mobile number 4082193562 (Qingfeng)</p>
 <p align="left">For more details or questions, please email campinfo@jludance.com or call 408-712-9188</p>

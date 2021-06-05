@@ -46,17 +46,10 @@ Onsite Plan
 </ol>
 </p>
 <p>
-Online Plan 6/14-8/06
+Online Plan 6/14-8/06 (you may signup by week, choose weeks that work for you)
 <ol>
-  <li>  Online Summer Camp 1, Tue+Thur+Sat 6:00-8:30pm [hours: 18:00-20:30] (Tuition:$1000) - Recommended for dancers age 14 and up or existing Team 1 dancers  </li>
-  <li>  Online Summer Camp 2, Tue+Thur+Sat 4:00-6:30pm [hours: 16:00-18:30] (Tuition:$1000) - Recommended for dancers age 12 and up or existing Team 2-4 dancers </li>
-  <li>  Online Summer Camp 3, Mon+Wed+Fri, 4:00-6:30pm [hours: 16:00-18:30] (Tuition:$1000) - Recommended for dancers age 10 and up or existing Team 3-6 dancers </li>
-  <li>  Online Summer Camp 4, Tue+Thur+Sat 4:00-6:30pm [hours: 16:00-18:30] (Tuition:$1000) - Recommended for dancers age 9 and up or existing Team 5-7 dancers </li>
-  <li>  Online Summer Camp 5, Mon+Wed+Fri, 4-6:30pm [hours: 16:00-18:30] (Tuition:$1000) - Recommended for dancers age 8 and up or existing Team 6-8 dancers </li>
-  <li>  Online Summer Camp 6, Mon+Wed+Fri 3:30-6pm [hours: 15:30-18:00] (Tuition:$1000) - Recommended for dancers age 8 and up or existing Team 7-9 dancers </li>
-  <li>  Online Summer Camp 7, Every Weekday, 9-10:30AM [hours: 09:00-10:30] (Tuition:$1000) - Recommended for dancers age 7 and up or existing Team 10-11 dancers </li>
-  <li>  Online Summer Camp 8, Every Weekday, 10:30-12:00 [hours: 10:30-12:00] (Tuition:$1000) - Recommended for dancers age 6 and up or existing team 9-10 dancers </li>
-  <li>  Online Summer Camp 9, Every Weekday, 10:30-12:00 [hours: 10:30-12:00] (Tuition:$1000) - Recommended for dancers age 7 and up or existing team 9 dancers </li>
+  <li>  Online Weekly Camp A, Every Weekday, 4:30-6:00pm - Recommended for dancers age 6 and 8 </li>
+  <li>  Online Weekly Camp B, Every Weekday, 5:30-7:00pm - Recommended for dancers age 9 and 11 </li>
 </ol>
 </p>
 
@@ -135,7 +128,12 @@ There is also a free dance team audition at the end of each camp for those who a
       <td>10 day onsite camp</td><td>1100</td><td>1000</td>
     </tr>
     <tr>
-      <td>Online camp</td><td>1000</td><td>960</td>
+      <td>Online weekly camps</td><td col=2>
+        $150/week for 1-2 weeks<br>
+        $140/week for 3-4 weeks<br>
+        $130/week for 5-6 weeks<br>
+        $120/week for more than 6 weeks<br>
+      </td>
     </tr>
   </table>
 optional 4-6pm after camp care $5/hour. </p>

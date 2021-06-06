@@ -46,17 +46,10 @@ Onsite Plan
 </ol>
 </p>
 <p>
-Online Plan 6/14-8/06
+Online Plan 6/14-8/06 (you may signup by week, choose weeks that work for you)
 <ol>
-  <li>  Online Summer Camp 1, Tue+Thur+Sat 6:00-8:30pm [hours: 18:00-20:30] (Tuition:$1000) - Recommended for dancers age 14 and up or existing Team 1 dancers  </li>
-  <li>  Online Summer Camp 2, Tue+Thur+Sat 4:00-6:30pm [hours: 16:00-18:30] (Tuition:$1000) - Recommended for dancers age 12 and up or existing Team 2-4 dancers </li>
-  <li>  Online Summer Camp 3, Mon+Wed+Fri, 4:00-6:30pm [hours: 16:00-18:30] (Tuition:$1000) - Recommended for dancers age 10 and up or existing Team 3-6 dancers </li>
-  <li>  Online Summer Camp 4, Tue+Thur+Sat 4:00-6:30pm [hours: 16:00-18:30] (Tuition:$1000) - Recommended for dancers age 9 and up or existing Team 5-7 dancers </li>
-  <li>  Online Summer Camp 5, Mon+Wed+Fri, 4-6:30pm [hours: 16:00-18:30] (Tuition:$1000) - Recommended for dancers age 8 and up or existing Team 6-8 dancers </li>
-  <li>  Online Summer Camp 6, Mon+Wed+Fri 3:30-6pm [hours: 15:30-18:00] (Tuition:$1000) - Recommended for dancers age 8 and up or existing Team 7-9 dancers </li>
-  <li>  Online Summer Camp 7, Every Weekday, 9-10:30AM [hours: 09:00-10:30] (Tuition:$1000) - Recommended for dancers age 7 and up or existing Team 10-11 dancers </li>
-  <li>  Online Summer Camp 8, Every Weekday, 10:30-12:00 [hours: 10:30-12:00] (Tuition:$1000) - Recommended for dancers age 6 and up or existing team 9-10 dancers </li>
-  <li>  Online Summer Camp 9, Every Weekday, 10:30-12:00 [hours: 10:30-12:00] (Tuition:$1000) - Recommended for dancers age 7 and up or existing team 9 dancers </li>
+  <li>  Online Weekly Camp A, Every Weekday, 4:30-6:00pm - Recommended for dancers age 6 and 8 </li>
+  <li>  Online Weekly Camp B, Every Weekday, 5:30-7:00pm - Recommended for dancers age 9 and 11 </li>
 </ol>
 </p>
 
@@ -127,17 +120,29 @@ There is also a free dance team audition at the end of each camp for those who a
 </table>
 <p align="left">(* The kids will have a 10 minutes break between each hour. * Parents please prepare water and lunch for your child. * actual content/daily schedule of each camp may change depending on the needs of each group)</p>
 <p align="left"><b><font size="5">Tuition: </font></b>
-  <table border=1>
+
+  <table class="table">
+  <thead>
     <tr>
-      <td>CAMP</td><td>regular</td><td>early bird2(Payment before April 15th)</td>
+      <th scope="col">CAMP</th>
+      <th scope="col">Regular</th>
+      <th scope="col">Early Bird2 (before April 15th)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">10 day onsite camp</th>
+      <td>$1100</td>
+      <td>$1000</td>
+
     </tr>
     <tr>
-      <td>10 day onsite camp</td><td>1100</td><td>1000</td>
+      <th scope="row">Online weekly camps</th>
+      <td colspan="2">$150/week</td>
+
     </tr>
-    <tr>
-      <td>Online camp</td><td>1000</td><td>960</td>
-    </tr>
-  </table>
+  </tbody>
+</table>
 optional 4-6pm after camp care $5/hour. </p>
 <p align="left">You can pay the tuition via zelle to mobile number 4082193562 (Qingfeng)</p>
 <p align="left">For more details or questions, please email campinfo@jludance.com or call 408-712-9188</p>

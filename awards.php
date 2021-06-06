@@ -3,6 +3,64 @@
 ?>
 <div class="container text-center">
   <h3>Recent Awards: Jun Lu Performing Arts Academy</h3><br>
+
+  <div class="row">
+    <div class="col-sm-8">
+      <div class="well">
+       <p>
+        <h4> 2020 </h4>
+         <h3>KAR National Dance Competition Virtual Final, 2020</h3><br>
+           <blockquote>
+            - <b>National Champion</b>, Novice Line ("Circle of Life")<br/>
+            - <b>National Champion</b>, Primary Large Group, 9-11 ("Survivor")<br/>
+            - <b>National Champion</b>, Top Primary Line 6-8 ("Dance to the Music")<br/>
+            - <b>National Champion</b>, Top Primary Line 9-11 ("Beautiful Days")<br/>
+            - <b>National Champion</b>, Top Secondary Large Group 12-14 ("Mystic Red")<br/>
+
+         - National Top Primary Solo, Second Place, Ella Yee ("Palace Soul") <br>
+         - National Top Primary Small Group 12-14, Second Place (Woo Woo)<br>
+         - National Top Primary Large Group 9-11, Second Place (Happy Feet)<br>
+         - National Top Primary Large Group 9-11, Fifth Place (Egyptian Sensation)<br>
+         - National Top Primary Small Group 9-11, Eighth Place (Passion of Wa)<br>
+                      ...
+          </blockquote>
+         <br>
+
+
+
+         <h3>Break the Floor Virtual Dance Competition, 2020 </h3><br>
+           <blockquote>
+             - <b>National Champion</b>, Special Category, Teen/Senior Group ("Mystic Red")<br/>
+              - <b>Best in Show Finalist</b>, "Mystic Red"<br/>
+           </blockquote>
+         <br>
+
+         <h3>StarAlliance Virtal Dance Competition, 2020 </h3><br>
+           <blockquote>
+             - <b>Excellence in Entertainment</b>, ("Little RainForest!")<br/>
+              -<b>Excellence in Choreography</b>, Ms Zhou (Whispering Beauty)<br/>
+              -<b>Excellence in Choreography</b>, Ms Lu (Happy Feet)<br/>
+             ...
+           </blockquote>
+         <br>
+
+
+       </p>
+      </div>
+    </div>
+    <div class="col-sm-4">
+      <img src="images/2019finals/thumbs/IMG_1107.JPG" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/2019finals/thumbs/IMG_1064.JPG" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/2019finals/thumbs/IMG_1093.JPG" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/2019finals/thumbs/IMG_1098.JPG" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/2019finals/thumbs/IMG_1105.JPG" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/2019finals/thumbs/IMG_1922.JPG" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/2019finals/thumbs/IMG_1924.JPG" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/2019finals/thumbs/IMG_0964.PNG" class="img-responsive" style="width:100%" alt="Image">
+
+
+    </div>
+  </div>
   <div class="row">
     <div class="col-sm-8">
       <div class="well">

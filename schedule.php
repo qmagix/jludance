@@ -74,13 +74,13 @@ mysqli_close($conn);
 ?>
 
 <ul class="nav nav-tabs">
-  <li class="active"><a class="nav-link btn btn-primary" data-toggle="tab" href="#home">Spring</a></li>
+  <li><a class="nav-link btn btn-primary" data-toggle="tab" href="#home">Spring</a></li>
   <li><a class="nav-link btn btn-primary" data-toggle="tab" href="#menu1">Summer</a></li>
-  <li><a class="nav-link btn btn-primary" data-toggle="tab" href="#menu2">Fall</a></li>
+  <li class="active"><a class="nav-link btn btn-primary" data-toggle="tab" href="#menu2">Fall</a></li>
 </ul>
 
 <div class="tab-content">
-  <div id="home" class="tab-pane fade in active">
+  <div id="home" class="tab-pane fade">
     <h3>Spring Session</h3>
          <p>
           <table width="100%">
@@ -110,7 +110,7 @@ mysqli_close($conn);
           </table>
         </p>
   </div>
-  <div id="menu2" class="tab-pane fade">
+  <div id="menu2" class="tab-pane fade in active">
     <h3>Fall Session</h3>
     <p>
           <table width="100%">

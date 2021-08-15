@@ -19,6 +19,7 @@
 <li><a href="#styleofdance">What style of dance do you teach in each class?</a></li>
 <li><a href="#performance">Can my child join school performance?</a></li>
 <li><a href="#performance">Are there any penalty for quiting a registered class?</a></li>
+<li><a href="#rental">Can we rent the studio for a private event or class? What is the rental fee?</a></li>
 <li><a href="#moreq">What if I have more questions?</a></li>
 </ul>
 
@@ -121,6 +122,11 @@ dance style is not very distinguished, more of a "happy and lovely" dance style.
   When presented a reasonal reason for quit a class, we will refund partial tuition. Just for every refund
   there is a $50 processing fee. Furthermore, registration fee is not refundable.
 
+<br>  <br>
+<li id="performance">Can we rent the studio for a private event or class? What is the rental fee?</li>
+  We currently have three studio rooms. When they are not schedlued for class, we might rent them out. No sugary beverage is allowed in the studio.
+  The hourly rental fees is $50 for the 600sqft room, $70 for the 900 sqft room, and $110 for the 1800 sqft room.
+  A security/cleaning deposit of $100 is required at booking(refundable if studio is kept at clean condition after use).
 <br>  <br>
 <li id="moreq">What if I have more questions?</li>
 You may email info@jludance.com or call us.

@@ -130,7 +130,7 @@ Every refund also iccurs a $50 processing fee. Furthermore, registration fee is 
   A security/cleaning deposit of $100 is required at booking(refundable if studio is kept at clean condition after use).
 
 <br>  <br>
-<li id="holidays">What are the holidays for school (for vacation planning)?</li>
+<li id="holiday">What are the holidays for school (for vacation planning)?</li>
 2021-2022 Jun Lu Performing Arts School Holiday Calendar
 <table>
   <tr>

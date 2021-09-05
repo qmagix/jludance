@@ -20,6 +20,7 @@
 <li><a href="#performance">Can my child join school performance?</a></li>
 <li><a href="#performance">Are there any penalty for quiting a registered class?</a></li>
 <li><a href="#rental">Can we rent the studio for a private event or class? What is the rental fee?</a></li>
+<li><a href="#holiday">What are the holidays for school (for vacation planning)?</a></li>
 <li><a href="#moreq">What if I have more questions?</a></li>
 </ul>
 
@@ -116,9 +117,9 @@ dance style is not very distinguished, more of a "happy and lovely" dance style.
 
 <br>  <br>
 <li id="performance">Any penalty for quiting a registered class?</li>
-We understand all families have various things happening that may not be totally under their control. 
-When presented with a reasonable reason to quit a class, we will refund partial tuition. 
-All prior classes in the session will be counted as drop-in ($30/hr). 
+We understand all families have various things happening that may not be totally under their control.
+When presented with a reasonable reason to quit a class, we will refund partial tuition.
+All prior classes in the session will be counted as drop-in ($30/hr).
 No credit for missed classes prior to refund request.
 Every refund also iccurs a $50 processing fee. Furthermore, registration fee is not refundable.
 
@@ -127,6 +128,32 @@ Every refund also iccurs a $50 processing fee. Furthermore, registration fee is 
   We currently have three studio rooms. When they are not schedlued for class, we might rent them out. No sugary beverage is allowed in the studio.
   The hourly rental fees is $50 for the 600sqft room, $70 for the 900 sqft room, and $110 for the 1800 sqft room.
   A security/cleaning deposit of $100 is required at booking(refundable if studio is kept at clean condition after use).
+
+<br>  <br>
+<li id="holidays">What are the holidays for school (for vacation planning)?</li>
+2021-2022 Jun Lu Performing Arts School Holiday Calendar
+<table>
+  <tr>
+    <td>Thanksgiving Recess</td>
+    <td>Nov 22 - Nov 28</td>
+  </tr>
+  <tr>
+    <td>Winter Recess</td>
+    <td>Dec 21 - Jan 2</td>
+  </tr>
+  <tr>
+    <td>Spring Recess</td>
+    <td>Apr 18 - Apr 24</td>
+  </tr>
+  <tr>
+    <td>Memorial Day</td>
+    <td>May 30</td>
+  </tr>
+  <tr>
+    <td>Last day of Spring Semester</td>
+    <td>June 5th</td>
+  </tr>
+</table>
 <br>  <br>
 <li id="moreq">What if I have more questions?</li>
 You may email info@jludance.com or call us.

@@ -56,9 +56,9 @@ function get_classes($link, $semester_id){
 
 $DB_HOST="localhost";
 $DB_PORT='3306';
-$DB_DATABASE='l5studio';
-$DB_USERNAME='l5studio';
-$DB_PASSWORD='qingfeng';
+$DB_DATABASE='l8studio';
+$DB_USERNAME='l8studio';
+$DB_PASSWORD='qingfenghuang';
 // $DB_DATABASE='teststudio';
 // $DB_USERNAME='root';
 // $DB_PASSWORD='';

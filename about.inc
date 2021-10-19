@@ -12,7 +12,9 @@
             understanding and appreciation through languages of the arts.&nbsp;&nbsp;
             Our programs, through the beautiful arts of motion and sound,
             encourage passion, creativity thinking, and team spirit besides the
-            learning of basic and advanced techniques.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            learning of basic and advanced techniques.&nbsp;&nbsp;
+            Besides serving dance and art education, we are also dedicated to help bring
+            the world closer together by birdging the eastern and western dance art forms.
             <br>
 &nbsp;</font></td>
           </tr>
@@ -24,7 +26,7 @@
                 artistic director,&nbsp; Jun
                 Lu,&nbsp; is an award-winning choreographer, performing artist and
                 dance instructor.&nbsp; In 1988, Ms. Lu won a silver medal in
-                the premier national &quot;TaoLi&quot; Cup professional dance competition
+                the prestigious national &quot;TaoLi&quot; Cup professional dance competition
                 in China and was featured in the CCTV's &quot;The Rising Star&quot;
                 program. Since then, Ms. Lu has won many national and
                 international gold and silver awards in choreography,
@@ -124,14 +126,14 @@
                 Silver Medal [First place in the women's group] in folk dance performance,
                 the third National TaoLi Cup Professional Dance Competition
                 (1991)<br>
-                The &quot;Mountain Everest&quot; Award from the Chinese Ministry of
+                The  <b>Mountain Everest </b> Award from the Chinese Ministry of
                 Culture (1991)<br>
                 Silver Medal [First place in the women's group] in the 3rd
                 Chinese National Dance Competition (1995)<br>
-                Best Performance Award in the Beijing Dance Competition (1995)<br>
-                &quot;Best Choreography&quot; Award in the Asia-Pacific International
+                 <b>Best Performance </b> Award in the Beijing Dance Competition (1995)<br>
+                <b>Best Choreography</b> Award in the Asia-Pacific International
                 Dance Competition (1999) <br>
-                &quot;Best Performance&quot; Award in the Asia-Pacific International Dance
+                 <b>Best Performance </b> Award in the Asia-Pacific International Dance
                 Competition (1999) <br>
                 Gold Award in Best Choreography in the Singapore Youth Festival
                 Dance Contest (2000)<br>
@@ -142,11 +144,12 @@
                 ......<br>
                 <b>Choreographer of the Year</b>, American Dance Awards, Diamond Choreography Winner(2013)<br>
                 <b>Choreographer of the Year</b>, American Dance Awards, Diamond Choreography Winner(2014)<br>
-                <b>Choreographer of the Year</b>, KAR National Final (2015)<br>
+                <b>Choreographer of the Year</b>, KAR National Final, USA(2015)<br>
                 <b>Best Choreography</b>, Overseas TaoLi Cup (2016-2017)<br>
-                <b>Best Choreography</b>, StarQuest (2018)<br>
-                <b>Choreographer of the Year</b>, KAR National Final (2018)<br>
-                <b>Choreographer of the Year</b>, KAR National Final (2019)<br>
+                <b>Best Choreography</b>, StarQuest, USA (2018)<br>
+                <b>Choreographer of the Year</b>, KAR National Final, USA (2018)<br>
+                <b>Choreographer of the Year</b>, KAR National Final, USA (2019)<br>
+                <b>Choreographer of the Year</b>, KAR National Final, USA (2021)<br>
                 </p>
 
                 <p>&nbsp;

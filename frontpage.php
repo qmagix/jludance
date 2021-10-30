@@ -39,6 +39,15 @@
       <div class="well">
         <h4>Recent Awards</h4>
        <p>
+       - <b>National Grand Champion</b>, Primary Large Group + Line ("Joy of Paper Cutting"), KAR National Final in Las Vegas, 2021<br/>
+            - <b>National Champion</b>, Top Secondary Line 12-14 ("Beautiful Days"),  KAR National Final in Las Vegas, 2021<br/>
+            - <b>National Champion</b>, Top Novice Large Group 6-8 ("5678"), KAR National Final in Las Vegas, 2021<br/>
+            - <b>National Champion</b>, Top Novice Line 6-8 ("Return of Rabbits"), KAR National Final in Las Vegas, 2021<br/>
+            - <b>National Champion</b>, Primary Large Group 9-11 ("Joy of Paper Cutting"), KAR National Final in Las Vegas, 2021<br/>
+            - <b>National Champion</b>, Primary Duet/Trio 12-14 ("Playful Trio"), KAR National Final in Las Vegas, 2021<br/>
+            - <b><b>Choreographer of the Year</b>, Ms Jun Lu, 2021 KAR National Final in Las Vegas<br/>
+           - <b><b>Studio of the Year</b> 2021 KAR National Final<br/>
+           ......<br>
          <b>National Grand Champion</b>, Secondary Large Group + Line ("Colorful Joy"), KAR National Final in Anaheim, 2019<br/>
          <b>National Grand Champion</b>, Primary Large Group + Line ("Hey Mickey"), KAR National Final in Anaheim, 2019<br/>
          <b>National Champion</b>, Top Secondary Line 9-11 ("This is Me"), KAR National Final, 2019<br/>

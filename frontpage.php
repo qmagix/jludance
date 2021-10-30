@@ -45,8 +45,8 @@
             - <b>National Champion</b>, Top Novice Line 6-8 ("Return of Rabbits"), KAR National Final in Las Vegas, 2021<br/>
             - <b>National Champion</b>, Primary Large Group 9-11 ("Joy of Paper Cutting"), KAR National Final in Las Vegas, 2021<br/>
             - <b>National Champion</b>, Primary Duet/Trio 12-14 ("Playful Trio"), KAR National Final in Las Vegas, 2021<br/>
-            - <b><b>Choreographer of the Year</b>, Ms Jun Lu, 2021 KAR National Final in Las Vegas<br/>
-           - <b><b>Studio of the Year</b> 2021 KAR National Final<br/>
+            - <b>Choreographer of the Year</b>, Ms Jun Lu, 2021 KAR National Final in Las Vegas<br/>
+           - <b>Studio of the Year</b> 2021 KAR National Final<br/>
            ......<br>
          <b>National Grand Champion</b>, Secondary Large Group + Line ("Colorful Joy"), KAR National Final in Anaheim, 2019<br/>
          <b>National Grand Champion</b>, Primary Large Group + Line ("Hey Mickey"), KAR National Final in Anaheim, 2019<br/>
@@ -72,7 +72,7 @@
 		<b>National Champion</b>, Primary Large Groups and Line 8 & Under ("Red Jasmine"), KAR National Final, 2018<br/>
 		<b>National Champion</b>, Novice Large Groups 8 & Under ("Little Mulan"), KAR National Final, 2018<br/>
 		 <b>Choreographer of the Year</b>, Ms Jun Lu, National Final, KAR 2018<br/>
-		  Studio of the Year, KAR National Final, 2018<br/>
+     <b>Studio of the Year</b>, KAR National Final, 2018<br/>
 		 <b>Most Entertaining and Video of the Week Winner</b>, ("Poetic Beauty"), KAR Regional 2018<br/>
 		 <b>StarQuest People's Choice Award</b>, "Return of Gongfu Panda", StarQuest 2018 <br>
 		 <b>Petite Odyssey Award</b>, "Jasmine Love",, StarQuest 2018 <br>

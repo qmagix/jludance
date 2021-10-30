@@ -43,8 +43,8 @@
             - <b> Miss Teen Dance American Title Second Runnerup, Primary</b> Wendy Liu <br/>
             ...... <br/>
          - Plenty of Elite Top First and Judges Choice Awards <br>
-          - <b>2021 <b>Choreographer of the Year</b>, Ms Jun Lu<br/>
-           - <b>2021 <b>Studio of the Year</b><br/>
+          - 2021 <b>Choreographer of the Year</b>, Ms Jun Lu<br/>
+           - 2021 <b>Studio of the Year</b><br/>
            </blockquote>
          <br>
 
@@ -64,7 +64,7 @@
            </blockquote>
          <br>
 
-         
+
 
 
        </p>
@@ -82,7 +82,7 @@
 
     </div>
   </div>
-  
+
   <div class="row">
     <div class="col-sm-8">
       <div class="well">

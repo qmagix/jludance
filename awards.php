@@ -8,6 +8,85 @@
     <div class="col-sm-8">
       <div class="well">
        <p>
+        <h4> 2021 </h4>
+
+
+         <h3>KAR National Dance Competition Final, Las Vegas, 2021 </h3><br>
+           <blockquote>
+            - <b>National Grand Champion</b>, Primary Large Group + Line ("Joy of Paper Cutting")<br/>
+            - <b>National Champion</b>, Top Secondary Line 12-14 ("Beautiful Days")<br/>
+            - <b>National Champion</b>, Top Novice Large Group 6-8 ("5678")<br/>
+            - <b>National Champion</b>, Top Novice Line 6-8 ("Return of Rabbits")<br/>
+            - <b>National Champion</b>, Primary Large Group 9-11 ("Joy of Paper Cutting")<br/>
+            - <b>National Champion</b>, Primary Duet/Trio 12-14 ("Playful Trio")<br/>
+            - <b>MOST ENTERTAINING</b>, Secondary Large Group and Line (Beautiful Days)<br>
+            - Naitonal Top Novice Large Group 6-8, Second Place, ("Let's Celebrate a Little") <br/>
+            - Naitonal Top Novice Large Group 6-8, 3rd Place, ("Playful Childhood") <br/>
+            - National Top Primary Large Group 9-11, 3rd Place ("Zen")<br>
+            - National Top Primary Large Group 9-11, 5th Place ("Clones of Mini Chaplins")<br>
+            - National Top Secondary Large Group 12-14, 6th Place ("Melody in the Ocean")<br>
+            - National Top Secondary Large Group 12-14, 9th Place ("Poetic Beauty")<br>
+
+            - National Top Primary Solo 9 - 11, 7th Place - Ellen Zhang ("Having a Little Fun")<br>
+            - National Top Primary Solo 9 - 11, 8th Place - Selena Zhang ("Return of Chaplin")<br>
+            - National Top Primary Solo 9 - 11, 18th Place - Adira Wu ("Playful Little Fish")<br>
+
+            - National Top Primary Solo 12 - 14, 2nd Place - Ella Lan ("Poetic")<br>
+            - National Top Primary Solo 12 - 14, 3rd Place - Wendy Liu ("A Dancer's Morning Ritual")<br>
+            - National Top Primary Solo 12 - 14, 7th Place - Caitlyn Barton ("Jasmine in the Rain")<br>
+            - National Top Primary Solo 12 - 14, 12th Place - Jessie Zhu ("Silk Road Dream")<br>
+
+            - National Top Secondary Solo 12 - 14, 10th Place - Juliana Li ("A Dancer's Morning Ritual")<br>
+            - National Top Secondary Solo 12 - 14, 14th Place - Emily Wu ("Silk Road Impression")<br>
+            - National Top Secondary Solo 12 - 14, 16th Place - Amy Miao ("Jasmine in the Rain")<br>
+            - <b> Miss Teen Dance American Title First Runnerup, Primary</b> Ella Lan <br/>
+            - <b> Miss Teen Dance American Title Second Runnerup, Primary</b> Wendy Liu <br/>
+            ...... <br/>
+         - Plenty of Elite Top First and Judges Choice Awards <br>
+          - <b>2021 <b>Choreographer of the Year</b>, Ms Jun Lu<br/>
+           - <b>2021 <b>Studio of the Year</b><br/>
+           </blockquote>
+         <br>
+
+
+
+         <h3>Various Regional to be updated </h3><br>
+           <blockquote>
+             - Self note: over 10 regional Miss Dance America titles<br/>
+             - <br/>
+             - <br/>
+             - <br/>
+             - <br/>
+             - <br/>
+             - <br/>
+              - <br/>
+             ...
+           </blockquote>
+         <br>
+
+         
+
+
+       </p>
+      </div>
+    </div>
+    <div class="col-sm-4">
+      <img src="images/kar2021/thumbs500/IMG_0909_960_500.JPG" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/kar2021/thumbs500/IMG_0922_960_500.JPG" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/kar2021/thumbs500/IMG_0948_960_500.JPG" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/kar2021/thumbs500/IMG_1005_960_500.JPG" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/kar2021/thumbs500/IMG_1011_960_500.JPG" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/kar2021/thumbs500/IMG_1009_960_500.JPG" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/kar2021/thumbs500/IMG_0911_960_500.JPG" class="img-responsive" style="width:100%" alt="Image">
+
+
+    </div>
+  </div>
+  
+  <div class="row">
+    <div class="col-sm-8">
+      <div class="well">
+       <p>
         <h4> 2020 </h4>
          <h3>KAR National Dance Competition Virtual Final, 2020</h3><br>
            <blockquote>
@@ -49,14 +128,11 @@
       </div>
     </div>
     <div class="col-sm-4">
-      <img src="images/2019finals/thumbs/IMG_1107.JPG" class="img-responsive" style="width:100%" alt="Image">
+      <img src="images/kar2021/thumbs500/IMG_0909_960_500.JPG" class="img-responsive" style="width:100%" alt="Image">
       <img src="images/2019finals/thumbs/IMG_1064.JPG" class="img-responsive" style="width:100%" alt="Image">
       <img src="images/2019finals/thumbs/IMG_1093.JPG" class="img-responsive" style="width:100%" alt="Image">
       <img src="images/2019finals/thumbs/IMG_1098.JPG" class="img-responsive" style="width:100%" alt="Image">
       <img src="images/2019finals/thumbs/IMG_1105.JPG" class="img-responsive" style="width:100%" alt="Image">
-      <img src="images/2019finals/thumbs/IMG_1922.JPG" class="img-responsive" style="width:100%" alt="Image">
-      <img src="images/2019finals/thumbs/IMG_1924.JPG" class="img-responsive" style="width:100%" alt="Image">
-      <img src="images/2019finals/thumbs/IMG_0964.PNG" class="img-responsive" style="width:100%" alt="Image">
 
 
     </div>

@@ -21,6 +21,7 @@
 <li><a href="#performance">Are there any penalty for quiting a registered class?</a></li>
 <li><a href="#rental">Can we rent the studio for a private event or class? What is the rental fee?</a></li>
 <li><a href="#holiday">What are the holidays for school (for vacation planning)?</a></li>
+<li><a href="#makeup">Can I have makeup class if I missed a class?</a></li>
 <li><a href="#moreq">What if I have more questions?</a></li>
 </ul>
 
@@ -154,6 +155,12 @@ Every refund also iccurs a $50 processing fee. Furthermore, registration fee is 
     <td>June 5th</td>
   </tr>
 </table>
+<br>  <br>
+
+<li id="makeup">Can I have makeup class if I missed a class?</li>
+  Yes. We only require the makeup to be done within 30 days of missed class so there won't create too much
+  impact on class management and teaching plan of related classes. Here is the link an enrolled students can use to request makeup:
+  <a href="http://admin.jludance.com/makeuprequests/byemail/weekly"> Link </a>
 <br>  <br>
 <li id="moreq">What if I have more questions?</li>
 You may email info@jludance.com or call us.

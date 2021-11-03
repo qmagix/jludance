@@ -130,7 +130,7 @@
     <div class="col-sm-4">
       <img src="images/kar2021/thumbs500/IMG_0909_960_500.JPG" class="img-responsive" style="width:100%" alt="Image">
       <img src="images/2019finals/thumbs/IMG_1064.JPG" class="img-responsive" style="width:100%" alt="Image">
-      <img src="images/2019finals/thumbs/IMG_1093.JPG" class="img-responsive" style="width:100%" alt="Image">
+
       <img src="images/2019finals/thumbs/IMG_1098.JPG" class="img-responsive" style="width:100%" alt="Image">
       <img src="images/2019finals/thumbs/IMG_1105.JPG" class="img-responsive" style="width:100%" alt="Image">
 

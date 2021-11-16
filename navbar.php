@@ -5,7 +5,7 @@ function gen_active_menu($pid){
   <li<?php echo $pid=="signup"? ' class="active"':''?>><a href="https://admin.jludance.org/signup">Signup</a></li>
   <li<?php echo $pid=="schedule"? ' class="active"':''?>><a href="index.php#schedule">Schedule</a></li>
   <!-- <li><a href="https://admin.jludance.org/recitals/2018">2018 Showcase</a></li> -->
-  <li<?php echo $pid=="summercamp"? ' class="active"':''?>><a href="index.php?a=summercamp">SummerCamps</a></li>
+  <!-- <li<?php echo $pid=="summercamp"? ' class="active"':''?>><a href="index.php?a=summercamp">SummerCamps</a></li> -->
   <li<?php echo $pid=="gallery"? ' class="active"':''?>><a href="index.php?a=gallery">Gallery</a></li>
   <!-- <li<?php echo $pid=="recital"? ' class="active"':''?>><a href="https://admin.jludance.org/recitalprograms/2/preview">Show</a></li> -->
   <li<?php echo $pid=="news"? ' class="active"':''?>><a href="index.php#news">News</a></li>
@@ -13,7 +13,7 @@ function gen_active_menu($pid){
   <li<?php echo $pid=="awards"? ' class="active"':''?>><a href="index.php?a=awards">Awards</a></li>
   <li<?php echo $pid=="jobs"? ' class="active"':''?>><a href="index.php?a=jobs">JOBS</a></li>
   <!-- <li<?php echo $pid=="faq"? ' class="active"':''?>><a class="fa fa-question-circle" href="index.php?a=faq"></a></li> -->
-  <li<?php echo $pid=="newsletter"? ' class="active"':''?>><a href="index.php?a=newsletter">Newsletter</a></li>
+  <!-- <li<?php echo $pid=="newsletter"? ' class="active"':''?>><a href="index.php?a=newsletter">Newsletter</a></li> -->
   <li<?php echo $pid=="contact"? ' class="active"':''?>><a href="index.php#contact">Contact</a></li>
 <?php
 }

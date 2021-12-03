@@ -76,11 +76,10 @@ $semester3=get_classes($conn,12);
 //echo "connected4";
 mysqli_close($conn);
 ?>
-<h2>testß</h2>
 <ul class="nav nav-tabs">
-  <li><a class="nav-link btn btn-primary" data-toggle="tab" href="#home">Spring</a></li>
+  <li class="active"><a class="nav-link btn btn-primary" data-toggle="tab" href="#home">Spring</a></li>
   <li><a class="nav-link btn btn-primary" data-toggle="tab" href="#menu1">Summer</a></li>
-  <li class="active"><a class="nav-link btn btn-primary" data-toggle="tab" href="#menu2">Fall</a></li>
+  <li><a class="nav-link btn btn-primary" data-toggle="tab" href="#menu2">Fall</a></li>
 </ul>
 
 <div class="tab-content">

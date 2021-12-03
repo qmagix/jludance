@@ -64,15 +64,19 @@ $DB_PASSWORD='qingfenghuang';
 // $DB_PASSWORD='';
 
 $conn = mysqli_connect($DB_HOST, $DB_USERNAME, $DB_PASSWORD,$DB_DATABASE);
-
+//echo "connected";
+//dump($conn);
 mysqli_set_charset($conn, "utf8");
-$semester1=get_classes($conn,7);
-$semester2=get_classes($conn,8);
-$semester3=get_classes($conn,9);
-
+//echo "connected1";
+$semester1=get_classes($conn,10);
+//echo "connected2";
+$semester2=get_classes($conn,11);
+//echo "connected3";
+$semester3=get_classes($conn,12);
+//echo "connected4";
 mysqli_close($conn);
 ?>
-
+<h2>testß</h2>
 <ul class="nav nav-tabs">
   <li><a class="nav-link btn btn-primary" data-toggle="tab" href="#home">Spring</a></li>
   <li><a class="nav-link btn btn-primary" data-toggle="tab" href="#menu1">Summer</a></li>

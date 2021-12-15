@@ -140,7 +140,7 @@ Every refund also iccurs a $50 processing fee. Furthermore, registration fee is 
   </tr>
   <tr>
     <td>Winter Recess</td>
-    <td>Dec 21 - Jan 2</td>
+    <td>Dec 20 - Jan 2</td>
   </tr>
   <tr>
     <td>Spring Recess</td>

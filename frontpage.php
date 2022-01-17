@@ -132,7 +132,7 @@
     </div>
   </div>
   <h2>2022 Class Schedule</h2>
-  <h4>Spring 1/3-6/5 (Spring Recess 4/18-24), (Summer 6/6-8/14)*, Fall 8/15-12/18(Thanksgiving Recess 11/21-27)</h4>
+  <h4>Spring 1/3-6/5 (Spring Recess 4/16-22), (Summer 6/6-8/14)*, Fall 8/15-12/18(Thanksgiving Recess 11/21-27)</h4>
   (Updated details on <a href="http://admin.jludance.org/signup">signup</a> pages)
 <?php include('schedule.php');?>
   <div class="row">

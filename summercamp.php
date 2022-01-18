@@ -38,10 +38,10 @@ Onsite Plan
   <li>Summer Camp 3, 6/13-6/24  - Recommended for dancers age 11 and up or existing Team 3 dancers </li>
   <li>Summer Camp 5, 6/13-6/24  - Recommended for dancers age 9 and up or existing Team 5 dancers </li>
   <li>Summer Camp 7, 7/4-7/15  - Recommended for dancers age 9 and up or existing Team 7 dancers </li>
-  <li>Summer Camp 8, 7/4-7/15  - Recommended for dancers age 8 and up or existing Team 8(wa) dancers </li>
+  <li>Summer Camp 8, 7/18-7/29  - Recommended for dancers age 8 and up or existing Team 8(wa) dancers </li>
   <li>Summer Camp 11, 7/4-7/15  - Recommended for dancers age 7 and up or existing Team 11 dancers </li>
   <li>Summer Camp 9, 7/18-7/29  - Recommended for dancers age 8 and up or existing Team 9 dancers </li>
-  <li>Summer Camp 10, 7/18-7/29  - Recommended for dancers age 9 and up or existing Team Zen dancers </li>
+  <li>Summer Camp 10, 7/4-7/15  - Recommended for dancers age 9 and up or existing Team Zen dancers </li>
   <li>Summer Camp 12, 7/18-7/29  - Recommended for dancers age 5 and up or existing level 2-4 dancers </li>
   <li>Summer Camp R, 8/1-8/12  - Mysterious (for now) camp for dancers who have attended previous camps </li>
   <li>Summer Camp T, 8/1-8/12  - Mysterious camp for dancers wishing to have a special technical boost </li>

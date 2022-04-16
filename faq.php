@@ -144,7 +144,7 @@ Every refund also iccurs a $50 processing fee. Furthermore, registration fee is 
   </tr>
   <tr>
     <td>Spring Recess</td>
-    <td>Apr 18 - Apr 24</td>
+    <td>Apr 16 - Apr 22</td>
   </tr>
   <tr>
     <td>Memorial Day</td>

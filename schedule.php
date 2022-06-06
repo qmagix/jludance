@@ -77,8 +77,8 @@ $semester3=get_classes($conn,12);
 mysqli_close($conn);
 ?>
 <ul class="nav nav-tabs">
-  <li class="active"><a class="nav-link btn btn-primary" data-toggle="tab" href="#home">Spring</a></li>
-  <li><a class="nav-link btn btn-primary" data-toggle="tab" href="#menu1">Summer</a></li>
+  <li><a class="nav-link btn btn-primary" data-toggle="tab" href="#home">Spring</a></li>
+  <li class="active"><a class="nav-link btn btn-primary" data-toggle="tab" href="#menu1">Summer</a></li>
   <li><a class="nav-link btn btn-primary" data-toggle="tab" href="#menu2">Fall</a></li>
 </ul>
 

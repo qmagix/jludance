@@ -33,16 +33,16 @@ Only need to pay tuition/deposit for one type.
 <p>
 Onsite Plan
 <ol>
-  <li>Summer Camp 1, 6/6-12 -  recommended for dancers age 14 and up or existing Team 1 dancers </li>
-  <li>Summer Camp 2, 6/6-6/17 - Recommended for dancers age 13 and up or existing Team 2 dancers </li>
-  <li>Summer Camp 3, 6/13-6/24  - Recommended for dancers age 11 and up or existing Team 3 dancers </li>
-  <li>Summer Camp 5, 6/13-6/24  - Recommended for dancers age 9 and up or existing Team 5 dancers </li>
-  <li>Summer Camp 7, 7/4-7/15  - Recommended for dancers age 9 and up or existing Team 7 dancers </li>
-  <li>Summer Camp 8, 7/18-7/29  - Recommended for dancers age 8 and up or existing Team 8(wa) dancers </li>
-  <li>Summer Camp 11, 7/4-7/15  - Recommended for dancers age 7 and up or existing Team 11 dancers </li>
-  <li>Summer Camp 9, 7/18-7/29  - Recommended for dancers age 8 and up or existing Team 9 dancers </li>
-  <li>Summer Camp 10, 7/4-7/15  - Recommended for dancers age 9 and up or existing Team Zen dancers </li>
-  <li>Summer Camp 12, 7/18-7/29  - Recommended for dancers age 5 and up or existing level 2-4 dancers </li>
+  <li>Summer Camp 1, 6/6-12 -  recommended for dancers age 14 and up or existing Team 1 dancers (FULL)</li>
+  <li>Summer Camp 2, 6/6-6/17 - Recommended for dancers age 13 and up or existing Team 2 dancers (FULL)</li>
+  <li>Summer Camp 3, 6/13-6/24  - Recommended for dancers age 11 and up or existing Team 3 dancers (FULL)</li>
+  <li>Summer Camp 5, 6/13-6/24  - Recommended for dancers age 9 and up or existing Team 5 dancers (FULL)</li>
+  <li>Summer Camp 7, 7/4-7/15  - Recommended for dancers age 9 and up or existing Team 7 dancers (FULL)</li>
+  <li>Summer Camp 8, 7/18-7/29  - Recommended for dancers age 8 and up or existing Team 8(wa) dancers (FULL)</li>
+  <li>Summer Camp 11, 7/4-7/15  - Recommended for dancers age 7 and up or existing Team 11 dancers (FULL)</li>
+  <li>Summer Camp 9, 7/18-7/29  - Recommended for dancers age 8 and up or existing Team 9 dancers (FULL)</li>
+  <li>Summer Camp 10, 7/4-7/15  - Recommended for dancers age 9 and up or existing Team Zen dancers (FULL)</li>
+  <li>Summer Camp 12, 7/18-7/29  - Recommended for dancers age 5 and up or existing level 2-4 dancers (FULL)</li>
   <li>Summer Camp R, 8/1-8/12  - Mysterious (for now) camp for dancers who have attended previous camps </li>
   <li>Summer Camp T, 8/1-8/12  - Mysterious camp for dancers wishing to have a special technical boost </li>
 </ol>
@@ -134,13 +134,8 @@ There is also a free dance team audition at the end of each camp for those who a
   <tbody>
     <tr>
       <th scope="row">10 day onsite camp</th>
+      <td>$1400</td>
       <td>$1200</td>
-      <td>$1100</td>
-
-    </tr>
-    <tr>
-      <th scope="row">Online weekly camps</th>
-      <td colspan="2">$200/week</td>
 
     </tr>
   </tbody>

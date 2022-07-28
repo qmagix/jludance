@@ -1,17 +1,26 @@
 <?php
 function print_classes_list($title, $list){
   echo "<h2>$title</h2>";
-  echo "<ul>";
-  foreach($list as $a){
-    echo "<li>".$a."</li>";
+  if($list){
+    echo "<ul>";
+    foreach($list as $a){
+      echo "<li>".$a."</li>";
+    }
+    echo "</ul>";
+  }else{
+    echo "No schedule yet, stay stuned. ";
   }
-  echo "</ul>";
+
 }
 function print_classes($title, $list){
   echo "<h2>$title</h2>";
   //echo "<ul>";
-  foreach($list as $a){
-    echo $a."<br/>";
+  if($list){
+    foreach($list as $a){
+      echo $a."<br/>";
+    }
+  }else{
+    echo "No schedule yet, stay stuned. ";
   }
   //echo "</ul>";
 }
@@ -59,32 +68,32 @@ $DB_PORT='3306';
 $DB_DATABASE='l8studio';
 $DB_USERNAME='l8studio';
 $DB_PASSWORD='qingfenghuang';
-// $DB_DATABASE='teststudio';
-// $DB_USERNAME='root';
-// $DB_PASSWORD='';
+$DB_DATABASE='l5studio';
+$DB_USERNAME='root';
+$DB_PASSWORD='';
 
 $conn = mysqli_connect($DB_HOST, $DB_USERNAME, $DB_PASSWORD,$DB_DATABASE);
 //echo "connected";
 //dump($conn);
 mysqli_set_charset($conn, "utf8");
 //echo "connected1";
-$semester1=get_classes($conn,10);
+$semester1=get_classes($conn,12);
 //echo "connected2";
-$semester2=get_classes($conn,11);
+$semester2=get_classes($conn,13);
 //echo "connected3";
-$semester3=get_classes($conn,12);
+$semester3=get_classes($conn,14);
 //echo "connected4";
 mysqli_close($conn);
 ?>
 <ul class="nav nav-tabs">
-  <li><a class="nav-link btn btn-primary" data-toggle="tab" href="#home">Spring</a></li>
-  <li class="active"><a class="nav-link btn btn-primary" data-toggle="tab" href="#menu1">Summer</a></li>
-  <li><a class="nav-link btn btn-primary" data-toggle="tab" href="#menu2">Fall</a></li>
+  <li class="active"><a class="nav-link btn btn-primary" data-toggle="tab" href="#home">Fall 2022</a></li>
+  <li><a class="nav-link btn btn-primary" data-toggle="tab" href="#menu1">Spring 2023</a></li>
+  <li><a class="nav-link btn btn-primary" data-toggle="tab" href="#menu2">Summer 2023</a></li>
 </ul>
 
 <div class="tab-content">
-  <div id="home" class="tab-pane fade">
-    <h3>Spring Session</h3>
+  <div id="home" class="tab-pane in active">
+    <h3>Fall Session</h3>
          <p>
           <table width="100%">
             <tr>
@@ -98,8 +107,8 @@ mysqli_close($conn);
           </table>
          </p>
   </div>
-  <div id="menu1" class="tab-pane fade in active">
-    <h3>Summer Session</h3>
+  <div id="menu1" class="tab-pane fade">
+    <h3>Spring Session</h3>
         <p>
           <table width="100%">
             <tr>
@@ -114,7 +123,7 @@ mysqli_close($conn);
         </p>
   </div>
   <div id="menu2" class="tab-pane fade">
-    <h3>Fall Session</h3>
+    <h3>Summer Session</h3>
     <p>
           <table width="100%">
             <tr>

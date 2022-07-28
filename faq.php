@@ -154,12 +154,16 @@ Every refund also iccurs a $50 processing fee. Furthermore, registration fee is 
     <td>Last day of Spring Semester</td>
     <td>June 5th</td>
   </tr>
+  <tr>
+    <td>Last day of Fall Semester</td>
+    <td>December 18 </td>
+  </tr>
 </table>
 <br>  <br>
 
 <li id="makeup">Can I have makeup class if I missed a class?</li>
-  Yes. We only require the makeup to be done within 30 days of missed class so there won't create too much
-  impact on class management and teaching plan of related classes. Here is the link an enrolled students can use to request makeup:
+  Yes. We only require the makeup to be done within 30 days of missed class so there won't be too much
+  impact on class management and teaching plan of related classes. Here is the link that enrolled students can use to request makeup:
   <a href="http://admin.jludance.com/makeuprequests/byemail/weekly"> Link </a>
 <br>  <br>
 <li id="moreq">What if I have more questions?</li>

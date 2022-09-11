@@ -126,8 +126,8 @@ Every refund also iccurs a $50 processing fee. Furthermore, registration fee is 
 
 <br>  <br>
 <li id="performance">Can we rent the studio for a private event or class? What is the rental fee?</li>
-  We currently have three studio rooms. When they are not schedlued for class, we might rent them out. No sugary beverage is allowed in the studio.
-  The hourly rental fees is $50 for the 600sqft room, $70 for the 900 sqft room, and $110 for the 1800 sqft room.
+  We currently have four studio rooms. When they are not schedlued for class, we might rent them out. No sugary beverage is allowed in the studio.
+  The hourly rental fees is $60 for the 600sqft room, $80 for the 900 sqft room, $120 for the 1800 sqft room and $150 for the 2000+sqft room.
   A security/cleaning deposit of $100 is required at booking(refundable if studio is kept at clean condition after use).
 
 <br>  <br>

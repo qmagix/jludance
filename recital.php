@@ -36,7 +36,7 @@
 
 <div class="row text-center">
 <div class="col-lg-12 margin-tb">
-<h2> Somo Preview </h2>
+<h2> Some Preview </h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hwXO6z9hwuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/20aMZvNIWiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jcpa3H2Gbvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

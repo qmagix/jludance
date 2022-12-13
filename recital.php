@@ -34,7 +34,6 @@
       </div> -->
   </div>
 
-  https://youtu.be/jcpa3H2Gbvw
 <div class="row text-center">
 <div class="col-lg-12 margin-tb">
 <h2> Somo Preview </h2>

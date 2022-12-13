@@ -3,7 +3,7 @@
 ?>
 <div class="container text-center">
   <h3 id="about">Life, Beauty, Passion and Joy at Jun Lu Performing Arts Academy</h3><br>
-  New : <a href='https://www.jludance.org/index.php?a=recital'>2019 Christmas Showcase Photos and Videos</a>
+  New : <a href='https://www.jludance.org/index.php?a=recital'> Christmas Showcase Photos and Videos</a>
     <div class="row">
 	    <div class="col-sm-6">
 	     <h4 align="center">We are the Champions by Team 1</h4>

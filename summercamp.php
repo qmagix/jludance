@@ -33,27 +33,23 @@ Only need to pay tuition/deposit for one type.
 <p>
 Onsite Plan
 <ol>
-  <li>Summer Camp 1, 6/6-12 -  recommended for dancers age 14 and up or existing Team 1 dancers (FULL)</li>
-  <li>Summer Camp 2, 6/6-6/17 - Recommended for dancers age 13 and up or existing Team 2 dancers (FULL)</li>
-  <li>Summer Camp 3, 6/13-6/24  - Recommended for dancers age 11 and up or existing Team 3 dancers (FULL)</li>
-  <li>Summer Camp 5, 6/13-6/24  - Recommended for dancers age 9 and up or existing Team 5 dancers (FULL)</li>
-  <li>Summer Camp 7, 7/4-7/15  - Recommended for dancers age 9 and up or existing Team 7 dancers (FULL)</li>
-  <li>Summer Camp 8, 7/18-7/29  - Recommended for dancers age 8 and up or existing Team 8(wa) dancers (FULL)</li>
-  <li>Summer Camp 11, 7/4-7/15  - Recommended for dancers age 7 and up or existing Team 11 dancers (FULL)</li>
-  <li>Summer Camp 9, 7/18-7/29  - Recommended for dancers age 8 and up or existing Team 9 dancers (FULL)</li>
-  <li>Summer Camp 10, 7/4-7/15  - Recommended for dancers age 9 and up or existing Team Zen dancers (FULL)</li>
-  <li>Summer Camp 12, 7/18-7/29  - Recommended for dancers age 5 and up or existing level 2-4 dancers (FULL)</li>
-  <li>Summer Camp R, 8/1-8/12  - Mysterious (for now) camp for dancers who have attended previous camps </li>
-  <li>Summer Camp T, 8/1-8/12  - Mysterious camp for dancers wishing to have a special technical boost </li>
+  <li>Summer Camp 1, 6/12-18 -  recommended for dancers age 15 and up or existing Team 1 dancers </li>
+  <li>Summer Camp 2, 6/12-6/23 - Recommended for dancers age 14 and up or existing Team 2 dancers </li>
+  <li>Summer Camp 3, 6/19-6/30  - Recommended for dancers age 12 and up or existing Team 3 dancers</li>
+  <li>Summer Camp 5, 6/12-6/23  - Recommended for dancers age 10 and up or existing Team 5 dancers</li>
+  <li>Summer Camp 6, 6/26-7/7  - Recommended for dancers age 5 and up or existing level 2-4 dancers</li>
+  <li>Summer Camp 7, 7/10-7/21  - Recommended for dancers age 10 and up or existing Team 7 dancers </li>
+  <li>Summer Camp 8, 7/24-8/4  - Recommended for dancers age 9 and up or existing Team 8 dancers </li>
+  <li>Summer Camp 9, 7/24-8/4  - Recommended for dancers age 9 and up or existing Team 9 dancers</li>
+  <li>Summer Camp 10, 7/24-8/4  - Recommended for dancers age 9 and up or existing Team Zen dancers </li>
+  <li>Summer Camp 11, 7/10-7/21  - Recommended for dancers age 8 and up or existing Team 11 dancers</li>
+  <li>Summer Camp 12, 7/10-7/21  - Recommended for dancers age 6 and up or existing team 12 dancers </li>
+  <li>One Week Ballet and Contemporary Intenstive (Intermediate, Pre-Pointe), 8/7-8/11 </li>
+  <li>One Week Ballet and Contemporaty Intenstive (Advanced, Pointe), 8/7-8/11 </li>
+  <li>One Week Contemporary Intenstive, 7/29-8/4 </li>
 </ol>
 </p>
-<p>
-Online Plan 6/13-8/12 (you may signup by week, choose weeks that work for you)
-<ol>
-  <li>  Online Weekly Camp A, Every Weekday, 4:30-6:00pm - Recommended for dancers age 6 and 8 </li>
-  <li>  Online Weekly Camp B, Every Weekday, 5:30-7:00pm - Recommended for dancers age 9 and 11 </li>
-</ol>
-</p>
+
 
 <!-- * (if you are not sure about each level requirement -->
 <!-- Pre-team/regular camp times and appropriate level/age groups are as follows: -->
@@ -76,9 +72,9 @@ Online Plan 6/13-8/12 (you may signup by week, choose weeks that work for you)
 <!-- </ol> -->
 <!--  <p>(* audition and special commitment required) </p> -->
 
- <p>Each onsite camp has a showcase time open to parents: 3pm at the last Friday of each camp, parents are invited
+ <p>Each onsite camp has a showcase time open to parents: the last Friday afternoon of each camp, parents are invited
 to come to enjoy what their kids have learned and advanced through their hardwork.
-There is also a free dance team audition at the end of each camp for those who are wishing to join our 2022-2023 competitive dance team.
+There is also a free dance team audition at the end of each camp for those who are wishing to join our 2023-2024 competitive dance team.
 </p>
 <a href="https://admin.jludance.org/signup/camp">Signup now</a> </p>
 
@@ -112,7 +108,7 @@ There is also a free dance team audition at the end of each camp for those who a
   <tr>
     <td width="19%" height="19">2:30pm&nbsp;&nbsp;- 4:00pm</td>
     <td width="41%" height="19">
-    <p align="center">Music and Rhythm</td>
+    <p align="center">Music and Rhythm | Flexibilty and Strength</td>
   </tr>
   <tr>
     <td width="19%" height="19">4:00pm&nbsp;&nbsp;- 6:00pm&nbsp; (optional)</td>
@@ -128,26 +124,26 @@ There is also a free dance team audition at the end of each camp for those who a
     <tr>
       <th scope="col">CAMP</th>
       <th scope="col">Regular</th>
-      <th scope="col">Early Bird (pay before Feb 15th)</th>
+      <th scope="col">Early Bird (pay before Feb 1st)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th scope="row">10 day onsite camp</th>
+      <td>$1500</td>
       <td>$1400</td>
-      <td>$1200</td>
 
     </tr>
   </tbody>
 </table>
 optional 4-6pm after camp care $10/hour. </p>
-<p align="left">You can pay the tuition via zelle to mobile number 4082193562 (Qingfeng)</p>
+<p align="left">You can pay the tuition in cash/check or via zelle to mobile number 4082193562 (Qingfeng)</p>
 <p align="left">For more details or questions, please email campinfo@jludance.com or call 408-219-3562</p>
 
 <p>Cancellation: we reserve the right to cancel the camp if the enrollment is
 not sufficient. You will get a full refund if this happened.&nbsp;
 If a student has to cancel registration for personal reasons, $100 administrative fee will be deducted from the payment if the request is sent in before 4/1.
-A third of the payment will be deducted if the request comes in after that. No refund one week before the camp starts (half the of payment might be credited to the regular class tuition if cancellation
+A third of the payment will be deducted if the request comes in after that. No refund two weeks before the camp starts (half the of payment might be credited to the regular class tuition if cancellation
 is due to a reason not under the student's control). </p>
 <h2><b><a href="https://admin.jludance.org/signup/camp">Signup Online</a></b></h2>
 </div>

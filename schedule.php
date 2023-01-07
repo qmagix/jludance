@@ -68,9 +68,9 @@ $DB_PORT='3306';
 $DB_DATABASE='l8studio';
 $DB_USERNAME='l8studio';
 $DB_PASSWORD='qingfenghuang';
-$DB_DATABASE='l5studio';
-$DB_USERNAME='root';
-$DB_PASSWORD='';
+// $DB_DATABASE='l5studio';
+// $DB_USERNAME='root';
+// $DB_PASSWORD='';
 
 $conn = mysqli_connect($DB_HOST, $DB_USERNAME, $DB_PASSWORD,$DB_DATABASE);
 //echo "connected";

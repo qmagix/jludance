@@ -15,26 +15,23 @@
 <p align="center">
 &nbsp;<b><a href="https://admin.jludance.org/signup/camp">Signup</a></b></p>
 <p>
-Our dance and music summer camp features an intensive and fun dance and music program
+Our summer camp features an intensive and fun dance and music program
 that aims to enable a leap in artisctic expressiveness and creativity for the campers.
 It combines the best of professional-level instruction
 with rich routines to be featured in live theater/outdoor performance and maybe competitions.
 </p>
-<p>We hope the pandemic could be total under control in the bay area before summer and we can
-go back to the studio we all miss so much for onsite classes. However,
-due to the pandemic uncertainty, we have to plan both onsite and online camps.
-The online camps as a contigency plan.
-</p>
-<p>You are welcome to signup both onsite and online plans according to your schedule.
-Only need to pay tuition/deposit for one type.
-</p>
 <p>Camps are on weekdays 9:00am ~ 4:00pm unless noted otherwise.
 </p>
+<p>Each camp has a showcase time open to parents: the last Friday afternoon of each camp, parents are invited
+to come to enjoy what their kids have learned and advanced through their hardwork.
+There is also a free dance team audition at the end of each camp for those who are wishing to join our 2023-2024 competitive dance team.
+</p>
+
 <p>
-Onsite Plan
+Summer Intesitive/Camps:
 <ol>
   <li>Summer Camp 1, 6/12-18 -  recommended for dancers age 15 and up or existing Team 1 dancers </li>
-  <li>Summer Camp 2, 6/12-6/23 - Recommended for dancers age 14 and up or existing Team 2 dancers </li>
+  <li>Summer Camp 2, 6/9-6/18 - Recommended for dancers age 14 and up or existing Team 2 dancers </li>
   <li>Summer Camp 3, 6/19-6/30  - Recommended for dancers age 12 and up or existing Team 3 dancers</li>
   <li>Summer Camp 5, 6/12-6/23  - Recommended for dancers age 10 and up or existing Team 5 dancers</li>
   <li>Summer Camp 6, 6/26-7/7  - Recommended for dancers age 5 and up or existing level 2-4 dancers</li>
@@ -44,9 +41,9 @@ Onsite Plan
   <li>Summer Camp 10, 7/24-8/4  - Recommended for dancers age 9 and up or existing Team Zen dancers </li>
   <li>Summer Camp 11, 7/10-7/21  - Recommended for dancers age 8 and up or existing Team 11 dancers</li>
   <li>Summer Camp 12, 7/10-7/21  - Recommended for dancers age 6 and up or existing team 12 dancers </li>
-  <li>One Week Ballet and Contemporary Intenstive (Intermediate, Pre-Pointe), 8/7-8/11 </li>
-  <li>One Week Ballet and Contemporaty Intenstive (Advanced, Pointe), 8/7-8/11 </li>
-  <li>One Week Contemporary Intenstive, 7/29-8/4 </li>
+  <li>One Week Ballet and Contemporary Intenstive (Intermediate, Pre-Pointe), 8/7-8/11 [Speial audition/approval] </li>
+  <li>One Week Ballet and Contemporaty Intenstive (Advanced, Pointe), 8/7-8/11 [Speial audition/approval </li>
+  <li>One Week Contemporary Intenstive, 7/29-8/4 [Speial audition/approval</li>
 </ol>
 </p>
 
@@ -72,10 +69,7 @@ Onsite Plan
 <!-- </ol> -->
 <!--  <p>(* audition and special commitment required) </p> -->
 
- <p>Each onsite camp has a showcase time open to parents: the last Friday afternoon of each camp, parents are invited
-to come to enjoy what their kids have learned and advanced through their hardwork.
-There is also a free dance team audition at the end of each camp for those who are wishing to join our 2023-2024 competitive dance team.
-</p>
+
 <a href="https://admin.jludance.org/signup/camp">Signup now</a> </p>
 
 <h2> Onsite Camp daily schedule example</h2>

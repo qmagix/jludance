@@ -96,7 +96,7 @@ mysqli_close($conn);
 
 <div class="tab-content">
   <div id="home" class="tab-pane in active">
-    <h3>Fall Session</h3>
+    <h3>Spring Session</h3>
          <p>
           <table width="100%">
             <tr>
@@ -111,7 +111,7 @@ mysqli_close($conn);
          </p>
   </div>
   <div id="menu1" class="tab-pane fade">
-    <h3>Spring Session</h3>
+    <h3>Summer Session</h3>
         <p>
           <table width="100%">
             <tr>
@@ -126,7 +126,7 @@ mysqli_close($conn);
         </p>
   </div>
   <div id="menu2" class="tab-pane fade">
-    <h3>Summer Session</h3>
+    <h3>Fall Session</h3>
     <p>
           <table width="100%">
             <tr>

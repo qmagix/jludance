@@ -132,7 +132,7 @@
     </div>
   </div>
   <h2>2022-2023 Class Schedule</h2>
-  <h4>Fall 8/15-12/18(Thanksgiving Recess 11/21-27), Spring 1/9-6/11 (Spring Break 4/15-21), Summmer 6/12-8/13</h4>
+  <h4>Fall 8/15-12/18(Thanksgiving Recess 11/21-27), Spring 1/9-6/11 (Spring Break 4/15-21), Summer 6/12-8/13</h4>
   (Updated details on <a href="http://admin.jludance.org/signup">signup</a> pages)
 <?php include('schedule.php');?>
   <div class="row">

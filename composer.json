@@ -1,8 +1,8 @@
 {
     "require": {
-        "mailgun/mailgun-php": "^3.5",
+        "mailgun/mailgun-php": "^3.3.4",
         "nyholm/psr7": "^1.8",
-        "vlucas/phpdotenv": "^5.5"
+        "vlucas/phpdotenv": "^4.2.0"
     },
     "config": {
         "allow-plugins": {

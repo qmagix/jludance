@@ -97,16 +97,20 @@ switch($a){
 	// case "job":
 	// 	include("hiring.php");
 	// 	break;
-	case "faq":
-		include("faq.php");
-		break;
-  case "recital":
-			 include("recital.php");
-			break;
-	default:
+    case "faq":
+        include("faq.php");
+        break;
+    case "faculty":
+        include("faculty.html");
+        break;
+    case "recital":
+        include("recital.php");
+        break;
+    default:
 
-	 include("carousel.php");
-	 include("frontpage.php");
+    include("carousel.php");
+    include("frontpage.php");
+    include("contactform.php");
 }
 include("nav_social.php");
 include("footer.php");

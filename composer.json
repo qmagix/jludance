@@ -1,0 +1,12 @@
+{
+    "require": {
+        "mailgun/mailgun-php": "^3.5",
+        "nyholm/psr7": "^1.8",
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}

@@ -23,7 +23,8 @@ function send_email($to, $subject, $message) {
         'from' => $from,
         'to' => $to,
         'subject' => $subject,
-        'text' => $message
+        'text' => $message,
+        'cc'=>'jludance@gmail.com'
     );
 
     $mg->messages()->send($domain, $params);
@@ -57,12 +58,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   // ...
 // Send email using Mailgun
   $to = 'admin@jludance.org';
-  $subject = 'New Contact Form Submission';
+  $subject = 'JLUdance web Contact Form Inquiry';
   $message_body = "Name: {$name}\nEmail: {$email}\nPhone: {$phone}\n\nMessage:\n{$message}";
 
   try {
       send_email($to, $subject, $message_body);
       echo "Thank you for contacting us! We'll get back to you soon.";
+      //send_email($to, $subject, $message_body);
   } catch (Exception $e) {
       echo "Error sending email: " . $e->getMessage();
   }

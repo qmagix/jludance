@@ -1,4 +1,7 @@
 <?php
+// ini_set('display_errors', 1);
+// ini_set('display_startup_errors', 1);
+// error_reporting(E_ALL);
 require 'vendor/autoload.php';
 use Mailgun\Mailgun;
 use Dotenv\Dotenv;
@@ -6,8 +9,12 @@ use Dotenv\Dotenv;
 $dotenv = Dotenv::createImmutable(__DIR__);
 $dotenv->load();
 
+
+
 function send_email($to, $subject, $message) {
-    $api_key = $_ENV['MAILGUN_API_KEY'];
+    // $api_key = $_ENV['MAILGUN_API_KEY'];
+    $api_key = $_ENV['MAILGUN_SECRET'];
+
     $domain = $_ENV['MAILGUN_DOMAIN'];
     $from = 'info@jludance.org';
     $mg = Mailgun::create($api_key);

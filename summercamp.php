@@ -43,7 +43,7 @@ Summer Intesitive/Camps:
   <li>Summer Camp 12, 7/10-7/21  - Recommended for dancers age 6 and up or existing team 12 dancers </li>
   <li>One Week Ballet and Contemporary Intenstive (Intermediate/Pointe), 8/7-8/11 [Special audition/approval] </li>
   <li>One Week Ballet and Contemporaty Intenstive (Advanced/Pointe), 8/7-8/11 [Special audition/approval] </li>
-  <li>One Week Contemporary Intenstive, 7/29-8/4 [Special audition/approval]</li>
+  <li>One Week Contemporary Intenstive, 7/31-8/4 [Special audition/approval]</li>
 </ol>
 </p>
 

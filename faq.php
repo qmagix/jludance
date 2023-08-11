@@ -132,31 +132,26 @@ Every refund also iccurs a $50 processing fee. Furthermore, registration fee is 
 
 <br>  <br>
 <li id="holiday">What are the holidays for school (for vacation planning)?</li>
-2021-2022 Jun Lu Performing Arts School Holiday Calendar
+2023-2024 Jun Lu Performing Arts School Holiday Calendar
 <table>
   <tr>
     <td>Thanksgiving Recess</td>
-    <td>Nov 22 - Nov 28</td>
+    <td>Nov 20 - Nov 26</td>
   </tr>
   <tr>
     <td>Winter Recess</td>
-    <td>Dec 20 - Jan 2</td>
+    <td>Dec 18 - Jan 8</td>
   </tr>
   <tr>
     <td>Spring Recess</td>
-    <td>Apr 16 - Apr 22</td>
+    <td>Apr 15 - Apr 21</td>
   </tr>
-  <tr>
-    <td>Memorial Day</td>
-    <td>May 30</td>
-  </tr>
-  <tr>
     <td>Last day of Spring Semester</td>
-    <td>June 5th</td>
+    <td>June 8th</td>
   </tr>
   <tr>
     <td>Last day of Fall Semester</td>
-    <td>December 18 </td>
+    <td>December 22 </td>
   </tr>
 </table>
 <br>  <br>

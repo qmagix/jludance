@@ -68,20 +68,20 @@ $DB_PORT='3306';
 $DB_DATABASE='l8studio';
 $DB_USERNAME='l8studio';
 $DB_PASSWORD='qingfenghuang';
-// $DB_DATABASE='l5studio';
-// $DB_USERNAME='root';
-// $DB_PASSWORD='';
+$DB_DATABASE='l5studio';
+$DB_USERNAME='root';
+$DB_PASSWORD='qingfeng';
 
 $conn = mysqli_connect($DB_HOST, $DB_USERNAME, $DB_PASSWORD,$DB_DATABASE);
 //echo "connected";
 //dump($conn);
 mysqli_set_charset($conn, "utf8");
 //echo "connected1";
-$semester1=get_classes($conn,13);
+$semester1=get_classes($conn,15);
 //echo "connected2";
-$semester2=get_classes($conn,14);
+$semester2=get_classes($conn,16);
 //echo "connected3";
-$semester3=get_classes($conn,15);
+$semester3=get_classes($conn,17);
 //echo "connected4";
 mysqli_close($conn);
 ?>
@@ -89,9 +89,9 @@ mysqli_close($conn);
 
 
 <ul class="nav nav-tabs">
-  <li><a class="nav-link btn btn-primary active" data-toggle="tab" href="#home">Spring 2023</a></li>
-  <li><a class="nav-link btn btn-primary" data-toggle="tab" href="#menu1">Summer 2023</a></li>
-  <li><a class="nav-link btn btn-primary" data-toggle="tab" href="#menu2">Fall 2023</a></li>
+  <li><a class="nav-link btn btn-primary active" data-toggle="tab" href="#home">fall 2023</a></li>
+  <li><a class="nav-link btn btn-primary" data-toggle="tab" href="#menu1">Spring 2024</a></li>
+  <li><a class="nav-link btn btn-primary" data-toggle="tab" href="#menu2">Summer 2024</a></li>
 </ul>
 
 <div class="tab-content">
@@ -112,6 +112,10 @@ mysqli_close($conn);
   </div>
   <div id="menu1" class="tab-pane fade">
     <h3>Summer Session</h3>
+    <?php 
+     if($semester2){
+      ?>
+    
         <p>
           <table width="100%">
             <tr>
@@ -124,9 +128,19 @@ mysqli_close($conn);
             </tr>
           </table>
         </p>
+        <?php }else{
+          ?>
+          Thanks for looking! We are in the process of planning classes for this semester. If you have special request, please feel free to contact us. 
+          <br><br>
+        <?php 
+        } ?>
+   
   </div>
   <div id="menu2" class="tab-pane fade">
     <h3>Fall Session</h3>
+    <?php 
+     if($semester3){
+      ?>
     <p>
           <table width="100%">
             <tr>
@@ -139,6 +153,12 @@ mysqli_close($conn);
             </tr>
           </table>
          </p>
+         <?php }else{
+          ?>
+          Thanks for looking! We are in the process of planning classes for this semester. If you have special request, please feel free to contact us.
+          <br><br> 
+        <?php 
+        } ?>
   </div>
 </div>
 

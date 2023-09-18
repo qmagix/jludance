@@ -131,7 +131,7 @@ Summer Intesitive/Camps:
   </tbody>
 </table>
 optional 4-6pm after camp care $10/hour. </p>
-<p align="left">You can pay the tuition in cash/check or via zelle to mobile number 4082193562 (Qingfeng)</p>
+<p align="left">You can pay the tuition in cash/check or via zelle to mobile number 4088165489 </p>
 <p align="left">For more details or questions, please email campinfo@jludance.com or call 408-219-3562</p>
 
 <p>Cancellation: we reserve the right to cancel the camp if the enrollment is

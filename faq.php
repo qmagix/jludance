@@ -39,7 +39,7 @@
   <li id="pay">How do I pay for tuition?</li>
   You can send in tuition in cash or check via the following methods:
   <ol>
-    <li>Zelle: 4082193562 (Zelle is the prefered method)</li>
+    <li>Zelle: 4088165489 (Zelle is the prefered method)</li>
     <li>Check: mail to Jun Lu Performing Arts, 1600 Saratoga Ave, Suite 427, San Jose, CA 95129</li>
   </ol>
   <br>  <br>

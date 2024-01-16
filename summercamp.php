@@ -37,7 +37,7 @@ Summer Intesitive/Camps:
   <li>Summer Intensive 6, 7/8-7/19, weekdays  - Recommended for dancers age 6 and up or existing team 6 dancers</li>
   <li>Summer Intensive 7, 7/8-7/19, weekdays  - Recommended for dancers age 10 and up or existing Team 7 and 9 dancers</li>
   <li>Summer Intensive 8 (hiphop), 7/8-7/19, weekdays  - Recommended for dancers age 9 and up or existing Team 8 and Zen dancers</li>
-  <li>Summer Intensive 9, 7/22-8/2, weekdays  - Recommended for dancers age 8 and up or existing Team 11 dancers</li>
+  <li>Summer Intensive 9, 7/22-8/2, weekdays  - Recommended for dancers age 8 and up or existing Team 9 and 11 dancers</li>
   <li>Summer Intensive 10, 7/22-8/2, weekdays  - Recommended for mini dancers age 5-6 or existing level 2-4 dancers</li>
   <li>Summer Intensive 11, 7/22-8/2, weekdays  - Recommended for dancers age 7 and up or existing team 12 dancers</li>
   <li>Summer Intensive 12(KPOP, CPOP, Zen), 7/22-8/2, weekdays - For KPOP, CPOP loving dancers age 11 and up or existing Zen/8 dancers</li>

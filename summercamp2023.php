@@ -24,25 +24,26 @@ with rich routines to be featured in live theater/outdoor performance and maybe 
 </p>
 <p>Each camp has a showcase time open to parents: the last Friday afternoon of each camp, parents are invited
 to come to enjoy what their kids have learned and advanced through their hardwork.
-There is also a free dance team audition at the end of each camp for those who are wishing to join our 2024-2025 competitive dance team.
+There is also a free dance team audition at the end of each camp for those who are wishing to join our 2023-2024 competitive dance team.
 </p>
 
 <p>
 Summer Intesitive/Camps:
 <ol>
-  <li>Summer Intensive 1, 6/10-6/16 (9-4pm) - Recommended for dancers age 15 and up or existing Team 2 dancers</li>
-  <li>Summer Intensive 2, 6/14-6/23 (1-8pm)  - Recommended for dancers age 13 and up or existing Team 3 dancers</li>
-  <li>Summer Intensive 3, 6/12-6/21 (9-4pm) - Recommended for dancers age 12 and up or existing Team 5 dancers</li>
-  <li>Summer Intensive 5, 6/17-6/28 (9-4pm), weekdays  - Recommended for dancers age 10 and up or existing Team 5 and 7 dancers</li>
-  <li>Summer Intensive 6, 7/8-7/19 (9-4pm), weekdays  - Recommended for dancers age 6 and up or existing team 6 dancers</li>
-  <li>Summer Intensive 7, 7/8-7/19 (9-4pm), weekdays  - Recommended for dancers age 10 and up or existing Team 7 and 9 dancers</li>
-  <li>Summer Intensive 8 (hiphop), 7/8-7/19 (9-4pm), weekdays  - Recommended for dancers age 9 and up or existing Team 8 and Zen dancers</li>
-  <li>Summer Intensive 9, 7/22-8/2 (9-4pm), weekdays  - Recommended for dancers age 8 and up or existing Team 9 and 11 dancers</li>
-  <li>Summer Intensive 10, 7/22-8/2 (9-4pm), weekdays  - Recommended for mini dancers age 5-6 or existing level 2-4 dancers</li>
-  <li>Summer Intensive 11, 7/22-8/2 (9-4pm), weekdays  - Recommended for dancers age 7 and up or existing team 12 dancers</li>
-  <li>Summer Intensive 12(KPOP, CPOP, Zen), 7/22-8/2 (9-4pm), weekdays - For KPOP, CPOP loving dancers age 11 and up or existing Zen/8 dancers</li>
-  <li>Summer Intensive X1, 7/22-8/2 (9-4pm), Weekdays [Special audition/approval] - Special Ballet and Character Dance</li>
-  <li>Summer Intensive X2, 8/5-8/9 (9-4pm), [Special audition/approval] - Special Chinese Classic dance technique and Contemporary Dance camp</li>
+  <li>Summer Camp 1, 6/12-18 -  recommended for dancers age 15 and up or existing Team 1 dancers </li>
+  <li>Summer Camp 2, 6/9-6/18 - Recommended for dancers age 14 and up or existing Team 2 dancers </li>
+  <li>Summer Camp 3, 6/19-6/30  - Recommended for dancers age 12 and up or existing Team 3 dancers</li>
+  <li>Summer Camp 5, 6/12-6/23  - Recommended for dancers age 10 and up or existing Team 5 dancers</li>
+  <li>Summer Camp 6, 6/26-7/7  - Recommended for dancers age 5 and up or existing level 2-4 dancers</li>
+  <li>Summer Camp 7, 7/10-7/21  - Recommended for dancers age 10 and up or existing Team 7 dancers </li>
+  <li>Summer Camp 8, 7/24-8/4  - Recommended for dancers age 9 and up or existing Team 8 dancers </li>
+  <li>Summer Camp 9, 7/24-8/4  - Recommended for dancers age 9 and up or existing Team 9 dancers</li>
+  <li>Summer Camp 10, 7/24-8/4  - Recommended for dancers age 9 and up or existing Team Zen dancers </li>
+  <li>Summer Camp 11, 7/10-7/21  - Recommended for dancers age 8 and up or existing Team 11 dancers</li>
+  <li>Summer Camp 12, 7/10-7/21  - Recommended for dancers age 6 and up or existing team 12 dancers </li>
+  <li>One Week Ballet and Contemporary Intenstive (Intermediate/Pointe), 8/7-8/11 [Special audition/approval] </li>
+  <li>One Week Ballet and Contemporaty Intenstive (Advanced/Pointe), 8/7-8/11 [Special audition/approval] </li>
+  <li>One Week Contemporary Intenstive, 7/31-8/4 [Special audition/approval]</li>
 </ol>
 </p>
 

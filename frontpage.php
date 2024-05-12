@@ -132,7 +132,7 @@
     </div>
   </div>
   <h2>2023-2024 Class Schedule</h2>
-  <h4>Fall 8/14-12/17(Thanksgiving Recess 11/20-26), Spring 1/8-6/9 (Spring Break 4/15-21), Summer 6/10-8/11</h4>
+  <h4>Spring 1/8-6/9 (Spring Break 4/15-21), Summer 6/10-8/11. Fall 8/15-12/22 (Thanksgiving Recess 11/20-26), </h4>
   (Updated details on <a href="http://admin.jludance.org/signup">signup</a> pages)
 <?php include('schedule.php');?>
   <div class="row">
@@ -155,7 +155,7 @@ San Jose, CA 95129 <br>
 <br>
 FAQs: <a href="index.php?a=faq">Click Here for Frequently Asked Questions with Answers</a>  <br>
 Phone:    (408) 219-3562 <br>
-Email:    info@jludance.com      <br>
+Email:    info@jludance.com <br>
 <br>
 <img src="images/location_details.JPG" class="img-responsive" style="width:100%" alt="Image">
        </p>

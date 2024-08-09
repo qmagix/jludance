@@ -136,7 +136,7 @@ Every refund also iccurs a $50 processing fee. Furthermore, registration fee is 
 <table>
   <tr>
     <td>Thanksgiving Recess</td>
-    <td>Nov 18 - Nov 14</td>
+    <td>Nov 25 - Dec 1</td>
   </tr>
   <tr>
     <td>Winter Recess</td>

@@ -132,7 +132,7 @@
     </div>
   </div>
   <h2>2023-2024 Class Schedule</h2>
-  <h4>Spring 1/8-6/9 (Spring Break 4/15-21), Summer 6/10-8/11. Fall 8/16-12/22 (Thanksgiving Recess 11/18-24), </h4>
+  <h4>Spring 1/8-6/9 (Spring Break 4/15-21), Summer 6/10-8/11. Fall 8/16-12/22 (Thanksgiving Recess 11/25-12/1), </h4>
   (Updated details on <a href="http://admin.jludance.org/signup">signup</a> pages)
 <?php include('schedule.php');?>
   <div class="row">

@@ -70,11 +70,11 @@ $conn = mysqli_connect($DB_HOST, $DB_USERNAME, $DB_PASSWORD,$DB_DATABASE);
 //dump($conn);
 mysqli_set_charset($conn, "utf8");
 //echo "connected1";
-$semester1=get_classes($conn,16);
+$semester1=get_classes($conn,18);
 //echo "connected2";
-$semester2=get_classes($conn,17);
+$semester2=get_classes($conn,19);
 //echo "connected3";
-$semester3=get_classes($conn,18);
+$semester3=get_classes($conn,20);
 //echo "connected4";
 mysqli_close($conn);
 ?>
@@ -82,14 +82,14 @@ mysqli_close($conn);
 
 
 <ul class="nav nav-tabs">
-  <li><a class="nav-link btn btn-primary active" data-toggle="tab" href="#home">Spring 2024</a></li>
-  <li><a class="nav-link btn btn-primary" data-toggle="tab" href="#menu1">Summer 2024</a></li>
-  <li><a class="nav-link btn btn-primary" data-toggle="tab" href="#menu2">Fall 2024</a></li>
+  <li><a class="nav-link btn btn-primary active" data-toggle="tab" href="#home">Fall 2024</a></li>
+  <li><a class="nav-link btn btn-primary" data-toggle="tab" href="#menu1">Spring 2025</a></li>
+  <li><a class="nav-link btn btn-primary" data-toggle="tab" href="#menu2">Summer 2025</a></li>
 </ul>
 
 <div class="tab-content">
   <div id="home" class="tab-pane in active">
-    <h3>Spring Session</h3>
+    <h3>Fall Session</h3>
          <p>
           <table width="100%">
             <tr>
@@ -104,7 +104,7 @@ mysqli_close($conn);
          </p>
   </div>
   <div id="menu1" class="tab-pane fade">
-    <h3>Summer Session</h3>
+    <h3>Spring Session</h3>
     <?php 
      if($semester2){
       ?>
@@ -130,7 +130,7 @@ mysqli_close($conn);
    
   </div>
   <div id="menu2" class="tab-pane fade">
-    <h3>Fall Session</h3>
+    <h3>Summer Session</h3>
     <?php 
      if($semester3){
       ?>

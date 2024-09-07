@@ -40,7 +40,7 @@
         <h4>Recent Awards</h4>
         <p>
         - <b>National Grand Champion</b>, Intermediate Level ("Fish"), KAR National Final in Las Vegas, 2024<br/>
-        - <b>9 Grand Champions </b>, at KAR National Finals, 2024<br/>
+        - <b>9 National Champions </b>, at KAR National Finals, 2024<br/>
         - <b>Studio of the Year</b> 2024 KAR National Final Las Vegas<br/>
         - <b>Intermediate Studio of Excellence</b> 2024 KAR National Final Las Vegas<br/>
         - <b>World final third place in large ensembles, character dance</b> 2024 YAGP World Final<br/>

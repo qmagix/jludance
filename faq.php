@@ -139,20 +139,21 @@ Every refund also iccurs a $50 processing fee. Furthermore, registration fee is 
     <td>Nov 25 - Dec 1</td>
   </tr>
   <tr>
-    <td>Winter Recess</td>
-    <td>Dec 23 - Jan 6</td>
-  </tr>
-  <tr>
-    <td>Spring Recess</td>
-    <td>Apr 14 - Apr 20</td>
-  </tr>
-    <td>Last day of Spring Semester</td>
-    <td>June 7th</td>
-  </tr>
-  <tr>
     <td>Last day of Fall Semester</td>
     <td>December 22 </td>
   </tr>
+  <tr>
+    <td>Winter Recess</td>
+    <td>Dec 23 - Jan 4</td>
+  </tr>
+  <tr>
+    <td>Spring Recess</td>
+    <td>Apr 7 - Apr 13</td>
+  </tr>
+    <td>Last day of Spring Semester</td>
+    <td>June 8th</td>
+  </tr>
+
 </table>
 <br>  <br>
 

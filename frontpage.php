@@ -38,7 +38,16 @@
     <div class="col-sm-12">
       <div class="well">
         <h4>Recent Awards</h4>
-       <p>
+        <p>
+        - <b>National Grand Champion</b>, Intermediate Level ("Fish"), KAR National Final in Las Vegas, 2024<br/>
+        - <b>9 Grand Champions </b>, at KAR National Finals, 2024<br/>
+        - <b>Studio of the Year</b> 2024 KAR National Final Las Vegas<br/>
+        - <b>Intermediate Studio of Excellence</b> 2024 KAR National Final Las Vegas<br/>
+        - <b>World final third place in large ensembles, character dance</b> 2024 YAGP World Final<br/>
+        - <b>World final third place in large ensembles, contemporary</b> 2024 YAGP World Final<br/>
+        - <b>YAGP Outstanding School</b> 2024 YAGP Semi-Final San Francisco<br/>
+        - <b>Hope Award</b> 2024 YAGP Semi-Final San Francisco<br/>
+       <br>......<br>
        - <b>National Grand Champion</b>, Primary Large Group + Line ("Joy of Paper Cutting"), KAR National Final in Las Vegas, 2021<br/>
             - <b>National Champion</b>, Top Secondary Line 12-14 ("Beautiful Days"),  KAR National Final in Las Vegas, 2021<br/>
             - <b>National Champion</b>, Top Novice Large Group 6-8 ("5678"), KAR National Final in Las Vegas, 2021<br/>
@@ -131,8 +140,8 @@
       </div>
     </div>
   </div>
-  <h2>2023-2024 Class Schedule</h2>
-  <h4>Spring 1/8-6/9 (Spring Break 4/15-21), Summer 6/10-8/11. Fall 8/16-12/22 (Thanksgiving Recess 11/25-12/1), </h4>
+  <h2>2024-2025 Class Schedule</h2>
+  <h4>Fall 8/16-12/22 (Thanksgiving Recess 11/25-12/1), Spring 1/5-6/8 (Spring Break 4/7-13), Summer 6/9-8/10. </h4>
   (Updated details on <a href="http://admin.jludance.org/signup">signup</a> pages)
 <?php include('schedule.php');?>
   <div class="row">

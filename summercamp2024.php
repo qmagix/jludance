@@ -30,23 +30,22 @@ There is also a free dance team audition at the end of each camp for those who a
 <p>
 Summer Intesitive/Camps:
 <ol>
-  <li>Summer Intensive 1, 6/6-6/15 (9-4pm) - Recommended for dancers age 15 and up, advanced dancers (T2 T3 etc)</li>
-  <li>Summer Intensive 2, 6/9-6/20 (9-4pm)  - Recommended for dancers age 13 and up advanced dancers (T3 T2 etc)</li>
-  <li>Summer Intensive 3, 6/23-7/4 (9-4pm), weekdays - Recommended for dancers age 11 and up, intermediate to advanced dancers (T5 etc)</li>
-  <li>Summer Intensive 5, 6/9-6/20 (9-4pm), weekdays  - Recommended for dancers age 10 and up, intermediate level dancers (T7 T9 etc)</li>
-  <li>Summer Intensive 6, 6/9-6/20 (9-4pm), weekdays  - Recommended for dancers age 9 and up, intermediate Level dancers (T11 etc)</li>
-  <li>Summer Intensive 7, 6/23-7/4 (9-4pm), weekdays  - Recommended for dancers age 8 and up, beginner to intermediate level dancers (T12 etc)</li>
-  <li>Summer Intensive 8, 6/23-7/4 (9-4pm), weekdays  - Recommended for dancers age 6-8, beginner to intermediate level dancers (TA TB etc)</li>
-  <li>Summer Intensive 9, 7/14-7/25 (9-4pm), weekdays  - Recommended for dancers age 6-8, beginner to intermediate level dancers (TA TB etc)</li>
-  <li>Summer Intensive 10, 7/14-7/25 (9-4pm), weekdays  - Recommended for mini dancers age 5-7 or existing level 2-4 dancers</li>
-  <li>Summer Advanced Ballet and Contemporary Intensive, 7/14-7/25 (9-4pm), weekdays - Ballet, Character, and Contemporary, Dancers age 11 and up [Special audition/approval] </li>
-  <li>Summer Jazz and Ballet Intensive, 7/14-7/25 (9-4pm), Weekdays - Recommended for dancers age 9 and up</li>
-  <li>Summer Intermediate Ballet and Contemporary Intensive, 7/28-8/8 (9-4pm), weekdays - Ballet, Character, and Contemporary, Dancers age 9 and up, requires audition </li>
-  <li>Summer Hiphop, Tumbling and Floorwork Intensive, 7/28-8/8 (9-4pm), - Recommended for dancers age 9 and up</li>
-  <li>Summer Ballet Beginner Intensive, 7/28-8/8 (9-4), weekdays - Dancers age 7-9 </li>
-  <li>Special Intensive X, 7/28-8/8, for 2025-2026 Intermediate and Elite level dancers </li>
+  <li>Summer Intensive 1, 6/10-6/16 (9-4pm) - Recommended for dancers age 15 and up or existing Team 2 dancers</li>
+  <li>Summer Intensive 2, 6/14-6/23 (1-8pm)  - Recommended for dancers age 13 and up or existing Team 3 dancers</li>
+  <li>Summer Intensive 3, 6/12-6/21 (9-4pm) - Recommended for dancers age 12 and up or existing Team 5 dancers</li>
+  <li>Summer Intensive 5, 6/17-6/28 (9-4pm), weekdays  - Recommended for dancers age 10 and up or existing Team 5 and 7 dancers</li>
+  <li>Summer Intensive 6, 7/8-7/19 (9-4pm), weekdays  - Recommended for dancers age 6 and up or existing team 6 dancers</li>
+  <li>Summer Intensive 7, 7/8-7/19 (9-4pm), weekdays  - Recommended for dancers age 10 and up or existing Team 7 and 9 dancers</li>
+  <li>Summer Intensive 8 (hiphop), 7/8-7/19 (9-4pm), weekdays  - Recommended for dancers age 9 and up or existing Team 8 and Zen dancers</li>
+  <li>Summer Intensive 9, 7/22-8/2 (9-4pm), weekdays  - Recommended for dancers age 8 and up or existing Team 9 and 11 dancers</li>
+  <li>Summer Intensive 10, 7/22-8/2 (9-4pm), weekdays  - Recommended for mini dancers age 5-6 or existing level 2-4 dancers</li>
+  <li>Summer Intensive 11, 7/22-8/2 (9-4pm), weekdays  - Recommended for dancers age 7 and up or existing team 12 dancers</li>
+  <li>Summer Intensive 12(KPOP, CPOP, Zen), 7/22-8/2 (9-4pm), weekdays - For KPOP, CPOP loving dancers age 11 and up or existing Zen/8 dancers</li>
+  <li>Summer Intensive X1, 7/22-8/2 (9-4pm), Weekdays [Special audition/approval] - Special Ballet and Character Dance</li>
+  <li>Summer Intensive X2, 8/5-8/9 (9-4pm), [Special audition/approval] - Special Chinese Classic dance technique and Contemporary Dance camp</li>
 </ol>
 </p>
+
 
 <!-- * (if you are not sure about each level requirement -->
 <!-- Pre-team/regular camp times and appropriate level/age groups are as follows: -->
@@ -124,8 +123,8 @@ Summer Intesitive/Camps:
   <tbody>
     <tr>
       <th scope="row">10 day onsite camp</th>
-      <td>$1750</td>
       <td>$1500</td>
+      <td>$1400</td>
 
     </tr>
   </tbody>

@@ -24,8 +24,9 @@ with rich routines to be featured in live theater/outdoor performance and maybe 
 </p>
 <p>Each camp has a showcase time open to parents: the last Friday afternoon of each camp, parents are invited
 to come to enjoy what their kids have learned and advanced through their hardwork.
-There is also a free dance team audition at the end of each camp for those who are wishing to join our 2024-2025 competitive dance team.
+There is also a free dance team audition at the end of each camp for those who are wishing to join our 2025-2026 competitive dance team.
 </p>
+
 
 <p>
 Summer Intesitive/Camps:

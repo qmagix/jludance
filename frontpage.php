@@ -140,8 +140,8 @@
       </div>
     </div>
   </div>
-  <h2>2024-2025 Class Schedule</h2>
-  <h4>Fall 8/16-12/22 (Thanksgiving Recess 11/25-12/1), Spring 1/5-6/8 (Spring Break 4/14-20), Summer 6/9-8/10. </h4>
+  <h2>2025-2026 Class Schedule</h2>
+  <h4>Spring 1/5-6/8 (Spring Break 4/14-20), Summer 6/9-8/10, Fall 8/11-12/21 (Thanksgiving Recess 11/24-11/30),  </h4>
   (Updated details on <a href="http://admin.jludance.org/signup">signup</a> pages)
 <?php include('schedule.php');?>
   <div class="row">

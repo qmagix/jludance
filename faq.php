@@ -136,11 +136,11 @@ Every refund also iccurs a $50 processing fee. Furthermore, registration fee is 
 <table>
   <tr>
     <td>Thanksgiving Recess</td>
-    <td>Nov 25 - Dec 1</td>
+    <td>Nov 24 - Nov 30</td>
   </tr>
   <tr>
     <td>Last day of Fall Semester</td>
-    <td>December 22 </td>
+    <td>December 21 </td>
   </tr>
   <tr>
     <td>Winter Recess</td>

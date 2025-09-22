@@ -2,7 +2,7 @@
 function gen_active_menu($pid){
   ?>
   <li<?php echo $pid=="home"? ' class="active"':''?>><a href="index.php">Home</a></li>
-  <li<?php echo $pid=="signup"? ' class="active"':''?>><a href="https://admin.jludance.org/signup">Signup</a></li>
+  <li<?php echo $pid=="signup"? ' class="active"':''?>><a href="https://admin.jludance.org/familysignin">Signup/Signin</a></li>
   <li<?php echo $pid=="schedule"? ' class="active"':''?>><a href="index.php#schedule">Schedule</a></li>
   <!-- <li<?php echo $pid=="recital"? ' class="active"':''?>><a href="index.php?a=recital">Recital</a></li> -->
   <!-- <li><a href="https://admin.jludance.org/recitals/2024">2024 Showcase</a></li> -->

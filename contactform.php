@@ -19,6 +19,11 @@
           <label for="message" class="form-label">Message</label>
           <textarea class="form-control" id="message" name="message" rows="3" required></textarea>
         </div>
+        <!-- <div class="col-md-6 mb-3">
+          <label for="spam-check" class="form-label">Anti-Spam Check (5+6=?)</label>
+          <input type="text" class="form-control" id="spam-check" name="spam-check" required>
+        </div> -->
+        <input type="hidden" id="spam-check" name="spam-check" value="11">
         <div class="col-md-12 mb-3">
         <button type="submit" class="btn btn-primary">Submit</button>
         </div>
@@ -29,6 +34,10 @@
   $(document).ready(function() {
     $("#contact-form").on("submit", function(event) {
       event.preventDefault();
+      if ($("#spam-check").val().trim() !== "11") {
+        $("#response-message").html("Error: Incorrect answer to anti-spam question.").fadeIn();
+        return;
+      }
 
       $.ajax({
         url: "contact.php",

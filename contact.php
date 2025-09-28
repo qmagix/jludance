@@ -31,6 +31,10 @@ function send_email($to, $subject, $message) {
 }
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
+  if($_POST["spam-check"] != "11") {
+    echo "Error: Incorrect answer to anti-spam question.";
+    exit;
+  }
   $name = $_POST["name"];
   $email = $_POST["email"];
   $phone = $_POST["phone"];

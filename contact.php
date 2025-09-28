@@ -6,7 +6,7 @@ require 'vendor/autoload.php';
 use Mailgun\Mailgun;
 use Dotenv\Dotenv;
 
-$dotenv = Dotenv::createImmutable(__DIR__);
+$dotenv = Dotenv::createImmutable(dirname(__DIR__));
 $dotenv->load();
 
 

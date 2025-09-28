@@ -143,7 +143,9 @@
   <h2>2025-2026 Class Schedule</h2>
   <h4> Fall 8/15-12/21 (Thanksgiving Recess 11/24-11/30), Spring 1/5-6/8 (Spring Break 4/14-20), Summer 6/9-8/10 </h4>
   (Updated details on <a href="http://admin.jludance.org/signup">signup</a> pages)
-<?php include('schedule.php');?>
+<?php 
+//include('schedule.php');
+?>
   <div class="row">
     <div class="col-sm-6">
      <p><a href="http://admin.jludance.org/signup" class="btn btn-info btn-lg active" role="button">Signup Kids' Class</a></p>

@@ -5,15 +5,15 @@
       <h1> Welcome to Our Christmas Showcase/Annual Recitals </h1>
 
       <div>
-        Dates: 2022-12-16 - 2021-12-18<br>
+        Dates: 2025-12-20 - 2021-12-21<br>
         Venue: Louis Mayer Theater, Santa Clara University, 500 El Camino Real, Santa Clara, CA 95053<br>
       </div>
 |
-      <a href="https://admin.jludance.org/recitalsessions/21/repertoire"> Showcase 1 </a> |
-      <a href="https://admin.jludance.org/recitalsessions/22/repertoire"> Showcase 2 </a> |
-      <a href="https://admin.jludance.org/recitalsessions/23/repertoire"> Showcase 3 </a> |
-      <a href="https://admin.jludance.org/recitalsessions/24/repertoire"> Showcase 4 </a> |
-      <a href="https://admin.jludance.org/recitalsessions/25/repertoire"> Showcase 5 (Gala) </a>
+      <!-- <a href="https://admin.jludance.org/recitalsessions/21/repertoire"> Showcase 1 </a> | -->
+      <!-- <a href="https://admin.jludance.org/recitalsessions/22/repertoire"> Showcase 2 </a> | -->
+      <!-- <a href="https://admin.jludance.org/recitalsessions/23/repertoire"> Showcase 3 </a> | -->
+      <!-- <a href="https://admin.jludance.org/recitalsessions/24/repertoire"> Showcase 4 </a> | -->
+      <!-- <a href="https://admin.jludance.org/recitalsessions/25/repertoire"> Showcase 5 (Gala) </a> -->
     </div>
 
       <!-- -Feedback Appreciated-<br>
@@ -36,7 +36,7 @@
 
 <div class="row text-center">
 <div class="col-lg-12 margin-tb">
-<h2> Some Preview </h2>
+<h2> Some 2021 Classroom Previews</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hwXO6z9hwuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/20aMZvNIWiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jcpa3H2Gbvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -47,7 +47,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/owVXrue93pM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <div class="col-lg-12 margin-tb">
-<h2> Some 2019 Preview </h2>
+<h2> Some 2019 Classroom Previews</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HpHSqMjN-zo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HmtvZbeycX4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hkmGX8X2ZZE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

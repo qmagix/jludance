@@ -39,11 +39,11 @@ Summer Intesitive/Camps:
         <li><strong>Summer Intensive 2, 7/6 - 7/17</strong> - Recommended for dancers age 5 to 8, including but not limit to existing team C members</li>
         <li><strong>Summer Intensive 3, 7/6 - 7/17</strong> - Recommended for dancers age 7 to 10, including but not limit to existing team A members</li>
         <li><strong>Summer Intensive 4, 7/6 - 7/17</strong> - Recommended for dancers age 9 to 12, including but not limit to existing team 11 members</li>
-        <li><strong>Summer Intensive 5, 7/6 - 7/17</strong> - Recommended for dancers age 12 to 15, including but not limit to existing team 5 members</li>
+        <li><strong>Summer Intensive 5, 6/8 - 6/19</strong> - Recommended for dancers age 12 to 15, including but not limit to existing team 5 members</li>
         <li><strong>Summer Intensive 6, 7/20 - 7/31</strong> - Recommended for dancers age 6 to 9, including but not limit to existing team B members</li>
         <li><strong>Summer Intensive 7, 7/20 - 7/31</strong> - Recommended for dancers age 8 to 11, including but not limit to existing team 12 members</li>
         <li><strong>Summer Intensive 8, 7/20 - 7/31</strong> - Recommended for dancers age 11 to 14, including but not limit to existing team 7/9 members</li>
-        <li><strong>Summer Intensive 9, 7/20 - 7/31</strong> - Recommended for dancers age 13 to 17, including but not limit to existing team 3 members</li>
+        <li><strong>Summer Intensive 9, 6/8 - 6/19</strong> - Recommended for dancers age 13 to 17, including but not limit to existing team 3 members</li>
         <li><strong>Special Ballet Variation, Character and Contemporary Dance Camp, 8/3-14</strong> - Recommended for advanced dancers age 8-17, will divide into appropriate groups by teachers on the first day of the camp, requires extra audition or approval.</li>
         <li><strong>Special Musical Theater, Jazz and Hiphop Camp, 8/3-14</strong> - Recommended for dancers age 8-17, will divide into appropriate groups by teachers on the first day of the camp.</li>
     </ul>

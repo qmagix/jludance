@@ -120,7 +120,7 @@ dance style is not very distinguished, more of a "happy and lovely" dance style.
 <li id="performance">Any penalty for quiting a registered class?</li>
 We understand all families have various things happening that may not be totally under their control.
 When presented with a reasonable reason to quit a class, we will refund partial tuition.
-All prior classes in the session will be counted as drop-in ($32/hr).
+All prior classes in the session will be counted as drop-in ($32/hr adult, $35/hr child).
 No credit for missed classes prior to refund request.
 Every refund also iccurs a $50 processing fee. Furthermore, registration fee is not refundable.
 

@@ -135,25 +135,25 @@ Every refund also iccurs a $50 processing fee. Furthermore, registration fee is 
 2025-2026 Jun Lu Performing Arts School Holiday Calendar
 <table>
   <tr>
-    <td>Thanksgiving Recess</td>
-    <td>Nov 24 - Nov 30</td>
-  </tr>
-  <tr>
-    <td>Last day of Fall Semester</td>
-    <td>December 21 </td>
-  </tr>
-  <tr>
-    <td>Winter Recess</td>
-    <td>Dec 22 - Jan 3</td>
-  </tr>
-  <tr>
     <td>Spring Recess</td>
     <td>Apr 13 - Apr 19</td>
   </tr>
+  <tr>
     <td>Last day of Spring Semester</td>
-    <td>June 8th</td>
+    <td>June 7th</td>
   </tr>
-
+  <tr>
+    <td>Thanksgiving Recess</td>
+    <td>Nov 23 - Nov 29</td>
+  </tr>
+  <tr>
+    <td>Last day of Fall Semester</td>
+    <td>Dec 20th</td>
+  </tr>
+  <tr>
+    <td>Winter Recess</td>
+    <td>Dec 21 - Jan 2</td>
+  </tr>
 </table>
 <br>  <br>
 

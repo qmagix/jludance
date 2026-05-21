@@ -141,7 +141,7 @@
     </div>
   </div>
   <h2>2025-2026 Class Schedule</h2>
-  <h4> Spring 1/4-6/7 (Spring Break 4/13-19), Summer 6/8-8/10, Fall 8/15-12/21 (Thanksgiving Recess 11/24-11/30) </h4>
+  <h4> Spring 1/4-6/7 (Spring Break 4/13-19), Summer 6/8-8/12, Fall 8/14-12/20 (Thanksgiving Recess 11/23-11/29) </h4>
 <?php 
 //include('schedule.php');
 ?>
